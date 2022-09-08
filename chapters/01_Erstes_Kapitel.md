@@ -533,7 +533,7 @@ Das Einzige, was sonst noch durch das ewige Stoßen des Tarantasses gelitten
 hatte, war die Munition. Als ich die beiden Kisten öffnete, bot sich meinen
 Augen ein entsetzlicher Anblick. Einige Hundert Papphülsen der Schrotpatronen
 waren zerrieben, und die Blechschachteln, in denen sie verpackt gewesen, wie
-Papier zusammen— geknittert. Daß keine der vielen scharfen Ecken auf die Idee
+Papier zusammengeknittert. Daß keine der vielen scharfen Ecken auf die Idee
 gekommen, gegen ein Zündhütchen zu stoßen und dadurch eine Explosion
 hervorzubringen, erschien mir wie ein Wunder. Dann hätte meine Reise einen
 schnellern Verlauf und ein anderes Ziel bekommen. Es war das erste mal auf
@@ -622,6 +622,11 @@ gab.
 
 :::
 
+:::: align-center
+****
+::::
+
+
 ### **Anmerkungen** {.break-before .unnumbered}
 
 [^1001]: [*Tarantas*: vergleiche [Tarantass](https://en.wikipedia.org/wiki/Tarantass)]{.footnote}
@@ -668,7 +673,7 @@ gab.
 
 [^1022]: [*Namangan*: vergleiche [Namangan](https://de.wikipedia.org/wiki/Namangan)]{.footnote}
 
-[^1023]: [*Margelan*: vergleiche [Margʻilon](https://de.wikipedia.org/wiki/Marg%CA%BBilon]{.footnote}
+[^1023]: [*Margelan*: vergleiche [Margʻilon](https://de.wikipedia.org/wiki/Marg%CA%BBilon)]{.footnote}
 
 
 
