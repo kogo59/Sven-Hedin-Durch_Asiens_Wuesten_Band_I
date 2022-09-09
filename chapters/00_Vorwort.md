@@ -307,14 +307,14 @@ hergestellt.</small>
 * [Auf dem Ak-baital-Passe](ch006.xhtml#b067)
 * [Nordfront der Festung Pamirskij Post](ch006.xhtml#b068) (Separatbild)
 * [Kirgisen in Togolak-matik](ch006.xhtml#b069)
-* Der Verfasser inmitten russischer Offiziere von Pamirskij Post. (Separatbild)
-* Tadschiks aus Roschan
-* Kirgisen-Bek aus dem Dorfe Murghab
-* Kirgisenfrau mit Kindern aus dem Dorfe Murghab
-* Landschaft nordwestlich von Pamirskij Post
-* Eins unserer Lager in der Uebergangszone in Pamir
-* Der Kasernhof von Pamirskij Post
-* Dschigiten-Zelte außerhalb von Pamirskij Post
+* [Der Verfasser inmitten russischer Offiziere von Pamirskij Post](ch007.xhtml#b072) (Separatbild)
+* [Tadschiks aus Roschan](ch007.xhtml#b073)
+* [Kirgisen-Bek aus dem Dorfe Murghab](ch007.xhtml#b074)
+* [Kirgisenfrau mit Kindern aus dem Dorfe Murghab](ch007.xhtml#b075)
+* [Landschaft nordwestlich von Pamirskij Post](ch007.xhtml#b076)
+* [Eins unserer Lager in der Uebergangszone in Pamir](ch007.xhtml#b081)
+* [Der Kasernhof von Pamirskij Post](ch007.xhtml#b084)
+* [Dschigiten-Zelte außerhalb von Pamirskij Post](ch007.xhtml#b091)
 * Gruppe aus Pamirskij Post
 * Mus-tag-ata von Norden
 * Kirgisen-Häuptling Togdasin Bek
