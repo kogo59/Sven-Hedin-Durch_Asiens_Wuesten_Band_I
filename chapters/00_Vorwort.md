@@ -322,14 +322,14 @@ hergestellt.</small>
 * [Mus-tag-ata von Westen](ch008.xhtml#b111)
 * [Meine Karawane im Thale des Ges-darja](ch008.xhtml#b115)
 * [Brücke über den Ges-darja](ch008.xhtml#b117)
-* Stadtthor in Kaschgar
-* Bazarstraße
-* Im muhammedanischen Bazar
-* Chang, Dao Tai in Kaschgar
-* Im Konsulatsgarten zu Kaschgar
+* [Stadtthor in Kaschgar](ch009.xhtml#b121)
+* [Bazarstraße](ch009.xhtml#b122)
+* [Im muhammedanischen Bazar](ch009.xhtml#b123)
+* [Chang, Dao Tai in Kaschgar](ch009.xhtml#b125)
+* [Im Konsulatsgarten zu Kaschgar](ch009.xhtml#b133)
 * Kirgise aus dem östlichen Pamir (Kara-jilga)
 * Kirgisisches Mädchen
-* Kirgisischer Aul Kara--jilga im Süden des Mus-tag-ata
+* Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata
 * Kirgisische Kinder
 * Baiga der Kirgisen
 * Lager in Janikke am Ostufer des Kleinen Kara-kul
