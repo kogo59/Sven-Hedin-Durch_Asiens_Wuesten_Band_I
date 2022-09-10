@@ -315,13 +315,13 @@ hergestellt.</small>
 * [Eins unserer Lager in der Uebergangszone in Pamir](ch007.xhtml#b081)
 * [Der Kasernhof von Pamirskij Post](ch007.xhtml#b084)
 * [Dschigiten-Zelte außerhalb von Pamirskij Post](ch007.xhtml#b091)
-* Gruppe aus Pamirskij Post
-* Mus-tag-ata von Norden
-* Kirgisen-Häuptling Togdasin Bek
-* Der obere Bassik-kul (Separatbild)
-* Mus-tag-ata von Westen
-* Meine Karawane im Thale des Ges-darja
-* Brücke über den Ges-darja
+* [Gruppe aus Pamirskij Post](ch008.xhtml#b097)
+* [Mus-tag-ata von Norden](ch008.xhtml#b103)
+* [Kirgisen-Häuptling Togdasin Bek](ch008.xhtml#b104)
+* [Der obere Bassik-kul](ch008.xhtml#b105) (Separatbild)
+* [Mus-tag-ata von Westen](ch008.xhtml#b111)
+* [Meine Karawane im Thale des Ges-darja](ch008.xhtml#b115)
+* [Brücke über den Ges-darja](ch008.xhtml#b117)
 * Stadtthor in Kaschgar
 * Bazarstraße
 * Im muhammedanischen Bazar
