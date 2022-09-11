@@ -327,11 +327,11 @@ hergestellt.</small>
 * [Im muhammedanischen Bazar](ch009.xhtml#b123)
 * [Chang, Dao Tai in Kaschgar](ch009.xhtml#b125)
 * [Im Konsulatsgarten zu Kaschgar](ch009.xhtml#b133)
-* Kirgise aus dem östlichen Pamir (Kara-jilga)
-* Kirgisisches Mädchen
-* Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata
-* Kirgisische Kinder
-* Baiga der Kirgisen
+* [Kirgise aus dem östlichen Pamir (Kara-jilga)](ch010.xhtml#b141)
+* [Kirgisisches Mädchen](ch010.xhtml#b145)
+* [Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata](ch010.xhtml#b150)
+* [Kirgisische Kinder](ch010.xhtml#b159)
+* [Baiga der Kirgisen](ch010.xhtml#b161)
 * Lager in Janikke am Ostufer des Kleinen Kara-kul
 * Austritt des Ike-bel-su aus den Bergen
 * Junge Kirgisenfrau
