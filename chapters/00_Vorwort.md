@@ -332,11 +332,11 @@ hergestellt.</small>
 * [Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata](ch010.xhtml#b150)
 * [Kirgisische Kinder](ch010.xhtml#b159)
 * [Baiga der Kirgisen](ch010.xhtml#b161)
-* Lager in Janikke am Ostufer des Kleinen Kara-kul
-* Austritt des Ike-bel-su aus den Bergen
-* Junge Kirgisenfrau
-* Unterer Bassik-kul und Mus-tag-Berge
-* Mus-tag-ata vom Bassik-kul aus
+* [Lager in Janikke am Ostufer des Kleinen Kara-kul](ch010.xhtml#b169)
+* [Austritt des Ike-bel-su aus den Bergen](ch010.xhtml#b173)
+* [Junge Kirgisenfrau](ch010.xhtml#b178)
+* [Unterer Bassik-kul und Mus-tag-Berge](ch010.xhtml#b181)
+* [Mus-tag-ata vom Bassik-kul aus](ch010.xhtml#b183)
 * Großer und Kleiner Gorumdeh-Gletscher
 * Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus
 * Austritt des Jam-bulak-Gletschers aus seinem Felsenthore
@@ -355,7 +355,7 @@ hergestellt.</small>
 ****
 ::::
 
-* Das Mus-tag-ata Massiv
+* [Das Mus-tag-ata Massiv](ch010.xhtml#b186)
 * Der Tschal-tumak-Gletscher des Mus-tag-ata
 * Der Tergen-bulak-Gletscher des Mus-tag-ata
 * Pamir. Maßstab 1: 1&nbsp;250&nbsp;000.
