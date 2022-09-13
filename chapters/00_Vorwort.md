@@ -337,11 +337,11 @@ hergestellt.</small>
 * [Junge Kirgisenfrau](ch010.xhtml#b178)
 * [Unterer Bassik-kul und Mus-tag-Berge](ch010.xhtml#b181)
 * [Mus-tag-ata vom Bassik-kul aus](ch010.xhtml#b183)
-* Großer und Kleiner Gorumdeh-Gletscher
-* Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus
-* Austritt des Jam-bulak-Gletschers aus seinem Felsenthore
-* Aussicht vom Jam-bulak-Gletscher nach Norden
-* Die südliche (linke) Felswand des Jam-bulak-Gletschers
+* [Großer und Kleiner Gorumdeh-Gletscher](ch011.xhtml#b189)
+* [Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus](ch011.xhtml#b191)
+* [Austritt des Jam-bulak-Gletschers aus seinem Felsenthore](ch011.xhtml#b193)
+* [Aussicht vom Jam-bulak-Gletscher nach Norden](ch011.xhtml#b195)
+* [Die südliche (linke) Felswand des Jam-bulak-Gletschers](ch011.xhtml#b197)
 * Die höchste Spitze des Mus-tag-ata, von Westen gesehen  (Separatbild)
 * Firnbecken des Jam-bulak-Gletscher
 * Togda Bai Bek (Separatbild)
