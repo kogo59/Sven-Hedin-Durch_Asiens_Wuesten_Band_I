@@ -563,7 +563,7 @@ dichten Nebel, der die Gegend verhüllte, tauchten dann und wann lange
 Kamelkarawanen auf.
 
 :::: {.wrap-100  }
-![Atturlik-masar, muhammedanisches Heiligengrab in Taschkent.](Durch_Asiens_Wuesten_I_024.jpg "Atturlik-masar, muhammedanisches Heiligengrab in Taschkent."){#b020}
+![Atturlik-masar, muhammedanisches Heiligengrab in Taschkent.](Durch_Asiens_Wuesten_I_024.jpg "Atturlik-masar, muhammedanisches Heiligengrab in Taschkent."){#b024}
 ::::
 
 Das Dorf *Biskent* ist für die neuere Geschichte Centralasiens von gewissem

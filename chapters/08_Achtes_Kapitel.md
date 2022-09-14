@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 **A**m 26. Juli ritten wir nach den nördlichen Abhängen des Mustag-ata hinauf und
 überschritten den gewaltigen Moränenkamm auf der linken Seite des Ike-bel-su.
 

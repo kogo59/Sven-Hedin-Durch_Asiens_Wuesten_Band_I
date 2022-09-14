@@ -282,7 +282,7 @@ hergestellt.</small>
 * [Tarantas mit Kameltroika](ch005.xhtml#b016) (Separatbild)
 * [Der Sir-darja bei Kasalinsk](ch005.xhtml#b017)
 * [Taschkent](ch005.xhtml#b020) (Separatbild)
-* [Atturlik-masar, muhammedanisches Heiligengrab in Taschkent](ch005.xhtml#b025)
+* [Atturlik-masar, muhammedanisches Heiligengrab in Taschkent](ch005.xhtml#b024)
 * [Muhammedanischer Märchenerzähler in Taschkent](ch005.xhtml#b026) (Separatbild)
 * [Vor dem Bazar in Utsch-kurgan](ch006.xhtml#b032)
 * [Der Verfasser in Winterkleidung](ch006.xhtml#b032) Photographie aus Taschkent (Separatbild)
@@ -332,21 +332,65 @@ hergestellt.</small>
 * [Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata](ch010.xhtml#b150)
 * [Kirgisische Kinder](ch010.xhtml#b159)
 * [Baiga der Kirgisen](ch010.xhtml#b161)
-* [Lager in Janikke am Ostufer des Kleinen Kara-kul](ch010.xhtml#b169)
-* [Austritt des Ike-bel-su aus den Bergen](ch010.xhtml#b173)
-* [Junge Kirgisenfrau](ch010.xhtml#b178)
-* [Unterer Bassik-kul und Mus-tag-Berge](ch010.xhtml#b181)
-* [Mus-tag-ata vom Bassik-kul aus](ch010.xhtml#b183)
-* [Großer und Kleiner Gorumdeh-Gletscher](ch011.xhtml#b189)
-* [Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus](ch011.xhtml#b191)
-* [Austritt des Jam-bulak-Gletschers aus seinem Felsenthore](ch011.xhtml#b193)
-* [Aussicht vom Jam-bulak-Gletscher nach Norden](ch011.xhtml#b195)
-* [Die südliche (linke) Felswand des Jam-bulak-Gletschers](ch011.xhtml#b197)
-* Die höchste Spitze des Mus-tag-ata, von Westen gesehen  (Separatbild)
-* Firnbecken des Jam-bulak-Gletscher
-* Togda Bai Bek (Separatbild)
-* Tschal-tumak-Gletscher
-* Tergen-bulak-Gletscher beim Zusammenfluß seiner drei Arme
+* [Lager in Janikke am Ostufer des Kleinen Kara-kul](ch011.xhtml#b169)
+* [Austritt des Ike-bel-su aus den Bergen](ch011.xhtml#b173)
+* [Junge Kirgisenfrau](ch011.xhtml#b178)
+* [Unterer Bassik-kul und Mus-tag-Berge](ch011.xhtml#b181)
+* [Mus-tag-ata vom Bassik-kul aus](ch011.xhtml#b183)
+* [Großer und Kleiner Gorumdeh-Gletscher](ch012.xhtml#b189)
+* [Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus](ch012.xhtml#b191)
+* [Austritt des Jam-bulak-Gletschers aus seinem Felsenthore](ch012.xhtml#b193)
+* [Aussicht vom Jam-bulak-Gletscher nach Norden](ch012.xhtml#b195)
+* [Die südliche (linke) Felswand des Jam-bulak-Gletschers](ch012.xhtml#b197)
+* [Die höchste Spitze des Mus-tag-ata, von Westen gesehen](ch013.xhtml#b200)  (Separatbild)
+* [Firnbecken des Jam-bulak-Gletscher](ch013.xhtml#b203)
+* [Togda Bai Bek](ch013.xhtml#b208) (Separatbild)
+* [Tschal-tumak-Gletscher](ch013.xhtml#b210)
+* [Tergen-bulak-Gletscher beim Zusammenfluß seiner drei Arme](ch013.xhtml#b215)
+* [Rast während der Besteigung des Mus-tag-ata](ch013.xhtml#b217)
+* Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata (Separatbild)
+* Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere
+* Mus-tag-ata und Jam-bulak-Gletscher von Westen.
+* Kirgisenlager im Sarik-Rol-Thal
+* Westliches Ende des Jeschil-Elt
+* Kara-korum, das Südende des Mus-tag-ata
+* Stapellauf meines Bootes auf dem Kleinen Kara-kul
+* Gefährliche Fahrt. Von Ljungdahl (Separatbild)
+* Kirgisisches Mädchen aus Tur-bulung
+* Kirgisenfrauen (Separatbild)
+* Kirgisisches Mädchen aus Sarik-kol
+* Generalkonsul Petrowskij und der Verfasser. Photographie aus Kaschgar
+* Kaufmann aus Ostturkestan
+* Meine Arba im Walde des Kaschgar-darja
+* Muhammedanischer Bazar (Separatbild)
+* Derwisch aus Ositurkestan
+* Kamel im Winterkleid mit Packsatteln
+* Kopf eines männlichen Kamel
+* Stürmischer Marsch in der Wüste Takla-makan
+* Aufziehender Sandstum
+* Ein Paradies am Masar-tag. Von Hallström.  (Separatbild)
+* Die Karawane auf dem Marsche durch das Dünenmeer
+* In der Heimat der Grabesstille. Von Ljungdahl.  (Separatbild)
+* Kein Wasser. Chromotafel nach Aquarell von Ljungdahl.  (Separatbild)
+* Die ersten zwei sterbenden Kamele
+* Meine Karawane im Wüstensturm. Von Ljungdahl.  (Separatbild)
+* Das Todeslager, 1. Mai 1895. Von Ljungdahl.  (Separatbild)
+* Das letzte Lager in der Wüste
+* Abschied von meinen sterbenden Gefährten. Von Ljungdahl. (Separatbild)
+* Der erste Tamariske
+* Verzweifeltes Suchen nach Wasser. Von Ljungdahl. (Separatbild)
+* Rückkehr mit dem rettenden Wasser (Separatbild)
+* Labung des verschmachtenden Kasim. Von Ljungdahl. .. (Separatbild)
+* Im Schutze des Uferwaldes des Chotan-darja. Von Hallström.
+* Sandsturm im Bette des Chotan-darja. Von Adlercreutz.  (Separatbild)
+* Aksakal Muhammed Emin
+* Freitagsmoschee in Ak-su
+* Der Ullug-art-Paß vom Aul Ullug-art aus
+* Kirgisen-Aul im Sarik-kol-Thalliu.
+* Tadschik-Aul in Tagdumbasch-Pamir
+* Mi Darin, Kommandant von Tasch-kurgan (Separatbild)
+* Hindu-kusch beim Uprang-Paß
+* Tschackmakden-kul, von Westen gesehn
 
 
 
@@ -355,9 +399,9 @@ hergestellt.</small>
 ****
 ::::
 
-* [Das Mus-tag-ata Massiv](ch010.xhtml#b186)
-* Der Tschal-tumak-Gletscher des Mus-tag-ata
-* Der Tergen-bulak-Gletscher des Mus-tag-ata
+* [Das Mus-tag-ata Massiv](ch011.xhtml#b186)
+* [Der Tschal-tumak-Gletscher des Mus-tag-ata](ch013.xhtml#b209)
+* [Der Tergen-bulak-Gletscher des Mus-tag-ata](ch013.xhtml#b216)
 * Pamir. Maßstab 1: 1&nbsp;250&nbsp;000.
 
 :::: align-center
