@@ -348,9 +348,9 @@ hergestellt.</small>
 * [Tschal-tumak-Gletscher](ch013.xhtml#b210)
 * [Tergen-bulak-Gletscher beim Zusammenfluß seiner drei Arme](ch013.xhtml#b215)
 * [Rast während der Besteigung des Mus-tag-ata](ch013.xhtml#b217)
-* Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata (Separatbild)
-* Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere
-* Mus-tag-ata und Jam-bulak-Gletscher von Westen.
+* [Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata](ch014.xhtml#b218) (Separatbild)
+* [Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere](ch014.xhtml#b229)
+* [Mus-tag-ata und Jam-bulak-Gletscher von Westen](ch014.xhtml#b237)
 * Kirgisenlager im Sarik-Rol-Thal
 * Westliches Ende des Jeschil-Elt
 * Kara-korum, das Südende des Mus-tag-ata

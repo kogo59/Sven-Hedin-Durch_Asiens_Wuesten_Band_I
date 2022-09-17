@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 **W**ährend der Zeit, die wir in dieser bedeutenden, von nicht vielen Alpengipfeln
 übertroffenen Höhe zugebracht, hatten wir dem Berge sozusagen oft aufgelauert
 und auf eine günstige Gelegenheit, ihn zu besteigen, gewartet. Aber das Wetter
@@ -618,11 +617,9 @@ ich schlief wie ein Sack, bis Islam Bai mich am nächsten Morgen weckte.
 
 :::
 
-
 :::: align-center
 ****
 ::::
-
 
 
 ### **Anmerkungen** {.break-before .unnumbered}
