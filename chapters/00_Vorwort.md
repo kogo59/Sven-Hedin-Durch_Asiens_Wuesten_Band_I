@@ -351,9 +351,9 @@ hergestellt.</small>
 * [Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata](ch014.xhtml#b218) (Separatbild)
 * [Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere](ch014.xhtml#b229)
 * [Mus-tag-ata und Jam-bulak-Gletscher von Westen](ch014.xhtml#b237)
-* Kirgisenlager im Sarik-Rol-Thal
-* Westliches Ende des Jeschil-Elt
-* Kara-korum, das Südende des Mus-tag-ata
+* [Kirgisenlager im Sarik-Rol-Thal](ch015.xhtml#b244)
+* [Westliches Ende des Jeschil-kul](ch015.xhtml#b249)
+* [Kara-korum, das Südende des Mus-tag-ata](ch015.xhtml#b253)
 * Stapellauf meines Bootes auf dem Kleinen Kara-kul
 * Gefährliche Fahrt. Von Ljungdahl (Separatbild)
 * Kirgisisches Mädchen aus Tur-bulung
