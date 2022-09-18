@@ -158,7 +158,7 @@ stellte deshalb von Zeit zu Zeit eine Berechnung darüber an, ob ich die noch
 übrigbleibende Strecke würde durchschwimmen können.
 
 :::: { .wrap-100  }
-![Gefährliche Fahrt.](Durch_Asiens_Wuesten_I_263.jpg "Gefährliche Fahrt.."){#b263}
+![Gefährliche Fahrt.](Durch_Asiens_Wuesten_I_263.jpg "Gefährliche Fahrt."){#b263}
 ::::
 
 Die Stimmung wurde dadurch nicht gehoben, daß Muhammed Turdu seekrank war. Er

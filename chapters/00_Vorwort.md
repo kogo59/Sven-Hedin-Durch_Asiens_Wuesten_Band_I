@@ -356,11 +356,11 @@ hergestellt.</small>
 * [Kara-korum, das Südende des Mus-tag-ata](ch015.xhtml#b253)
 * [Stapellauf meines Bootes auf dem Kleinen Kara-kul](ch016.xhtml#b260)
 * [Gefährliche Fahrt.](ch016.xhtml#b263) Von Ljungdahl (Separatbild)
-* Kirgisisches Mädchen aus Tur-bulung
-* Kirgisenfrauen (Separatbild)
-* Kirgisisches Mädchen aus Sarik-kol
-* Generalkonsul Petrowskij und der Verfasser. Photographie aus Kaschgar
-* Kaufmann aus Ostturkestan
+* [Kirgisisches Mädchen aus Tur-bulung](ch017.xhtml#b272)
+* [Kirgisenfrauen](ch017.xhtml#b273) (Separatbild)
+* [Kirgisisches Mädchen aus Sarik-kol](ch017.xhtml#b274)
+* [Generalkonsul Petrowskij und der Verfasser.](ch017.xhtml#b281) Photographie aus Kaschgar
+* [Kaufmann aus Ostturkestan](ch017.xhtml#b283)
 * Meine Arba im Walde des Kaschgar-darja
 * Muhammedanischer Bazar (Separatbild)
 * Derwisch aus Ositurkestan
