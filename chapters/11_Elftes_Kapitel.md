@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 **A**m 18. August wurde dem Jam-bulak-Gletscher ein letzter Besuch gemacht. Es
 galt, nach den Stangen zu sehen, die am 3. August ins Eis eingeschlagen worden
 waren. Das Resultat ergab ein beinahe unmerkliches Vorrücken während der letzten

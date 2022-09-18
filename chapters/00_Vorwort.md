@@ -354,8 +354,8 @@ hergestellt.</small>
 * [Kirgisenlager im Sarik-Rol-Thal](ch015.xhtml#b244)
 * [Westliches Ende des Jeschil-kul](ch015.xhtml#b249)
 * [Kara-korum, das Südende des Mus-tag-ata](ch015.xhtml#b253)
-* Stapellauf meines Bootes auf dem Kleinen Kara-kul
-* Gefährliche Fahrt. Von Ljungdahl (Separatbild)
+* [Stapellauf meines Bootes auf dem Kleinen Kara-kul](ch016.xhtml#b260)
+* [Gefährliche Fahrt.](ch016.xhtml#b263) Von Ljungdahl (Separatbild)
 * Kirgisisches Mädchen aus Tur-bulung
 * Kirgisenfrauen (Separatbild)
 * Kirgisisches Mädchen aus Sarik-kol
