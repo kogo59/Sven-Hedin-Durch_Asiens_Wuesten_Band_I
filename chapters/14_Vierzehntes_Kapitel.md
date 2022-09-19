@@ -2,7 +2,7 @@
 
 ::: justified
 
-*A*m 17. Februar 11 Uhr vormittags zog ich mit Islam Bai, dem Missionar Johannes
+**A**m 17. Februar 11 Uhr vormittags zog ich mit Islam Bai, dem Missionar Johannes
 und Haschim Achun nach Osten, *Maral-baschi*^[^1400]^ als nächstes Ziel betrachtend.
 Unsere Karawane bestand aus zwei großen Arben auf hohen, eisenbeschlagenen
 Rädern, die von je vier Pferden gezogen wurden. Auf der ersten, in der ich mit

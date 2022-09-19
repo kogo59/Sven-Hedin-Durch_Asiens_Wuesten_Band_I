@@ -363,7 +363,7 @@ hergestellt.</small>
 * [Kaufmann aus Ostturkestan](ch017.xhtml#b283)
 * [Meine Arba im Walde des Kaschgar-darja](ch018.xhtml#b290)
 * [Muhammedanischer Bazar](ch018.xhtml#b296) (Separatbild)
-* Derwisch aus Ositurkestan
+* [Derwisch aus Osturkestan](ch019.xhtml#b312)
 * Kamel im Winterkleid mit Packsatteln
 * Kopf eines männlichen Kamel
 * Stürmischer Marsch in der Wüste Takla-makan
