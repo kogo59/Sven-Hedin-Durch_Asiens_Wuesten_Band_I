@@ -361,8 +361,8 @@ hergestellt.</small>
 * [Kirgisisches Mädchen aus Sarik-kol](ch017.xhtml#b274)
 * [Generalkonsul Petrowskij und der Verfasser.](ch017.xhtml#b281) Photographie aus Kaschgar
 * [Kaufmann aus Ostturkestan](ch017.xhtml#b283)
-* Meine Arba im Walde des Kaschgar-darja
-* Muhammedanischer Bazar (Separatbild)
+* [Meine Arba im Walde des Kaschgar-darja](ch018.xhtml#b290)
+* [Muhammedanischer Bazar](ch018.xhtml#b296) (Separatbild)
 * Derwisch aus Ositurkestan
 * Kamel im Winterkleid mit Packsatteln
 * Kopf eines männlichen Kamel
