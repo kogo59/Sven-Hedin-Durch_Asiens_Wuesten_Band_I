@@ -364,8 +364,8 @@ hergestellt.</small>
 * [Meine Arba im Walde des Kaschgar-darja](ch018.xhtml#b290)
 * [Muhammedanischer Bazar](ch018.xhtml#b296) (Separatbild)
 * [Derwisch aus Osturkestan](ch019.xhtml#b312)
-* Kamel im Winterkleid mit Packsatteln
-* Kopf eines männlichen Kamel
+* [Kamel im Winterkleid mit Packsatteln](ch020.xhtml#b326)
+* [Kopf eines männlichen Kamel](ch020.xhtml#b327)
 * Stürmischer Marsch in der Wüste Takla-makan
 * Aufziehender Sandstum
 * Ein Paradies am Masar-tag. Von Hallström.  (Separatbild)
