@@ -1,5 +1,7 @@
 # Durch Asiens Wüsten Band I
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/194353397-f26c0beb-b300-4e50-bd74-bf6607b6ab96.jpg">
+
 This is a git repository of the source files for the books "Durch Asiens Wüsten von Sven Hedin. Erster Band."
 
 Authors:
