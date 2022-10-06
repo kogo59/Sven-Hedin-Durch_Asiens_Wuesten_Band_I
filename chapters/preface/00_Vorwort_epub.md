@@ -366,8 +366,8 @@ hergestellt.</small>
 * [Derwisch aus Osturkestan](ch019.xhtml#b312)
 * [Kamel im Winterkleid mit Packsatteln](ch020.xhtml#b326)
 * [Kopf eines männlichen Kamel](ch020.xhtml#b327)
-* Stürmischer Marsch in der Wüste Takla-makan
-* Aufziehender Sandstum
+* [Stürmischer Marsch in der Wüste Takla-makan](ch020.xhtml#b340)
+* [Aufziehender Sandsturm](ch020.xhtml#b346)
 * Ein Paradies am Masar-tag. Von Hallström.  (Separatbild)
 * Die Karawane auf dem Marsche durch das Dünenmeer
 * In der Heimat der Grabesstille. Von Ljungdahl.  (Separatbild)
