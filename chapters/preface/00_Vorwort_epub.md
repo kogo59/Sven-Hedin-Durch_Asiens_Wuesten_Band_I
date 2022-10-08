@@ -374,9 +374,9 @@ hergestellt.</small>
 * [Kein Wasser](ch022.xhtml#b374) Chromotafel nach Aquarell von Ljungdahl.  (Separatbild)
 * [Die ersten zwei sterbenden Kamele](ch023.xhtml#b383)
 * [Meine Karawane im Wüstensturm](ch023.xhtml#b384) Von Ljungdahl.  (Separatbild)
-* Das Todeslager, 1. Mai 1895. Von Ljungdahl.  (Separatbild)
-* Das letzte Lager in der Wüste
-* Abschied von meinen sterbenden Gefährten. Von Ljungdahl. (Separatbild)
+* [Das Todeslager, 1. Mai 1895](ch023.xhtml#b392) Von Ljungdahl.  (Separatbild)
+* [Das letzte Lager in der Wüste](ch024.xhtml#b396) 
+* [Abschied von meinen sterbenden Gefährten. Von Ljungdahl.](ch024.xhtml#b408)  (Separatbild)
 * Der erste Tamariske
 * Verzweifeltes Suchen nach Wasser. Von Ljungdahl. (Separatbild)
 * Rückkehr mit dem rettenden Wasser (Separatbild)

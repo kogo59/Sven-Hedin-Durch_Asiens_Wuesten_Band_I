@@ -403,6 +403,10 @@ zu notiren. Als ich dann endlich am Ufer des Chotan-darja wieder zur Ruhe
 gekommen war, war es meine erste Arbeit, diese Notizen in den Einzelheiten
 auszuführen, solange die Erinnerung noch frisch war.
 
+:::: { .wrap-100  }
+![Das Todeslager, 1. Mai 1895.](Durch_Asiens_Wuesten_I_408.jpg "Das Todeslager, 1. Mai 1895."){#b408}
+::::
+
 :::
 
 :::: align-center
