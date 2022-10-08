@@ -4,7 +4,7 @@ OUTPUT_FILENAME = "Durch_Asiens_Wuesten_Band_I"
 TITLE_NAME = "Durch Asiens Wüsten Band I"
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
-TOC = --toc --toc-depth=3
+TOC = --toc --toc-depth=2
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
 COVER_IMAGE = $(IMAGES_FOLDER)/cover.jpg

@@ -368,8 +368,8 @@ hergestellt.</small>
 * [Kopf eines männlichen Kamel](ch020.xhtml#b327)
 * [Stürmischer Marsch in der Wüste Takla-makan](ch020.xhtml#b340)
 * [Aufziehender Sandsturm](ch020.xhtml#b346)
-* Ein Paradies am Masar-tag. Von Hallström.  (Separatbild)
-* Die Karawane auf dem Marsche durch das Dünenmeer
+* [Ein Paradies am Masar-tag. Von Hallström.](ch021.xhtml#b352)  (Separatbild)
+* [Die Karawane auf dem Marsche durch das Dünenmeer](ch021.xhtml#b356)
 * In der Heimat der Grabesstille. Von Ljungdahl.  (Separatbild)
 * Kein Wasser. Chromotafel nach Aquarell von Ljungdahl.  (Separatbild)
 * Die ersten zwei sterbenden Kamele
