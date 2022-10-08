@@ -372,8 +372,8 @@ hergestellt.</small>
 * [Die Karawane auf dem Marsche durch das Dünenmeer](ch021.xhtml#b356)
 * [In der Heimat der Grabesstille](ch022.xhtml#b368) Von Ljungdahl.  (Separatbild)
 * [Kein Wasser](ch022.xhtml#b374) Chromotafel nach Aquarell von Ljungdahl.  (Separatbild)
-* Die ersten zwei sterbenden Kamele
-* Meine Karawane im Wüstensturm. Von Ljungdahl.  (Separatbild)
+* [Die ersten zwei sterbenden Kamele](ch023.xhtml#b383)
+* [Meine Karawane im Wüstensturm](ch023.xhtml#b384) Von Ljungdahl.  (Separatbild)
 * Das Todeslager, 1. Mai 1895. Von Ljungdahl.  (Separatbild)
 * Das letzte Lager in der Wüste
 * Abschied von meinen sterbenden Gefährten. Von Ljungdahl. (Separatbild)
