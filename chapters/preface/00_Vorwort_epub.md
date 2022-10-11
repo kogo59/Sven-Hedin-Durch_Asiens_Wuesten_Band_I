@@ -359,7 +359,7 @@ hergestellt.</small>
 * [Kirgisisches Mädchen aus Tur-bulung](ch017.xhtml#b272)
 * [Kirgisenfrauen](ch017.xhtml#b273) (Separatbild)
 * [Kirgisisches Mädchen aus Sarik-kol](ch017.xhtml#b274)
-* [Generalkonsul Petrowskij und der Verfasser.](ch017.xhtml#b281) Photographie aus Kaschgar
+* [Generalkonsul Petrowskij und der Verfasser](ch017.xhtml#b281) Photographie aus Kaschgar
 * [Kaufmann aus Ostturkestan](ch017.xhtml#b283)
 * [Meine Arba im Walde des Kaschgar-darja](ch018.xhtml#b290)
 * [Muhammedanischer Bazar](ch018.xhtml#b296) (Separatbild)
@@ -376,11 +376,11 @@ hergestellt.</small>
 * [Meine Karawane im Wüstensturm](ch023.xhtml#b384) Von Ljungdahl.  (Separatbild)
 * [Das Todeslager, 1. Mai 1895](ch023.xhtml#b392) Von Ljungdahl.  (Separatbild)
 * [Das letzte Lager in der Wüste](ch024.xhtml#b396) 
-* [Abschied von meinen sterbenden Gefährten. Von Ljungdahl.](ch024.xhtml#b408)  (Separatbild)
-* Der erste Tamariske
-* Verzweifeltes Suchen nach Wasser. Von Ljungdahl. (Separatbild)
-* Rückkehr mit dem rettenden Wasser (Separatbild)
-* Labung des verschmachtenden Kasim. Von Ljungdahl. .. (Separatbild)
+* [Abschied von meinen sterbenden Gefährten](ch024.xhtml#b408) Von Ljungdahl. (Separatbild)
+* [Die erste Tamariske](ch025.xhtml#b416)
+* [Verzweifeltes Suchen nach Wasser](ch025.xhtml#b424) Von Ljungdahl. (Separatbild)
+* [Rückkehr mit dem rettenden Wasser](ch025.xhtml#b428) (Separatbild)
+* [Labung des verschmachtenden Kasim](ch025.xhtml#b430) Von Ljungdahl. (Separatbild)
 * Im Schutze des Uferwaldes des Chotan-darja. Von Hallström.
 * Sandsturm im Bette des Chotan-darja. Von Adlercreutz.  (Separatbild)
 * Aksakal Muhammed Emin
