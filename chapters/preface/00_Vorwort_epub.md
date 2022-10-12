@@ -382,9 +382,9 @@ hergestellt.</small>
 * [Rückkehr mit dem rettenden Wasser](ch025.xhtml#b428) (Separatbild)
 * [Labung des verschmachtenden Kasim](ch025.xhtml#b430) Von Ljungdahl. (Separatbild)
 * [Im Schutze des Uferwaldes des Chotan-darja](ch026.xhtml#b446) Von Hallström.
-* Sandsturm im Bette des Chotan-darja. Von Adlercreutz.  (Separatbild)
-* Aksakal Muhammed Emin
-* Freitagsmoschee in Ak-su
+* [Sandsturm im Bette des Chotan-darja](ch027.xhtml#b460) Von Adlercreutz.  (Separatbild)
+* [Aksakal Muhammed Emina](ch027.xhtml#b465)
+* [Freitagsmoschee in Ak-su](ch027.xhtml#b466)
 * Der Ullug-art-Paß vom Aul Ullug-art aus
 * Kirgisen-Aul im Sarik-kol-Thalliu.
 * Tadschik-Aul in Tagdumbasch-Pamir
