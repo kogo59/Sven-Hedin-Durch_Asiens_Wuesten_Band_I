@@ -385,10 +385,10 @@ hergestellt.</small>
 * [Sandsturm im Bette des Chotan-darja](ch027.xhtml#b460) Von Adlercreutz.  (Separatbild)
 * [Aksakal Muhammed Emina](ch027.xhtml#b465)
 * [Freitagsmoschee in Ak-su](ch027.xhtml#b466)
-* Der Ullug-art-Paß vom Aul Ullug-art aus
-* Kirgisen-Aul im Sarik-kol-Thalliu.
-* Tadschik-Aul in Tagdumbasch-Pamir
-* Mi Darin, Kommandant von Tasch-kurgan (Separatbild)
+* [Der Ullug-art-Paß vom Aul Ullug-art aus](ch028.xhtml#b477)
+* [Kirgisen-Aul im Sarik-kol-Thal](ch028.xhtml#b481)
+* [Tadschik-Aul in Tagdumbasch-Pamir](ch028.xhtml#b483)
+* [Mi Darin, Kommandant von Tasch-kurgan](ch028.xhtml#b485] (Separatbild)
 * Hindu-kusch beim Uprang-Paß
 * Tschackmakden-kul, von Westen gesehn
 
