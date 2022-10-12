@@ -381,7 +381,7 @@ hergestellt.</small>
 * [Verzweifeltes Suchen nach Wasser](ch025.xhtml#b424) Von Ljungdahl. (Separatbild)
 * [Rückkehr mit dem rettenden Wasser](ch025.xhtml#b428) (Separatbild)
 * [Labung des verschmachtenden Kasim](ch025.xhtml#b430) Von Ljungdahl. (Separatbild)
-* Im Schutze des Uferwaldes des Chotan-darja. Von Hallström.
+* [Im Schutze des Uferwaldes des Chotan-darja](ch026.xhtml#b446) Von Hallström.
 * Sandsturm im Bette des Chotan-darja. Von Adlercreutz.  (Separatbild)
 * Aksakal Muhammed Emin
 * Freitagsmoschee in Ak-su
