@@ -395,8 +395,8 @@ hergestellt.</small>
 * [Kosak mit Jagdbeute](ch029.xhtml#b490)
 * [Gulam Moheddin Chan und sein Sekretär.](ch029.xhtml#b493) Photographie von Holdich
 * [Hinduknabe aus dem englischen Lager](ch029.xhtml#b495)
-* Tadschik-Jurte in Tagdumbasch-Pamir
-* Ein lebensgefährlicher Flußübergang. Von Lindbergh
+* [Tadschik-Jurte in Tagdumbasch-Pamir](ch030.xhtml#b505)
+* [Ein lebensgefährlicher Flußübergang.](ch030.xhtml#b508) Von Lindbergh
 
 
 
@@ -408,7 +408,7 @@ hergestellt.</small>
 * [Das Mus-tag-ata Massiv](ch011.xhtml#b186)
 * [Der Tschal-tumak-Gletscher des Mus-tag-ata](ch013.xhtml#b209)
 * [Der Tergen-bulak-Gletscher des Mus-tag-ata](ch013.xhtml#b216)
-* Pamir. Maßstab 1: 1&nbsp;250&nbsp;000.
+* [Pamir. Maßstab 1:1&nbsp;250&nbsp;000.](ch030.xhtml#b510)
 
 :::: align-center
 ****
