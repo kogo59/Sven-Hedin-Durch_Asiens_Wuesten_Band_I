@@ -366,7 +366,7 @@ Druck von F. A. Brockhaus in Leipzig.
 <br /><br /><br /><br />
 ::::
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .break-before }
 ![Pamir. Maßstab 1:1&nbsp;250&nbsp;000.](Durch_Asiens_Wuesten_I_510.jpg "Pamir. Maßstab 1:1&nbsp;250&nbsp;000."){#b510}
 ::::
 
