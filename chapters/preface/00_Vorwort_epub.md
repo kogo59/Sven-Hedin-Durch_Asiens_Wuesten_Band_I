@@ -388,9 +388,15 @@ hergestellt.</small>
 * [Der Ullug-art-Paß vom Aul Ullug-art aus](ch028.xhtml#b477)
 * [Kirgisen-Aul im Sarik-kol-Thal](ch028.xhtml#b481)
 * [Tadschik-Aul in Tagdumbasch-Pamir](ch028.xhtml#b483)
-* [Mi Darin, Kommandant von Tasch-kurgan](ch028.xhtml#b485] (Separatbild)
-* Hindu-kusch beim Uprang-Paß
-* Tschackmakden-kul, von Westen gesehn
+* [Mi Darin, Kommandant von Tasch-kurgan](ch028.xhtml#b485) (Separatbild)
+* [Hindu-kusch beim Uprang-Paß](ch029.xhtml#b487)
+* [Tschackmakden-kul, von Westen gesehn](ch029.xhtml#b488)
+* [Affridi-Soldat der englischen Eskorte](ch029.xhtml#b489)
+* [Kosak mit Jagdbeute](ch029.xhtml#b490)
+* [Gulam Moheddin Chan und sein Sekretär.](ch029.xhtml#b493) Photographie von Holdich
+* [Hinduknabe aus dem englischen Lager](ch029.xhtml#b495)
+* Tadschik-Jurte in Tagdumbasch-Pamir
+* Ein lebensgefährlicher Flußübergang. Von Lindbergh
 
 
 
