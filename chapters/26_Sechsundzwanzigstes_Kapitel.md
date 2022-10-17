@@ -312,7 +312,7 @@ Umständen ist das Reiten nichts weniger als angenehm, besonders wenn man auf de
 einen Seite einen Abgrund hat.
 
 Vom Passe aus sehen wir im Westen den schneebedeckten Kamm, den wir im
-Kandahar--Paß überschritten hatten. Im Osten breitet sich ein Panorama von
+Kandahar-Paß überschritten hatten. Im Osten breitet sich ein Panorama von
 Bergkämmen aus, die immer niedriger und unbedeutender werden und in der Ferne in
 einen gelben Dunst übergehen, der die öden Ebenen von Ostturkestan ankündigt.
 Auf der Ostseite gab es keinen Schnee, und alle Dörfer, die wir passirten, waren

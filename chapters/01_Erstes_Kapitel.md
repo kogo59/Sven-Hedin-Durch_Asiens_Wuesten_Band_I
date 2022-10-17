@@ -617,7 +617,7 @@ Hause zubrachte, aufs beste bewirthete und mir viele sehr nützliche Rathschläg
 gab.
 
 :::: {.wrap-100  }
-![Muhammedanischer Märchenerzähler in Taschkent.](Durch_Asiens_Wuesten_I_026.jpg "Muhammedanischer Märchenerzähler in Taschkent"){#b026}
+![Muhammedanischer Märchenerzähler in Taschkent.](Durch_Asiens_Wuesten_I_026.jpg "Muhammedanischer Märchenerzähler in Taschkent."){#b026}
 ::::
 
 :::

@@ -27,6 +27,3 @@ Durch Asiens Wüsten Band I. [hathitrust](https://babel.hathitrust.org/cgi/pt?id
 # ePUB
 Durch Asiens Wüsten Band I. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=348858)
 
-Band II
-
-https://babel.hathitrust.org/cgi/pt?id=njp.32101057192294&view=1up&seq=1&skin=2021
