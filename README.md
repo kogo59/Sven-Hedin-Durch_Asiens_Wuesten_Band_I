@@ -24,6 +24,5 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 # Sources
 Durch Asiens Wüsten Band I. [hathitrust](https://babel.hathitrust.org/cgi/pt?id=njp.32101057192286&view=1up&seq=11&skin=2021)
 
-# ePUB
-Durch Asiens Wüsten Band I. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=348858)
+
 
