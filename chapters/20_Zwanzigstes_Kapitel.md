@@ -437,7 +437,7 @@ umherzutappen. Ich stieg ab, zündete die Laterne an und ging voraus, um den
 leichtesten Uebergang zu suchen.
 
 :::: { .wrap-70  }
-![Abschied von meinen sterbenden Gefährten. Von Ljungdahl.](Durch_Asiens_Wuesten_I_408.jpg "Abschied von meinen sterbenden Gefährten. Von Ljungdahl."){#408}
+![Abschied von meinen sterbenden Gefährten. Von Ljungdahl.](Durch_Asiens_Wuesten_I_408.jpg "Abschied von meinen sterbenden Gefährten. Von Ljungdahl."){#b408}
 ::::
 
 Der Kompaß führte mich nach Osten, und das Licht in der Laterne warf einen

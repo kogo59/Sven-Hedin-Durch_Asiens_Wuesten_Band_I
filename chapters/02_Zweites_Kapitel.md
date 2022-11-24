@@ -504,7 +504,7 @@ weshalb die beiden Jurten eigens für uns hierher gebracht worden waren. Es war
 ein ungemüthliches Lager, denn das Brennmaterial war knapp und feucht und das
 Zelt von beißendem Rauch erfüllt. Draußen erhoben sich hohe Schneewälle.
 
-Die Nacht war kalt, das Minimumthermometer zeigte —20,<small>>5</small>° C. Am
+Die Nacht war kalt, das Minimumthermometer zeigte —20,<small>5</small>° C. Am
 Morgen war alles im Zelte gefroren: Konserven, Milchextrakt und Tinte, und im
 Freien standen die Pferde, ließen den Kopf hängen und scharrten mit den Hufen im
 Schnee.
