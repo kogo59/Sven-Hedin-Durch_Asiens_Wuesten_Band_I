@@ -957,7 +957,7 @@ ich von Zeit zu Zeit aufspringen und mir Bewegung machen mußte. Die Pferde
 machten sich dann und wann bemerkbar, als wollten sie uns daran erinnern, daß
 wir ganz vergessen hätten, ihnen ihre Kornbeutel umzuhängen. Es war ein Glück,
 daß der Nachtwind nicht gar zu frisch war und die Kälte nur bis auf —
-15,<small>5</small> herabging. Bei Tagesanbruch stiegen wir hungerig und
+15,<small>5</small>° herabging. Bei Tagesanbruch stiegen wir hungerig und
 steifgefroren zu Pferd, ritten eine Stunde weit nach Süden und entdeckten einen
 Platz, auf dem es gelbes, mageres Gras gab, soweit es die letzten Schafheerden
 im Herbst hatten stehen lassen. Während die Pferde hier ein paar Stunden

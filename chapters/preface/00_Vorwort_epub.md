@@ -43,7 +43,7 @@ der Wanderungen der Nomaden in den verschiedenen Jahreszeiten, Untersuchungen
 jeden Flusses, den wir passirten, Tiefenlothungen in den Seen, Sammlung von
 Pflanzen, insbesondere von Algen, in den hochalpinen Regionen von Pamir und
 Tibet, Führung eines meteorologischen Journals dreimal im Tage, dessen
-Bearbeitung Dr. Nils Ekholm^[^0001]^ zu übernehmen so freundlich war, Sammlung eines
+Bearbeitung Dr. Nils Ekholm^[^0010]^ zu übernehmen so freundlich war, Sammlung eines
 reichhaltigen Materials in Betreff der geographischen Ausdehnung und des
 Charakters der Wüste Gobi und des Flußsystems des Tarim.^[^0003]^ Ich hatte Gelegenheit,
 die Eigenheiten des letztern an mehrern ganz verschiedenen Punkten von den
@@ -192,7 +192,7 @@ jeden einzelnen Bildes überwacht. Ich kann mich nicht lobend genug aussprechen
 Aufgabe.
 
 Für die Berechnung der absoluten Höhen, die in dem Buche enthalten sind, bin ich
-Herrn Dr. Nils Ekholm^[^0010]^ zu Dank verpflichtet.
+Herrn Dr. Nils Ekholm zu Dank verpflichtet.
 
 Ganz besonders freut es mich, jetzt eine Gelegenheit erhalten zu haben,
 öffentlich meine tiefe Dankbarkeit der Gesellschaft für Erdkunde zu Berlin
@@ -240,8 +240,6 @@ werden möge.
 ### **Anmerkungen** {.break-before .unnumbered}
 
 [^0002]: [*Kven-lun-System*: vergleiche [Kunlun](https://de.wikipedia.org/wiki/Kunlun)]{.footnote}
-
-[^0001]: [*Dr. Nils Ekholm*: vergleiche [Nils Gustaf Ekholm](https://de.wikipedia.org/wiki/Nils_Gustaf_Ekholm)]{.footnote}
 
 [^0003]: [*Tarim*: vergleiche [Tarim](https://de.wikipedia.org/wiki/Tarim_(Fluss))]{.footnote}
 

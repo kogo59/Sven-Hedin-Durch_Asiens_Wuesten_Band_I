@@ -143,7 +143,7 @@ ganzes Gepäck hinüberbringen; es müßte getragen werden, weil die Pferde auch
 ohne Last die steilen Abhänge nur mit Mühe erklimmen könnten. Wir ritten also zu
 den sechs Jurten des obern Auls hinauf, wo wir die Nacht verbrachten.
 
-Am 17. Juli um ½ 6 Uhr war das Wetter klar und ruhig, obgleich kleinere Wolken
+Am 17. Juli um ½6 Uhr war das Wetter klar und ruhig, obgleich kleinere Wolken
 sich über dem Passe lagerten, dessen östliche Abhänge während des gestrigen
 sonnigen Tages ein wenig von ihrer Schneemenge verloren hatten.
 

@@ -3,7 +3,7 @@
 ::: justified
 
 **A**m 22. Juni war die Temperatur so hoch (nachmittags 1 Uhr
-＋33,<small>1</small>), daß wir vorzogen, im Schatten zu bleiben; erst gegen
+＋33,<small>1</small>°), daß wir vorzogen, im Schatten zu bleiben; erst gegen
 Abend wurde es ein wenig kühler, sodaß wir wieder aufbrechen konnten. Noch waren
 wir nicht weit gekommen, als uns schon ein Bek mit zwei Begleitern begegnete,
 die vom Amban, dem chinesischen Distriktsvorsteher, von Jangi-hissar

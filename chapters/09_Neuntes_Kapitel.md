@@ -414,7 +414,7 @@ stehen blieb und darüber nachgrübeln wollte, wozu diese ewige Kletterei
 eigentlich diene.
 
 :::: { .wrap-70 }
-![DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA.<small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_216.jpg "DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA."){#b216}
+![DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA. <small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_216.jpg "DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA."){#b216}
 ::::
 
 Auf diese Weise brauchte ich nicht den Yak anzutreiben, was sonst recht
