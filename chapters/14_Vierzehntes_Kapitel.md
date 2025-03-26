@@ -510,12 +510,6 @@ der einzige, der bei mir blieb.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Maral-baschi*: vergleiche [Maralbexi](https://de.wikipedia.org/wiki/Maralbexi)]{.footnote}
 

@@ -617,11 +617,5 @@ ich schlief wie ein Sack, bis Islam Bai mich am nächsten Morgen weckte.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^9000]: [*Heim*: vergleiche [Albert Heim](https://de.wikipedia.org/wiki/Albert_Heim)]{.footnote}

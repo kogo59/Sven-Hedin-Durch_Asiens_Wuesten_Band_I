@@ -421,10 +421,3 @@ wohlbekannten Gegenden am Ostufer des Kleinen Kara-kul an.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-

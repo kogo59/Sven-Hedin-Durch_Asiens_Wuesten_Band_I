@@ -433,10 +433,3 @@ Opferlämmer, am Rande des offenen Brunnens noch immer vergebens warteten.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-

@@ -626,12 +626,6 @@ Hunderten um mein Licht herum.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [*Prschewalskij*: vergleiche [Nikolai Michailowitsch Prschewalski](https://de.wikipedia.org/wiki/Nikolai_Michailowitsch_Prschewalski)]{.footnote}
 

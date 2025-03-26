@@ -334,9 +334,3 @@ wahrscheinlich mit der Karawane dorthin gekommen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}

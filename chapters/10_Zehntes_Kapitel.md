@@ -415,10 +415,3 @@ Sand ausharren!
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-

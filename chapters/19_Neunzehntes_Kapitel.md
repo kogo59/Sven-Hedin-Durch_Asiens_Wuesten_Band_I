@@ -409,11 +409,5 @@ auszuführen, solange die Erinnerung noch frisch war.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1900]: [*Kara-buran*: vergleiche [Kara Buran](https://de.wikipedia.org/wiki/Taklamakan#Kara_Buran)]{.footnote}

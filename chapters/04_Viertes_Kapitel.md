@@ -653,13 +653,6 @@ Lutsch aufs herzlichste empfangen wurde.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^4000]: [*Sarik-kol*: vergleiche [Sarikolkette](https://de.wikipedia.org/wiki/Sarikolkette)]{.footnote}
 
 [^4001]: [*Kaschgar*: vergleiche [Kaxgar](https://de.wikipedia.org/wiki/Kaxgar_(Stadt))]{.footnote}

@@ -338,11 +338,5 @@ Gletscherwelt hinauf einschlugen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Karakul*: vergleiche [Karakul](https://de.wikipedia.org/wiki/Karakul_(Tadschikistan))]{.footnote}

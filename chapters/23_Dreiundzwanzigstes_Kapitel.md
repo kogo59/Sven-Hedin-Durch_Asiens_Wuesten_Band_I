@@ -516,12 +516,6 @@ Bergriesen auf dem Dache der Welt zuzubringen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [*Jangischahr*: vergleiche [Yengisar](https://de.wikipedia.org/wiki/Yengisar)]{.footnote}
 

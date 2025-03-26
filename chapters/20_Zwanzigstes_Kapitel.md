@@ -519,10 +519,4 @@ hinter den Dünenkämmen, und auf allen Seiten umgab uns jetzt tiefe Nacht.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 

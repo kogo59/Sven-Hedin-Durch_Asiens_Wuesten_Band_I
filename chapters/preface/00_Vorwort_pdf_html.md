@@ -237,8 +237,6 @@ werden möge.
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0002]: [*Kven-lun-System*: vergleiche [Kunlun](https://de.wikipedia.org/wiki/Kunlun)]{.footnote}
 
 [^0001]: [*Dr. Nils Ekholm*: vergleiche [Nils Gustaf Ekholm](https://de.wikipedia.org/wiki/Nils_Gustaf_Ekholm)]{.footnote}

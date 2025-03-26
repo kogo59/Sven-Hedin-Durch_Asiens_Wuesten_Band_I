@@ -532,11 +532,5 @@ Der Gewinn blieb natürlich in der Tasche des Beks.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [Das in Ostturkestan adoptirte Wort „Jambau“ ist das chinesische Juan-pao, d. h. Silberschuh, eine Münze im Werthe von etwa 200 Mark.]{.footnote}

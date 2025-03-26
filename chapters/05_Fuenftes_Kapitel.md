@@ -479,13 +479,6 @@ Reisetages.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^5000]: [*Proselyt*: vergleiche [Proselytismus](https://de.wikipedia.org/wiki/Proselytismus)]{.footnote}
 
 [^5001]: [*Younghusband*: vergleiche [Francis Younghusband](https://de.wikipedia.org/wiki/Francis_Younghusband)]{.footnote}

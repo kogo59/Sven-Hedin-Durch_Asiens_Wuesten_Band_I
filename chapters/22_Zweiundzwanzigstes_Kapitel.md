@@ -578,12 +578,7 @@ sondern hoffnungsvoll wie zur Auferstehung.
 
 :::
 
-:::: align-center
-****
-::::
 
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2200]: [Ein Tengeh von Chotan ist soviel wie 2 Tengeh von Kaschgar und daher circa 46 Pfennige werth.]{.footnote}
 

@@ -677,10 +677,4 @@ rechten Ufer des Chotan-darja entlang nach Süden.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 

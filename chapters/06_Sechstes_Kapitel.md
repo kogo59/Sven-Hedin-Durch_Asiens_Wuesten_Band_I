@@ -798,13 +798,6 @@ kürzere Zeit angestellt wurden und uns mit Pferden versorgen sollten.
 :::
 
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^6000]: [*Jarkent*: vergleiche [Scharkent](https://de.wikipedia.org/wiki/Scharkent)]{.footnote}
 
 [^6001]: [*Jarkent-darja*: vergleiche [Yarkant](https://de.wikipedia.org/wiki/Yarkant_(Fluss))]{.footnote}

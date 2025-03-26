@@ -345,10 +345,4 @@ Moräne, auf der rechten dagegen die Moräne unter dem Eise.
 :::
 
 
-:::: align-center
-****
-::::
 
-
-
-### **Anmerkungen** {.break-before .unnumbered}

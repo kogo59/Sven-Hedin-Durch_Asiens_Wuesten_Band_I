@@ -529,7 +529,3 @@ vorlieb nehmen; die bessern werden für die Schafe aufgespart.
 :::: { .wrap-80 .break-before }
 ![DAS MUS-TAG-ATA-MASSIV.](Durch_Asiens_Wuesten_I_186.jpg "DAS MUS-TAG-ATA-MASSIV."){#b186}
 ::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-

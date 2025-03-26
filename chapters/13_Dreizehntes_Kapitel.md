@@ -489,12 +489,6 @@ Glauben kämpfen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*St. George Littledale*: vergleiche [St. George Littledale](https://en.wikipedia.org/wiki/St._George_Littledale)]{.footnote}
 

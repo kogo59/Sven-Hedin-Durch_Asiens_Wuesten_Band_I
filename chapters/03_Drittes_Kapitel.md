@@ -475,13 +475,6 @@ unermeßlichen Halle.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^3000]: [*Murghab*: vergleiche [Murgab](https://de.wikipedia.org/wiki/Murgab_(Karakum))]{.footnote}
 
 [^3001]: [*Kisil-su*: vergleiche [Kysylsuu](https://de.wikipedia.org/wiki/Kysylsuu_(Kaxgar))]{.footnote}

@@ -1091,13 +1091,6 @@ nächsten Nachbarn waren.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^2000]: [*Wachan*: vergleiche [Wakhan](https://en.wikipedia.org/wiki/Wakhan_District)]{.footnote}
 
 [^2001]: [*Pändsch-Fluss*: vergleiche [Pandsch](https://de.wikipedia.org/wiki/Pandsch)]{.footnote}

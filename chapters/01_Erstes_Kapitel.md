@@ -622,13 +622,6 @@ gab.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^1001]: [*Tarantas*: vergleiche [Tarantass](https://en.wikipedia.org/wiki/Tarantass)]{.footnote}
 
 [^1002]: [*Orenburg*: vergleiche [Orenburg](https://de.wikipedia.org/wiki/Orenburg)]{.footnote}

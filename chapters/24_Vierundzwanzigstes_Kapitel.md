@@ -355,12 +355,6 @@ in Kürze darüber Bescheid geben.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [*Tasch-kurgan*: vergleiche [Taschkorgan](https://de.wikipedia.org/wiki/St%C3%A4tte_der_Steinernen_Stadt)]{.footnote}
 

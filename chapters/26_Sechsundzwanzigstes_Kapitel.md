@@ -371,6 +371,4 @@ Druck von F. A. Brockhaus in Leipzig.
 ::::
 
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^2600]: [Sunniten, Anhänger der rechtgläubigen Sunna oder Lehre des Islam, nennen sich jene Muhammedaner, die die Gesetzlichkeit der unmittelbar nach Muhammed's Tode bis zu Ali's Regierungsantritt herrschenden Verhältnisse anerkennen. Die Schiiten, die Anhänger Ali's und seiner Nachkommen, erkennen nur diese als rechtmäßige Nachfolger des Propheten an. Die überwiegende Mehrzahl der Muhammedaner zählt zu den Sunniten. Der Schiismus ist die offizielle Religionsform des persischen Reichs.]{.footnote}

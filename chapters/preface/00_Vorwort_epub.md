@@ -237,8 +237,6 @@ werden möge.
 
 :::
 
-### **Anmerkungen** {.break-before .unnumbered}
-
 [^0002]: [*Kven-lun-System*: vergleiche [Kunlun](https://de.wikipedia.org/wiki/Kunlun)]{.footnote}
 
 [^0003]: [*Tarim*: vergleiche [Tarim](https://de.wikipedia.org/wiki/Tarim_(Fluss))]{.footnote}

@@ -414,12 +414,6 @@ durfte.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Wachan-darja*: vergleiche [Wachandarja](https://de.wikipedia.org/wiki/Wachandarja)]{.footnote}
 
