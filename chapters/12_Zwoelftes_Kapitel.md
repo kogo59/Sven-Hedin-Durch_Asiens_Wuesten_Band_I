@@ -92,7 +92,7 @@ nachher abends öfters zu den Tönen einer Gädschek (Geige) vorgetragen wurde u
 ganz sicher im Gewande der Legende kommenden Generationen überliefert werden
 wird.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Stapellauf meines Bootes auf dem Kleinen Kara-kul.](Durch_Asiens_Wuesten_I_260.jpg "Stapellauf meines Bootes auf dem Kleinen Kara-kul."){#b260}
 ::::
 
@@ -103,7 +103,7 @@ Kirgisen seinen Bewegungen und wunderten sich nicht wenig, als ich den Muth
 hatte, hineinzusteigen und, obgleich es stark wehte, eine kürzere Segelfahrt zu
 machen. Aber das Boot lag, auf seinen fünf Ziegenfellsäcken ruhend, sicher auf
 dem Wasser, und Togdasin Bek wurde bei diesem Anblick so dafür eingenommen, daß
-er ber der nächsten Probefahrt mitkam.
+er bei der nächsten Probefahrt mitkam.
 
 Nie haben reinere, blauere, frischere Wogen ein ungeschlachteres Boot umspült
 als dieses, das sich ungefähr wie eine Katze oder ein Huhn in dem nassen
@@ -157,7 +157,7 @@ ihre Tragkraft vollständig verlieren würden, ehe wir den Strand erreichten, un
 stellte deshalb von Zeit zu Zeit eine Berechnung darüber an, ob ich die noch
 übrigbleibende Strecke würde durchschwimmen können.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Gefährliche Fahrt.](Durch_Asiens_Wuesten_I_263.jpg "Gefährliche Fahrt."){#b263}
 ::::
 

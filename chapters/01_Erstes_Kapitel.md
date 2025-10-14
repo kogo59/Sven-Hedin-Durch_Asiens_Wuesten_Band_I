@@ -51,7 +51,7 @@ Norwegen einen Reiseplan ein mit der Bitte um Unterstützung desselben. Darin
 waren die wichtigsten Probleme, die ihrer Lösung harren, aufgeführt. Sr.
 Majestät bewilligte einen ansehnlichen Beitrag zu den Reisekosten, die auf
 33&nbsp;000 Mark veranschlagt waren, sich aber nach Beendigung der Reise auf
-37nbsp;400 Mark stellten; der Rest der Kosten wurde durch Private gedeckt.
+37&nbsp;400 Mark stellten; der Rest der Kosten wurde durch Private gedeckt.
 
 In der Reisebeschreibung, die hiermit dem Publikum übergeben wird, habe ich die
 Erinnerungen und Eindrücke zu schildern versucht, die ich von meinen langen,
@@ -128,7 +128,7 @@ Ziegen. Der Himmel ist grau und trüb, und der Boden hat von dem verwelkten Gras
 eine gelbliche Färbung. Dies ist die Gegend, wo Europa am Festlande von Asien
 wurzelt.
 
-:::: {.wrap-80 }
+:::: {.wrap-80 .caption .align-center}
 ![Straße in Orenburg.](Durch_Asiens_Wuesten_I_005.jpg "Straße in Orenburg."){#b005}
 ::::
 
@@ -182,7 +182,7 @@ sie sich nicht heiß laufen. Mein Tarantas war groß und fest und mit dicken
 eisernen Radreifen versehen; ich erstand ihn für 160 Mark. Als ich ihn später in
 Margelan wieder verkaufte, war er immer noch über 100 Mark werth.
 
-:::: {.wrap-80 }
+:::: {.wrap-80 .caption .align-center }
 ![Anschirren der Troika.](Durch_Asiens_Wuesten_I_007.jpg "Anschirren der Troika."){#b007}
 ::::
 
@@ -234,7 +234,7 @@ Winterbedarf gesammelt. Bei jedem Aul (Zeltdorf) kann man sicher sein, Pyramiden
 solcher Wurzeln zu finden, und nicht selten begegnet man ganzen Karawanen, die
 damit belastet sind.
 
-:::: {.wrap-80 }
+:::: {.wrap-80 .caption .align-center }
 ![Kirgisische Kamelreiter in der Steppe.](Durch_Asiens_Wuesten_I_009.jpg "Kirgisische Kamelreiter in der Steppe."){#b009}
 ::::
 
@@ -281,7 +281,7 @@ entwickeln sich mit unglaublicher Energie, um so großen Nutzen wie möglich aus
 der Spanne Zeit zu ziehen, die ihnen zum Leben beschert ist, bevor die glühende
 Sommersonne alles ausdörrt und verbrennt.
 
-:::: {.wrap-80 }
+:::: {.wrap-80 .caption .align-center}
 ![In der Kirgisensteppe.](Durch_Asiens_Wuesten_I_011.jpg "In der Kirgisensteppe."){#b011}
 ::::
 
@@ -327,7 +327,7 @@ die russische Grenze beunruhigten. Hier gebietet ein „Wajennij Natschalnik“ 
 als Deportation, und er könne es nicht länger als ein Jahr aushalten. Die
 einzigen Zerstreuungen sind Lesen, Schießübungen mit den Soldaten und die Jagd. 
 
-:::: {.wrap-80 }
+:::: {.wrap-80 .caption .align-center }
 ![Vor einem Posthause.](Durch_Asiens_Wuesten_I_013.jpg "Vor einem Posthause."){#b013}
 ::::
 
@@ -430,11 +430,11 @@ Flußweg und 85 Kilometer Landweg vom Aral-See, die Stadt *Kasalinsk*^[^1014]^ m
 Häusern, darunter 200 russische, und 3500 Einwohnern, von denen 1000 Uralkosaken
 sind.
 
-:::: {.wrap-100 .break-after }
+:::: {.wrap-100 .break-after .caption .align-center }
 ![Tarantas mit Kameltroika.](Durch_Asiens_Wuesten_I_016.jpg "Tarantas mit Kameltroika."){#b016}
 ::::
 
-:::: {.wrap-100  }
+:::: {.wrap-100  .caption .align-center}
 ![Der Sir-darja bei Kasalinsk.](Durch_Asiens_Wuesten_I_017.jpg "Der Sir-darja bei Kasalinsk."){#b017}
 ::::
 
@@ -499,7 +499,7 @@ hier sehr gut war; aber ich hatte vom Fahren im Tarantas übergenug, und mit
 behaglichem Gefühl fuhr ich am 4. Dezember 1893 gleich nach Mitternacht in die
 Straßen von Taschkent ein und erhielt im Hotel Ilkin ein paar schöne Zimmer.
 
-:::: {.wrap-100  }
+:::: {.wrap-100 .caption .align-center }
 ![Taschkent.](Durch_Asiens_Wuesten_I_020.jpg "Taschkent."){#b020}
 ::::
 
@@ -562,7 +562,7 @@ zwischen meine Kniee legen und es wie ein Wickelkind hüten. Aus dem kalten,
 dichten Nebel, der die Gegend verhüllte, tauchten dann und wann lange
 Kamelkarawanen auf.
 
-:::: {.wrap-100  }
+:::: {.wrap-100 .caption .align-center  }
 ![Atturlik-masar, muhammedanisches Heiligengrab in Taschkent.](Durch_Asiens_Wuesten_I_024.jpg "Atturlik-masar, muhammedanisches Heiligengrab in Taschkent."){#b024}
 ::::
 
@@ -616,7 +616,7 @@ Liebenswürdigkeit empfing, mich während der zwanzig Tage, die ich in seinem
 Hause zubrachte, aufs beste bewirthete und mir viele sehr nützliche Rathschläge
 gab.
 
-:::: {.wrap-100  }
+:::: {.wrap-100 .caption .align-center }
 ![Muhammedanischer Märchenerzähler in Taschkent.](Durch_Asiens_Wuesten_I_026.jpg "Muhammedanischer Märchenerzähler in Taschkent."){#b026}
 ::::
 

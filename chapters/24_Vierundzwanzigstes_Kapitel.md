@@ -86,7 +86,7 @@ Kirgisenstamme benannt?), die wir im Norden zur Rechten liegen ließen, der
 *Buru-köß-davan* (Wolfsauge-Paß), den wir links ließen, und der Ullug-art
 (großer Paß), den wir wählten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center  }
 ![Der Ullug-art-Paß vom Aul Ullug-art aus](Durch_Asiens_Wuesten_I_477.jpg "Der Ullug-art-Paß vom Aul Ullug-art aus"){#b477}
 ::::
 
@@ -180,7 +180,7 @@ daher beständig auf ihren Lippen, besonders an schwierigen Stellen.
 
 Während die Kirgisen sich mit den Kisten abmühten und den Westabhang
 untersuchten, blieb ich anderthalb Stunden dort oben. Die Höhenmeßinstrumente
-gaben 5150 Meter an, und das Thermometer zeigte — 0,<small>6</small>°.
+gaben 5150 Meter an, und das Thermometer zeigte —0,<small>6</small>°.
 
 War der Aufstieg schwer gewesen, so war der Abstieg auf der Westseite geradezu
 halsbrecherisch. Nach einer sanft nach Westen geneigten Halde standen wir am
@@ -215,7 +215,7 @@ ab. Infolge der starken Niederschläge während der letzten Tage war der ganze
 Schuttkegel unsicher geworden und seine obersten Schichten waren
 heruntergestürzt, sodaß der Pfad verschüttet war.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Kirgisen-Aul im Sarik-kol-Thal.](Durch_Asiens_Wuesten_I_481.jpg "Kirgisen-Aul im Sarik-kol-Thal."){#b481}
 ::::
 
@@ -265,7 +265,7 @@ mit dem von den Südabhängen des Mus-tag-ata kommenden Flusse Kara-su vereinige
 Nach Osten hin durchbricht der vereinte Fluß das Gebirge in einer schmalen,
 Tengi genannten Passage, der auch unser Pfad folgte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Tadschik-Aul in Tagdumbasch-Pamir.](Durch_Asiens_Wuesten_I_483.jpg "Tadschik-Aul in Tagdumbasch-Pamir."){#b483}
 ::::
 
@@ -315,7 +315,7 @@ Der Erdstoß verursachte ein unbehagliches Angstgefühl. Es war als bewege sich
 der Boden in Wellenlinien. Ein deutliches Rollen, einem fernen Donnerschlage
 gleich, war zu hören, aber in ein paar Sekunden ging alles vorüber.
 
-:::: { .wrap-70  .break-before}
+:::: { .wrap-70  .caption .align-center}
 ![Mi Darin, Kommandant von Tasch-kurgan.](Durch_Asiens_Wuesten_I_485.jpg "Mi Darin, Kommandant von Tasch-kurgan."){#b485}
 ::::
 

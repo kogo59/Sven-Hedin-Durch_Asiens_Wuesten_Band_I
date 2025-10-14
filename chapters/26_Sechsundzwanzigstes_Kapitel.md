@@ -23,7 +23,7 @@ Das Terrain ist schrecklich. Oft reiten wir unter gewölbeartig herabhängenden
 Felsmassen durch, die von Rissen durchzogen sind und jeden Augenblick
 herunterstürzen können. Unausgesetzt geht es in den Bach, der blau und klar
 zwischen den Gneisblöcken rauscht, hinein und über ihn hinüber. Schließlich
-beginnt Granit; der Hohlweg von Schinde öffnet sich mit einer trichterfpörmigen
+beginnt Granit; der Hohlweg von Schinde öffnet sich mit einer trichterförmigen
 Mündung nach dem breiten Tagdumbasch-Thal, und der Bach theilt sich in mehrere
 Arme, um die Ackerfelder zu bewässern. Eine kurze Strecke von der Festung
 Tasch-kurgan entfernt, schlagen wir das Zelt wieder auf.
@@ -127,7 +127,7 @@ Yaks vor sich herzutreiben, damit diese einen Weg bahnen. Ist der Paß ganz
 unübersteiglich, so muß man bisweilen den Umweg über Jarkent und die
 Tagarma-Ebene machen, um nach Tasch-kurgan zu gelangen.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Tadschik-Jurte in Tagdumbasch-Pamir.](Durch_Asiens_Wuesten_I_505.jpg "Tadschik-Jurte in Tagdumbasch-Pamir."){#b505}
 ::::
 
@@ -232,7 +232,7 @@ um mit dem linken zu schwimmen und die Richtung anzugeben. Pferd und Mann wurden
 von der Strömung erfaßt und tanzten mit schwindelnder Geschwindigkeit
 stromabwärts.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center}
 ![Ein lebensgefährlicher Flußübergang.](Durch_Asiens_Wuesten_I_508.jpg "Ein lebensgefährlicher Flußübergang."){#b508}
 ::::
 
@@ -366,7 +366,7 @@ Druck von F. A. Brockhaus in Leipzig.
 <br /><br /><br /><br />
 ::::
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100 .break-before .caption .align-center }
 ![Pamir. Maßstab 1:1&nbsp;250&nbsp;000.](Durch_Asiens_Wuesten_I_510.jpg "Pamir. Maßstab 1:1&nbsp;250&nbsp;000."){#b510}
 ::::
 

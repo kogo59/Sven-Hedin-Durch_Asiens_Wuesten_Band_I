@@ -3,7 +3,7 @@
 ::: justified
 
 **A**m 22. Juni war die Temperatur so hoch (nachmittags 1 Uhr
-＋33,<small>1</small>°), daß wir vorzogen, im Schatten zu bleiben; erst gegen
++33,<small>1</small>°), daß wir vorzogen, im Schatten zu bleiben; erst gegen
 Abend wurde es ein wenig kühler, sodaß wir wieder aufbrechen konnten. Noch waren
 wir nicht weit gekommen, als uns schon ein Bek mit zwei Begleitern begegnete,
 die vom Amban, dem chinesischen Distriktsvorsteher, von Jangi-hissar
@@ -123,7 +123,7 @@ fließt das Eisen unten in die Kohlen hinein. Durch ein kleines Seitenloch
 untersucht man mit einer eisernen Stange, wie das Schmelzen fortschreitet. Nach
 jedem Brande muß der Ofen von Schlacken und Asche befreit werden.
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center }
 ![Kirgise aus dem östlichen Pamir (Kara-jilga).](Durch_Asiens_Wuesten_I_141.jpg "Kirgise aus dem östlichen Pamir (Kara-jilga)"){#b141}
 ::::
 
@@ -131,7 +131,7 @@ Das gewonnene Eisen ist natürlich so schlecht, daß es sich nicht schmieden lä
 sondern nur zu einfachern Ackergeräthen verwandt wird; zu Hufeisen taugt es
 nicht. Es gehört eine ganze Masse dazu, um 5 Tschärek (37 Kilo) zu gewinnen, die
 in Jangi-hissar mit 30 Tengeh (6 Mark 70 Pfennig) bezahlt werden (1 Tschärek =
-12 Dsching; 1 Dsching — ca. 620 Gramm). Der Besitzer, der zugleich Jus-baschi
+12 Dsching; 1 Dsching = ca. 620 Gramm). Der Besitzer, der zugleich Jus-baschi
 von Igis-jar (Anführer von 100 Mann, d. h. Dorfhäuptling) ist, leitet den
 Betrieb selbst, überwacht die Arbeit und zahlt jedem seiner sieben Arbeiter
 täglich nur 6 Datien (eine chinesische Bronzemünze von weniger als 12 Pfennig
@@ -234,7 +234,7 @@ Fluß zu durchwaten. Unser Karakesch (Karawanenbesitzer) hielt es jedoch für zu
 spät, heute noch aufzubrechen, da wir dann erst in finsterer Nacht an den
 Flußübergang kommen würden.
 
-:::: { .wrap-60 }
+:::: { .wrap-60 .caption .align-center }
 ![Kirgisisches Mädchen.](Durch_Asiens_Wuesten_I_145.jpg "Kirgisisches Mädchen."){#b145}
 ::::
 
@@ -282,7 +282,7 @@ jetzt wieder klaren Fluß.
 
 Die Thalschlucht Tengi-tar wird weiter oben von Gneisfelsen eingeschlossen, die
 hier und da von Konglomeratbänken überlagert werden. Aus einer solchen
-entspringen bei *Issik-bulak* drei warme Ouellen. In sprühenden, aber nicht
+entspringen bei *Issik-bulak* drei warme Quellen. In sprühenden, aber nicht
 besonders dicken Strahlen sprudelt das stark schwefelhaltige Wasser unter einem
 großen Konglomeratblocke hervor. Es hat einen unangenehmen Schwefelgeruch und
 färbt die in der Nähe liegenden Steine braun und gelb; aber gleich unterhalb der
@@ -343,7 +343,7 @@ Wir hatten nicht mehr weit nach dem Lagerplatze *Bulak-baschi* (der Anfang der
 Quellen), dessen Jus-baschi, ein alter Bek, uns mit der größten Freundlichkeit
 empfing und sofort eine bequeme Jurte in Ordnung bringen ließ.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata.](Durch_Asiens_Wuesten_I_150.jpg "Kirgisischer Aul Kara-jilga im Süden des Mus-tag-ata."){#b150}
 ::::
 
@@ -599,7 +599,7 @@ dem chinesischen Pamir geschickt. Die Kirgisen sind frei von Abgaben, aber ihr
 Aul liefert monatlich ein halbes Dutzend Schafe, die von den Chinesen mit der
 Hälfte oder dem dritten Theile des Werthes bezahlt werden.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center}
 ![Kirgisische Kinder.](Durch_Asiens_Wuesten_I_159.jpg "Kirgisische Kinder."){#b159}
 ::::
 
@@ -646,7 +646,7 @@ ordnete deshalb eine Baiga, ein Reiterspiel, an, das, wenn es auch, mit einer
 „Kaiserparade“ verglichen, nur ein Tropfen im Meere war, sie doch vielleicht an
 märchenhaftem, den Blick fesselndem Effekt übertraf.
 
-:::: { .wrap-80 }
+:::: { .wrap-80  .caption .align-center}
 ![Baiga der Kirgisen.](Durch_Asiens_Wuesten_I_161.jpg "Baiga der Kirgisen."){#b161}
 ::::
 

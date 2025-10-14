@@ -126,7 +126,7 @@ Zügen. Welcher Kontrast gegen die Tage, die uns noch bevorstanden! Während der
 folgenden beiden Wochen sollte ich mich dieser Stelle als eines irdischen
 Paradieses oft erinnern!
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Ein Paradies am Masar-tag.](Durch_Asiens_Wuesten_I_352.jpg "Ein Paradies am Masar-tag."){#b352}
 ::::
 
@@ -185,7 +185,7 @@ der weitern Verbreitung des Wassers eine Grenze. Es ist bemerkenswerth, daß wir
 alle diese Seen gerade am Fuße von Bergen finden. Nach einem weiten Umwege
 lagerten wir am Ostufer.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Die Karawane auf dem Marsche durch das Dünenmeer.](Durch_Asiens_Wuesten_I_356.jpg "Die Karawane auf dem Marsche durch das Dünenmeer."){#b356}
 ::::
 

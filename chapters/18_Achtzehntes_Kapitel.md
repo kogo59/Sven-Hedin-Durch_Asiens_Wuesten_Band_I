@@ -144,7 +144,7 @@ werden. Schließlich wurde seine Last auf die übrigen Kamele vertheilt, und es
 allein weit hinter der Karawane bugsirt. Mit Schrecken sieht man das Schiff der
 Wüste, ohne das man verloren wäre, wrack werden.
 
-:::: { .wrap-70  }
+:::: { .wrap-70  .caption .align-center }
 ![In der Heimat der Grabesstille.](Durch_Asiens_Wuesten_I_368.jpg "In der Heimat der Grabesstille."){#b368}
 ::::
 
@@ -240,7 +240,7 @@ Wellen ein Lied von Lenz und Leben singen.“
 Ich legte die tausend Schritte zurück und brach auf der Höhe einer Düne
 zusammen, wo ich mich, die weiße Mütze über dem Gesicht, auf dem Rücken
 ausstreckte. Glühende Sonne, eile lieber nach Westen, um das Eis auf dem
-Hochgebirge des Mus-tag- ata zu schmelzen, und schenke uns nur einen Becher des
+Hochgebirge des Mus-tag-ata zu schmelzen, und schenke uns nur einen Becher des
 krystallklaren Wassers, das von seinen stahlblauen Gletschern in schäumenden
 Flüssen herunterstürzt!
 
@@ -334,7 +334,7 @@ graben. Er streifte sich die Aermel auf, spuckte in die Hände und ergriff den
 Ketmen, einen sartischen, spitzen Spaten. Der trockene Lehm knisterte, und Kasim
 sang im Takte mit den Spatenstichen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center  }
 ![Kein Wasser.](Durch_Asiens_Wuesten_I_374.jpg "Kein Wasser."){#b374}
 ::::
 

@@ -30,7 +30,7 @@ würde. Hier folgt ein Verzeichniß über die Thiere:
 |Kitschik-sarik (das kleine Falbe )| 1½ Jahre|2,<small>14</small> Meter|
 ::::
 
-Wie wenig ahnten wir, daß nur eins der Kamele, Tschong—kara, die Reise überleben
+Wie wenig ahnten wir, daß nur eins der Kamele, Tschong-kara, die Reise überleben
 würde. Ak-tuja durchquerte zwar die Wüste, starb aber an Ueberanstrengung. Es
 war ein schönes, weißes Kamel, das den Zug anführte und eine gewaltige kupferne
 Glocke mit schwerem, eisernem Klöppel an einem Tauende um den Hals trug. Boghra
@@ -57,7 +57,7 @@ erstan, bis er heiser wurde, stürmte auf sie los und war augenscheinlich sehr
 mit sich zufrieden, wenn er diesem oder jenem ein Flöckchen Wolle ausreißen
 konnte.
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center}
 ![Kamel im Winterkleid mit Packsatteln.](Durch_Asiens_Wuesten_I_326.jpg "Kamel im Winterkleid mit Packsatteln."){#b326}
 ::::
 
@@ -90,7 +90,7 @@ bald Kumtschi (Wüstenmann), um ihn von dem andern Kasim zu unterscheiden. Er
 hatte Frau und erwachsene Kinder in Merket, wohin er vor einigen Jahren
 übergesiedelt war.
 
-:::: { .wrap-50 .float-right }
+:::: { .wrap-50 .float-right .caption .align-center}
 ![Kopf eines männlichen Kamel.](Durch_Asiens_Wuesten_I_327.jpg "Kopf eines männlichen Kamel."){#b327}
 ::::
 
@@ -313,7 +313,7 @@ Gegenständen und Thieren recht pittoresk aus.
 Zum ersten mal trat ich in mein unter einer Pappel aufgeschlagenes Zelt, ein
 hübsches indisches Offizierszelt, das mir Mr. Macartney geschenkt hatte. In
 diesem Zelte war der junge englische Lieutenant Davison auf seiner Reise von
-Pamir nach Kaschmir ge-storben; aber es war seitdem ausgelüftet worden, und ich
+Pamir nach Kaschmir gestorben; aber es war seitdem ausgelüftet worden, und ich
 war nicht abergläubisch. Im Innern war der Boden mit einem bunten Teppich
 bedeckt. An den Wänden standen meine Kisten, die Instrumenttaschen, die
 photographischen Apparate und mein Bett in seiner einfachen Bettstelle. Im
@@ -446,7 +446,7 @@ mit der konvexen Seite nach Osten, den Hörnern oder Flügeln und den steilen
 Böschungen nach Westen oder Südwesten, was beweist, daß in der Gegend zu dieser
 Jahreszeit östliche oder nordöstliche Winde vorherrschen.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Stürmischer Marsch in der Wüste Takla-makan.](Durch_Asiens_Wuesten_I_340.jpg "Stürmischer Marsch in der Wüste Takla-makan."){#b340}
 ::::
 
@@ -577,7 +577,7 @@ zu essen. Dieses ist einfach und besteht aus ein paar Händen voll geröstetem
 Mehl in Wasser; sie schlürfen diese Suppe aus Holznäpfen. Ich überging das
 Frühstück stets und begnügte mich mit täglich zwei Mahlzeiten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center}
 ![Aufziehender Sandsturm.](Durch_Asiens_Wuesten_I_346.jpg "Aufziehender Sandsturm."){#b346}
 ::::
 

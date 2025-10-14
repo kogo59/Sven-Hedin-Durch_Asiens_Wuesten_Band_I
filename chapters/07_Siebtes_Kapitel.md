@@ -70,7 +70,7 @@ mit der Zeit ein unentbehrlicher Gesellschafter, und es war bitter, von ihm
 scheiden zu müssen, als er ungefähr ein Jahr später in der Gobi-Wüste vor Durst
 verschmachtete.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Lager in Janikke am Ostufer des Kleinen Kara-kul.](Durch_Asiens_Wuesten_I_169.jpg "Lager in Janikke am Ostufer des Kleinen Kara-kul."){#b169}
 ::::
 
@@ -180,7 +180,7 @@ Gerade uns zu Füßen liegt der See wie auf einer Karte. Sein hellgrüner Spiege
 sticht grell ab gegen die grauen Berge und nicht weniger grell gegen die
 dunkelgrünen Wiesen an den Ufern. 
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Austritt des Ike-bel-su aus den Bergen.](Durch_Asiens_Wuesten_I_173.jpg "Austritt des Ike-bel-su aus den Bergen."){#b173}
 ::::
 
@@ -288,7 +288,7 @@ Seebecken auszufüllen und trocken zu legen. Es wird auch ohne Zweifel dereinst
 beseitigt werden und der Kara-kul-Fluß dann das Thal in einer ununterbrochenen
 Erosionsfurche durchströmen. Der See ist früher entschieden viel größer gewesen.
 
-:::: { .wrap-60 }
+:::: { .wrap-60 .caption .align-center}
 ![Junge Kirgisenfrau.](Durch_Asiens_Wuesten_I_178.jpg "Junge Kirgisenfrau."){#b178}
 ::::
 
@@ -360,7 +360,7 @@ Bassik-kul, aus dessen Mitte eine Insel mit einem Moränenhügel auftaucht. Unse
 beiden Jurten waren auf einer Wiese aufgeschlagen; um uns herum lag ein neues,
 noch zu untersuchendes Gebiet.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Unterer Bassik-kul und Mus-tag-Berge.](Durch_Asiens_Wuesten_I_181.jpg "Unterer Bassik-kul und Mus-tag-Berge."){#b181}
 ::::
 
@@ -416,7 +416,7 @@ blendendweißem Schnee bedeckt, der an einigen Stellen, vorzugsweise in den
 niedrigern Regionen, mit einer schmutziggelben, dünnen Staubschicht überzogen
 ist.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Mus-tag-ata vom Bassik-kul aus.](Durch_Asiens_Wuesten_I_183.jpg "Mus-tag-ata vom Bassik-kul aus."){#b183}
 ::::
 
@@ -526,6 +526,6 @@ vorlieb nehmen; die bessern werden für die Schafe aufgespart.
 ****
 ::::
 
-:::: { .wrap-80 .break-before }
+:::: { .wrap-70 .caption .align-center .break-before }
 ![DAS MUS-TAG-ATA-MASSIV.](Durch_Asiens_Wuesten_I_186.jpg "DAS MUS-TAG-ATA-MASSIV."){#b186}
 ::::

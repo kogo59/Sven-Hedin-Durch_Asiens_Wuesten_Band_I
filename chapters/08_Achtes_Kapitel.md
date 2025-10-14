@@ -62,7 +62,7 @@ Der Kleine Gorumdeh-Gletscher wird von einer Felseninsel in zwei Arme getheilt,
 von denen der äußere links von acht bis zehn mehr oder minder parallelen
 Seitenmoränen eingefaßt wird.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Großer und Kleiner Gorumdeh-Gletscher.](Durch_Asiens_Wuesten_I_189.jpg "Großer und Kleiner Gorumdeh-Gletscher."){#b189}
 ::::
 
@@ -114,7 +114,7 @@ kleinerer Gletscher, der oben ziemlich rein, in seinem untern Theile aber so mit
 grauschwarzem, feinem Grus überschüttet ist, daß das blaue Eis nur in den
 Spalten hervorschimmert.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus.](Durch_Asiens_Wuesten_I_191.jpg "Sarimek- und Kamper-kischlak-Gletscher, vom Sarimek-Passe aus."){#b191}
 ::::
 
@@ -164,7 +164,7 @@ Berge kreideweiß, und eine echte Winterlandschaft umgab uns. Die weiße Decke
 reichte jedoch nicht bis zum Boden des Sarik-kol-Thals hinunter, wo in dieser
 Jahreszeit die Niederschläge noch in Gestalt von Regen fallen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Austritt des Jam-bulak-Gletschers aus seinem Felsenthore.](Durch_Asiens_Wuesten_I_193.jpg "Austritt des Jam-bulak-Gletschers aus seinem Felsenthore."){#b193}
 ::::
 
@@ -215,7 +215,7 @@ Seiten, durch Spalten voneinander getrennt. Rechts strömt ein kleiner Bach,
 dessen Wasser von lauter Schleifmaterial grau und trüb ist, aus einem nur 60
 Centimeter hohen Gletscherthore.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Aussicht vom Jam-bulak-Gletscher nach Norden.](Durch_Asiens_Wuesten_I_195.jpg "Aussicht vom Jam-bulak-Gletscher nach Norden."){#b195}
 ::::
 
@@ -268,7 +268,7 @@ nicht anrühren darf, da sie ein Heiligengrab beschatten. Endlich gelang es Jehi
 Bai ein Bündel Oks zu beschaffen, d. h. Stangen, die man zum Stützen der
 domförmigen Jurtendächer nimmt.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Die südliche (linke) Felswand des Jam-bulak-Gletschers.](Durch_Asiens_Wuesten_I_197.jpg "Die südliche (linke) Felswand des Jam-bulak-Gletschers."){#b197}
 ::::
 

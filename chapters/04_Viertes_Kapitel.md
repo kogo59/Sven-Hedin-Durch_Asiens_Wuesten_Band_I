@@ -10,7 +10,7 @@ dieser unvergeßlichen Tage genossen hatte, ein letzter Gruß mit den Mützen, u
 ich sprengte nach Norden, gefolgt von dem Festungsdolmetscher, dem Tataren Kul
 Mametieff, den mir der Kommandant als Ehrenwache mitgegeben hatte.
 
-In der Dämmerung kamen wir an den Zwillingsseeen Schor-kul und Rang-kul an, die
+In der Dämmerung kamen wir an den Zwillingsseen Schor-kul und Rang-kul an, die
 ein schmaler Sund verbindet. Hier lagerten wir uns in einer Julameika, einem
 hohen, spitzen Zelte ohne Rauchfang. Rehim Bai war krank geworden und blieb auf
 der ganzen übrigen Reise nach Kaschgar dienstunfähig; er mußte wie ein
@@ -23,7 +23,7 @@ Sunde, der merkwürdigerweise offen war, schnatterten Scharen von Gänsen und
 Enten. Man sieht schon an dem Terrain, daß die Seen seicht sein müssen, denn sie
 sind von sanft abfallenden, grasbewachsenen Ebenen umgeben.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Gruppe aus Pamirskij Post.](Durch_Asiens_Wuesten_I_097.jpg "Gruppe aus Pamirskij Post."){#b097}
 ::::
 
@@ -216,7 +216,7 @@ knirschte. Abends schneite es eine Weile, aber um 10 Uhr wurde es plötzlich
 ruhig und klar, und der Mond schien in die Grotte hinein und erhellte die
 stille, friedliche, aber unheimlich öde Landschaft.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Mus-tag-ata von Norden.](Durch_Asiens_Wuesten_I_103.jpg "Mus-tag-ata von Norden."){#b103}
 ::::
 
@@ -237,7 +237,7 @@ im Abnehmen begriffener Eisgürtel; sonst gingen weiße, schäumende Wogen über
 See, und am Ufer, an das die Wellen kräftig schlugen, wehte uns eine frische,
 reine „Meeresbrise“ entgegen.
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center }
 ![Kirgisen-Häuptling Togdasin Bek.](Durch_Asiens_Wuesten_I_104.jpg "Kirgisen-Häuptling Togdasin Bek."){#b104}
 ::::
 
@@ -262,7 +262,7 @@ Togdasin Bek, der Häuptling der Su-baschi-Kirgisen, der mich artig und
 freundlich empfing und mich nach seiner großen prächtigen Jurte begleitete. Er
 sollte mit der Zeit einer meiner besten asiatischen Freunde werden. 
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Der obere Bassik-kul.](Durch_Asiens_Wuesten_I_105.jpg "Der obere Bassik-kul."){#b105}
 ::::
 
@@ -447,8 +447,8 @@ versteckte. Die Steigung ist sehr steil; nirgends erscheint eine Spalte; der
 ganze Boden ist mit Gneisblöcken von allen Größen überschüttet. Der Berg besteht
 beinahe ausschließlich aus Gneis und krystallinischem Schiefer.
 
-:::: { .wrap-80 }
-![Mus-tag-ata von Westen.<small>Im Hintergrunde die nördlichste Spitze des Berges; im Vordergrunde der Jam-bulak-Gletscher mit seinen Moränen.</small>](Durch_Asiens_Wuesten_I_111.jpg "Mus-tag-ata von Westen."){#b111}
+:::: { .wrap-80 .caption .align-center}
+![Mus-tag-ata von Westen. <small>Im Hintergrunde die nördlichste Spitze des Berges; im Vordergrunde der Jam-bulak-Gletscher mit seinen Moränen.</small>](Durch_Asiens_Wuesten_I_111.jpg "Mus-tag-ata von Westen."){#b111}
 ::::
 
 Gegen Abend erreichten wir einen schneefreien, gegen Wind geschützten Punkt, der
@@ -567,7 +567,7 @@ Offizieren von Pamirskij Post ertheilte der König Orden für die großen Dienst
 die sie mir erwiesen; es soll mich gar nicht wundern, wenn die Russen geglaubt
 haben, ich sei ein verkleideter Prinz gewesen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80  .caption .align-center}
 ![Meine Karawane im Thale des Ges-darja.](Durch_Asiens_Wuesten_I_115.jpg "Meine Karawane im Thale des Ges-darja."){#b115}
 ::::
 
@@ -618,7 +618,7 @@ erhielten, auf das Gepäck und die Pferde aufzupassen. Die Leute riethen mir, di
 Waffen in Bereitschaft zu halten. Wir hörten jedoch nichts von den Räubern, und
 die Nacht verging ebenso ruhig wie gewöhnlich.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Brücke über den Ges-darja.](Durch_Asiens_Wuesten_I_117.jpg "Brücke über den Ges-darja."){#b117}
 ::::
 
@@ -655,5 +655,5 @@ Lutsch aufs herzlichste empfangen wurde.
 
 [^4000]: [*Sarik-kol*: vergleiche [Sarikolkette](https://de.wikipedia.org/wiki/Sarikolkette)]{.footnote}
 
-[^4001]: [*Kaschgar*: vergleiche [Kaxgar](https://de.wikipedia.org/wiki/Kaxgar_(Stadt))]{.footnote}
+[^4001]: [*Kaschgar*: vergleiche [Kaxgar](https://de.wikipedia.org/wiki/Kaschgar_(Stadt))]{.footnote}
 

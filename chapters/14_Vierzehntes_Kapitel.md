@@ -54,7 +54,7 @@ und Kaschgar. Es war gerade Bazartag, und in den engen Gassen wogte ein
 außergewöhnlich reges, buntes Leben. Die Bewohner aller Nachbardörfer begeben
 sich dann hierher, um sich mit Vorräthen für die Woche zu versehen.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Meine Arba im Walde des Kaschgar-darja.](Durch_Asiens_Wuesten_I_290.jpg "Meine Arba im Walde des Kaschgar-darja."){#b290}
 ::::
 
@@ -233,7 +233,7 @@ Ein Thor führt in den Chanekah (Betsaal), dessen Fußboden mit Teppichen belegt
 ist. Im Hintergrunde ist ein durchbrochenes Holzgitter angebracht, und dahinter
 befindet sich das eigentliche Heiligengrab, ein gewöhnlicher Grabstein in einem
 viereckigen dunkeln Raume, mit Tughs, Fähnchen, Widderhörnern und
-Hirsch-geweihen geschmückt. Das Heiligthum mit seinen Kuppeln ist aus gebrannten
+Hirschgeweihen geschmückt. Das Heiligthum mit seinen Kuppeln ist aus gebrannten
 Ziegelsteinen erbaut und wird jeden Freitag von Pilgern aus der Gegend besucht.
 Auf dem äußern Hofe gibt es eine Chaneh (Küche), in der die Pilger ihre
 Mahlzeiten bereiten.
@@ -246,7 +246,7 @@ große, fischreiche Seen in der Nähe, die mit dem Hochwasser an Umfang zunähme
 Besonders interessirte es uns, zu hören, daß der Masar-tag sich in südöstlicher
 Richtung durch die Sandwüste bis an den Chotan-darja hinziehe.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Muhammedanischer Bazar.](Durch_Asiens_Wuesten_I_296.jpg "Muhammedanischer Bazar."){#b296}
 ::::
 

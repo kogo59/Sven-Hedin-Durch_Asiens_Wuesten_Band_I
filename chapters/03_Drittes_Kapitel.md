@@ -55,7 +55,7 @@ Kirgisen der benachbarten chinesischen und afghanischen Gebiete nach dem
 russischen Pamir übergesiedelt sind, wo die Lebensbedingungen infolge der
 vernünftigen, humanen Verwaltung in jeder Beziehung vortheilhafter sind.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Der Verfasser inmitten russischer Offiziere von Pamirskij Post.](Durch_Asiens_Wuesten_I_072.jpg "Der Verfasser inmitten russischer Offiziere von Pamirskij Post."){#b072}
 ::::
 
@@ -73,7 +73,7 @@ jedoch die meisten östlich von dem hohen Berge Mus-tag-ata befanden. Alle
 Pamir-Kirgisen werden von ihren Namensbrüdern in Fergana schlechtweg
 Sarik-kolis, Leute von Sarik-kol, genannt.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Tadschiks aus Roschan.](Durch_Asiens_Wuesten_I_073.jpg "Tadschiks aus Roschan."){#b073}
 ::::
 
@@ -86,7 +86,7 @@ sie im Süden und Südwesten des Sees, dessen Ufer hingegen ganz unbewohnt waren
 Im Frühjahr, Sommer und Herbst werden die Weideplätze am Kara-kul von Kirgisen
 aufgesucht, die von und nach dem Rang-kul wandern.
 
-:::: { .wrap-50  .float-left }
+:::: { .wrap-50  .float-left .caption .align-center }
 ![Kirgisen-Bek aus dem Dorfe Murghab](Durch_Asiens_Wuesten_I_074.jpg "Kirgisen-Bek aus dem Dorfe Murghab."){#b074}
 ::::
 
@@ -113,7 +113,7 @@ außergewöhnlich viel ist. Hier ist es der Nivellirungsarbeit noch nicht
 gelungen, die Bodenvertiefungen auszufüllen. Der ganze Seeboden ist jedoch, wie
 ich bei den Tiefenlothungen fand, überall mit feinem Schlamm bedeckt.
 
-:::: { .wrap-50  .float-right }
+:::: { .wrap-50  .float-right .caption .align-center }
 ![Kirgisenfrau mit Kindern aus dem Dorfe Murghab.](Durch_Asiens_Wuesten_I_075.jpg "Kirgisenfrau mit Kindern aus dem Dorfe Murghab"){#b075}
 ::::
 
@@ -157,7 +157,7 @@ Ferne friedlich weidende Archari- oder Kijikheerden. Weder Menschen noch
 menschliche Wohnungen sind zu sehen; Weideplätze sind spärlich und mager;
 überall der kahle Erdboden, der an eine Mondlandschaft erinnert.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Landschaft nordwestlich von Pamirskij Post.](Durch_Asiens_Wuesten_I_076.jpg "Landschaft nordwestlich von Pamirskij Post."){#b076}
 ::::
 
@@ -229,7 +229,7 @@ nach Richthofen's Definition, zum großen asiatischen Centralgebiete im
 eigentlichen Sinne gehören, trägt doch die Gegend, die sie mit ihren trüben
 Wogen modelliren und beleben, den Charakter aller peripherischen Zonen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Eins unserer Lager in der Uebergangszone in Pamir.](Durch_Asiens_Wuesten_I_081.jpg "Eins unserer Lager in der Uebergangszone in Pamir."){#b081}
 ::::
 
@@ -280,8 +280,8 @@ andern Verhältnissen als die Nomaden.
 Die ethnographische Grenze bedingt natürlich auch die sprachliche. Die Kirgisen
 haben für die geographischen Gegenstände ihre türkischen, die Taschdiks ihre
 persischen Namen. So haben alle nach Westen fließenden Flüsse an ihrem Oberlauf
-kirgisische, am Unterlauf aber persische Namen, z. B. Ak-su—Murghab,
-Gurum-di—Gunt. Von zwei nebeneinander fließenden Bächen heißt der eine
+kirgisische, am Unterlauf aber persische Namen, z. B. Ak-su-Murghab,
+Gurum-di-Gunt. Von zwei nebeneinander fließenden Bächen heißt der eine
 Kok-ui-bel, weil sein Thal von Kirgisen besucht wird, der andere Kuh-därä, weil
 ein Taschdik-Dorf an seiner Mündung liegt. 
 
@@ -334,7 +334,7 @@ die Schnee und feinen Sand mit sich führten. Während dieser Zeit wohnten
 Offiziere und Mannschaften in kirgisischen Jurten, die nicht selten vom Sturme
 umgeweht wurden.
 
-:::: { .wrap-100 }
+:::: { .wrap-100  .caption .align-center}
 ![Der Kasernhof von Pamirskij Post.](Durch_Asiens_Wuesten_I_084.jpg "Der Kasernhof von Pamirskij Post."){#b084}
 ::::
 
@@ -400,7 +400,7 @@ wurden, war ich oft von einem halben Dutzend neugieriger Zuschauer umgeben, die
 mit Spannung verfolgten, wie die Bilder der eisigen Berge und ihrer halbwilden
 Bewohner wie durch einen Zauberschlag den Platten Leben und Inhalt gaben.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Dschigiten-Zelte außerhalb von Pamirskij Post](Durch_Asiens_Wuesten_I_091.jpg "Dschigiten-Zelte außerhalb von Pamirskij Post."){#b091}
 ::::
 
@@ -477,6 +477,6 @@ unermeßlichen Halle.
 
 [^3000]: [*Murghab*: vergleiche [Murgab](https://de.wikipedia.org/wiki/Murgab_(Karakum))]{.footnote}
 
-[^3001]: [*Kisil-su*: vergleiche [Kysylsuu](https://de.wikipedia.org/wiki/Kysylsuu_(Kaxgar))]{.footnote}
+[^3001]: [*Kisil-su*: vergleiche [Kysylsuu](https://de.wikipedia.org/wiki/Kysylsuu_(Kaschgar))]{.footnote}
 
 [^3002]: [*Amudarja*: vergleiche [Amudarja](https://de.wikipedia.org/wiki/Amudarja)]{.footnote}

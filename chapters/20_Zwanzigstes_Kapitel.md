@@ -59,7 +59,7 @@ gehalten und schnappte nach Luft. Er sagte, daß der alte Mann todmatt sei und
 keinen Schritt mehr machen könne. Er habe während des Marsches im Gehen
 phantasirt und die ganze Zeit über von Wasser geredet.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Das letzte Lager in der Wüste.](Durch_Asiens_Wuesten_I_396.jpg "Das letzte Lager in der Wüste."){#b396}
 ::::
 
@@ -382,7 +382,7 @@ bleibt ein Mord. Als wir die Kamele zurückließen, hegten wir immer noch die
 schwache Hoffnung, mit Wasser zurückkommen und sie retten zu können. Und was die
 Hühner betrifft, so hatte ich eine Ahnung, daß sie uns von Nutzen sein würden,
 wenn wir zurückkämen, um nach dem Zelte zu suchen, und ich glaubte, daß sie mit
-dem Schafkadaver ihr Leben noch sehr laͤnge fristen könnten. *Diese Ahnung
+dem Schafkadaver ihr Leben noch sehr lange fristen könnten. *Diese Ahnung
 sollte nach mehr als einem Jahre Bestätigung erhalten!* Doch ich will den
 Ereignissen nicht vorgreifen. Inzwischen schritten wir langsam weiter. Jolldasch
 folgte uns noch immer getreulich, war aber mager wie ein Skelett. Auf dem ersten
@@ -436,7 +436,7 @@ nicht fortfahren konnten, so fast aufs gerathewohl zwischen Riesendämmen
 umherzutappen. Ich stieg ab, zündete die Laterne an und ging voraus, um den
 leichtesten Uebergang zu suchen.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Abschied von meinen sterbenden Gefährten. Von Ljungdahl.](Durch_Asiens_Wuesten_I_408.jpg "Abschied von meinen sterbenden Gefährten. Von Ljungdahl."){#b408}
 ::::
 

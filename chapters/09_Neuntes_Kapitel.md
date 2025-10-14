@@ -28,7 +28,7 @@ seinen weißen Schnee- und Eisfeldern eben noch in blendender Klarheit geglänzt
 hüllte sich wieder in dichte Wolken, und am Abend führten die Windgötter einen
 wahnsinnigen Rundtanz um einen ihrer höchsten Throne aus.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Die höchste Spitze des Mus-tag-ata, von Westen gesehen.](Durch_Asiens_Wuesten_I_200.jpg "Die höchste Spitze des Mus-tag-ata, von Westen gesehen."){#b200}
 ::::
 
@@ -92,7 +92,7 @@ Firngebiet hoch über uns, die Gletscherzunge aber gerade unter uns in der Tiefe
 und der Abstand zwischen diesen beiden Punkten erscheint in der hohen klaren
 Bergluft sehr gering.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Firnbecken des Jam-bulak-Gletscher.](Durch_Asiens_Wuesten_I_203.jpg "Firnbecken des Jam-bulak-Gletscher."){#b203}
 ::::
 
@@ -106,7 +106,7 @@ ununterbrochene Reihe von Felsvorsprüngen und Einschnitten, die nicht das
 Geringste mit dem Gletscher zu thun haben, da sie ausschließlich ein Werk der
 Verwitterung sind.
 
-Der Berg fällt hier mit 22° Neigung nach der Su-baschi—Ebene ab, eine Neigung,
+Der Berg fällt hier mit 22° Neigung nach der Su-baschi-Ebene ab, eine Neigung,
 die in der verdünnten Luft recht fühlbar ist. Der Schnee scheint immer reiner
 und blendender zu werden, und die Kruste knirscht. Langsam schreiten wir über
 einen Vorsprung nach dem andern hin oder an ihnen vorbei und durch die
@@ -268,15 +268,15 @@ Schafen schwer, Futter zu finden. Nach lange andauernden Niederschlägen pflegte
 ungeheure Schneemassen als Lawinen herabzustürzen und Steine und Schutt mit sich
 zu führen.
 
-:::: { .wrap-60 .break-after }
+:::: { .wrap-60 .caption .align-center  }
 ![Togda Bai Bek.](Durch_Asiens_Wuesten_I_208.jpg "Togda Bai Bek."){#b208}
 ::::
 
-:::: { .wrap-60 .break-after}
+:::: { .wrap-50 .caption .align-center }
 ![DER TSCHAL-TUMAK-GLETSCIHER DES MUS-TAG-ATA. <small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_209.jpg "DER TSCHAL-TUMAK-GLETSCIHER DES MUS-TAG-ATA."){#b209}
 ::::
 
-:::: { .wrap-60 .break-after }
+:::: { .wrap-60 .caption .align-center  }
 ![Tschal-tumak-Gletscher.](Durch_Asiens_Wuesten_I_210.jpg "Tschal-tumak-Gletscher."){#b210}
 ::::
 
@@ -342,7 +342,7 @@ ausgelassen und muthwillig wie ein Schulknabe während der Ferien, glücklich, d
 Eisesbanden entschlüpft zu sein und nach warmen, fruchtbaren Gegenden
 hinabkommen zu dürfen.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Tergen-bulak-Gletscher beim Zusammenfluß seiner drei Arme.](Durch_Asiens_Wuesten_I_215.jpg "Tergen-bulak-Gletscher beim Zusammenfluß seiner drei Arme"){#b215}
 ::::
 
@@ -413,7 +413,7 @@ sobald das Thier glaubte, daß meine Pläne denn doch zu hochstrebend seien,
 stehen blieb und darüber nachgrübeln wollte, wozu diese ewige Kletterei
 eigentlich diene.
 
-:::: { .wrap-70 }
+:::: { .wrap-70 .caption .align-center }
 ![DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA. <small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_216.jpg "DER TERGEN-BULAK-GLETSCHER DES MUS-TAG-ATA."){#b216}
 ::::
 
@@ -423,7 +423,7 @@ stillsitzen, hier und da einen Blick auf die Aneroide werfend, deren Zeiger
 während der Tage, da wir den Vater der Eisberge zu besteigen versuchten, nicht
 viel Ruhe hatten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center }
 ![Rast während der Besteigung des Mus-tag-ata.](Durch_Asiens_Wuesten_I_217.jpg "Rast während der Besteigung des Mus-tag-ata."){#b217}
 ::::
 

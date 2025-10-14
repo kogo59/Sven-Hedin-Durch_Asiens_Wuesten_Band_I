@@ -121,7 +121,7 @@ langsam vor sich, daß die Waldgürtel mitkommen können. Nur vereinzelte Pappel
 wie die drei, bei denen wir am 3. Mai das Signalfeuer anzündeten, bleiben auf
 einige Zeit im Westen zurück, sind aber zum Aussterben verurtheilt.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Sandsturm im Bette des Chotan-darja.](Durch_Asiens_Wuesten_I_460.jpg "Sandsturm im Bette des Chotan-darja."){#b460}
 ::::
 
@@ -236,7 +236,7 @@ durchgemacht.
 
 Als es am Morgen des Mairamfestes starb, war es still und stumm auf dem Hofe des
 Karawanserais. Keine Karawanen kommen oder gehen an diesem Tage, und die
-Beschäftigungen des Alltags-lebens ruhen. Alle Menschen sind spazieren gegangen.
+Beschäftigungen des Alltagslebens ruhen. Alle Menschen sind spazieren gegangen.
 Auf Markt und Straßen wimmelt es von bunten, neuen, glänzenden Chalaten. Wohin
 man sieht, lauter Mützen in schreienden Farben und blendendweiße Turbane. Alle
 Wanderer sehen fröhlich und vergnügt drein. Sogar der geringste Diener hat heute
@@ -244,7 +244,7 @@ von seinem Herrn ein Geschenk zum „Aid mubarek“, dem gesegneten Feste, erhal
 und aus dem Thurmfenster des Minarets ertönt lauter als sonst der Gebetruf des
 Muezzin zum Lobe des Ewigen.
 
-:::: { .wrap-40 .float-right  }
+:::: { .wrap-40 .float-right .caption .align-center }
 ![Aksakal Muhammed Emina.](Durch_Asiens_Wuesten_I_465.jpg "Aksakal Muhammed Emina."){#b465}
 ::::
 
@@ -307,7 +307,7 @@ Sehenswürdigkeiten gibt es kaum. Die Hauptmoschee, die den gewöhnlichen Namen
 Mestschid-i-Dschami (Freitagsmoschee) trägt, ist nicht besonders merkwürdig, hat
 aber eine pittoreske Lage an einem kleinen, offenen Platze.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Freitagsmoschee in Ak-su.](Durch_Asiens_Wuesten_I_466.jpg "Freitagsmoschee in Ak-su."){#b466}
 ::::
 

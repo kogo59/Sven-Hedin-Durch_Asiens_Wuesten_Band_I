@@ -76,7 +76,7 @@ für die Pflanze aufzupumpen, die wie eine Teichrose auf der beweglichen,
 wogenden Oberfläche des Sandmeeres schwimmt.
 
 Schon der Anblick der Tamariske war uns ein Genuß, und eine Wollust war es, die
-müden, ausgetrockneten Glieder für einen Augen-blick in ihrem dünnen Schatten
+müden, ausgetrockneten Glieder für einen Augenblick in ihrem dünnen Schatten
 auszustrecken. Hier war das Oelblatt, das uns verkündete, daß das Wüstenmeer
 doch eine Grenze hatte, die äußerste Klippe, die den Schiffbrüchigen eine nahe
 gelegene Küste verrieth! Ich pflückte einen ganzen Strauß von diesen
@@ -84,7 +84,7 @@ nadelholzähnlichen Zweigen und sog mit Wohlbehagen ihren frischen Duft ein.
 Meine Hoffnung war stärker als je, und mit neuem Muthe setzten wir unsern Weg
 nach Osten fort.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Die erste Tamariske.](Durch_Asiens_Wuesten_I_416.jpg "Die erste Tamariske."){#b416}
 ::::
 
@@ -343,7 +343,7 @@ weiß es nicht. Vielleicht war es der Mond, der mich hypnotisirte, denn er
 glänzte mit seinen schmalen Hörnern in dieser Himmelsrichtung und warf einen
 matten, bläulichen Schein über die stille Gegend.
 
-:::: { .wrap-70  .break-before }
+:::: { .wrap-70  .caption .align-center }
 ![Verzweifeltes Suchen nach Wasser.](Durch_Asiens_Wuesten_I_424.jpg "Verzweifeltes Suchen nach Wasser."){#b424}
 ::::
 
@@ -475,7 +475,7 @@ daß ein dichter Wolkenschleier, der sich vielleicht aus dem aufsteigenden Nebel
 gebildet hatte, sich wie ein Tuch vor den Mond zog, sodaß es im Walde
 pechfinster wurde und ich die Spur verlor.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Rückkehr mit dem rettenden Wasser.](Durch_Asiens_Wuesten_I_428.jpg "Rückkehr mit dem rettenden Wasser."){#b428}
 ::::
 
@@ -544,7 +544,7 @@ schnellem Tempo am rechten Ufer aufwärts direkt nach Süden fort. Die Stiefel
 waren noch so durchnäßt, daß ich sie nicht anziehen konnte; ich ging daher
 barfuß.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Labung des verschmachtenden Kasim.](Durch_Asiens_Wuesten_I_430.jpg "Labung des verschmachtenden Kasim."){#b430}
 ::::
 

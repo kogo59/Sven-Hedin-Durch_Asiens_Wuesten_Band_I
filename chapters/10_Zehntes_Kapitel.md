@@ -22,7 +22,7 @@ Panzereises südlich davon fließen in den kleinen See *Galltschötöck* und von
 dort weiter nach Süden zum Jarkent-darja. Am See liegt ein Aul von sechs Jurten,
 der unter den Beks von Tagarma steht.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata.](Durch_Asiens_Wuesten_I_218.jpg "Aufbruch zum letzten Versuch der Besteigung des Mus-tag-ata."){#b218}
 ::::
 
@@ -127,7 +127,7 @@ Ritzen hineinwirbelte. Die Kirgisen schaufelten deshalb an der Außenseite einen
 Schneewall auf.
 
 Anfänglich befanden sich alle wohl. Wir zündeten ein großes Feuer von Teresken
-und Hakdung an, das gut wärmte und unsere steifen Glieder wieder geschmeidig
+und Yakdung an, das gut wärmte und unsere steifen Glieder wieder geschmeidig
 machte, aber die Jurte mit erstickendem Rauche anfüllte, der uns in den Augen
 biß und nur langsam einen Weg zum geöffneten Eingang hinaus fand. Der Schnee
 schmolz im Zelte, aber als das Feuer zu erlöschen begann, verwandelte sich alles
@@ -157,7 +157,7 @@ phantastischsten Gletscher, den die Gebirgswelt aufweisen kann. Nur ein paar
 Schritte nach Süden, und wir wären in einen 400 Meter tiefen Abgrund auf
 stahlblankes, blauglänzendes Eis gefallen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere.](Durch_Asiens_Wuesten_I_229.jpg "Mein höchstes Lager auf dem Mus-tag-ata, 6300 Meter über dem Meere."){#b229}
 ::::
 
@@ -398,7 +398,7 @@ in einer ihm unbekannten Welt befinden, denn der Gipfel des Mus-tag-ata badet
 sich in einer Höhe im Sonnenlicht, die die höchsten Berge Europas um 3000 Meter
 überragt.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Mus-tag-ata und Jam-bulak-Gletscher von Westen.](Durch_Asiens_Wuesten_I_237.jpg "Mus-tag-ata und Jam-bulak-Gletscher von Westen."){#b237}
 ::::
 

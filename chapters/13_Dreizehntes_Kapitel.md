@@ -83,7 +83,7 @@ oder Jarkent bezogen, aber es gibt im Sarik-kolThale auch einheimische Schmiede
 und Tischler. Das Holz zu der Jurte wird aus den Thälern am Ostabhange des
 Mus-tag-ata geholt, denn in Sarik-kol wachsen keine Bäume.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Kirgisisches Mädchen aus Tur-bulung.](Durch_Asiens_Wuesten_I_272.jpg "Kirgisisches Mädchen aus Tur-bulung."){#b272}
 ::::
 
@@ -95,7 +95,7 @@ Labetrunk. Kaimak ist dicke, gelbe süße Yaksahne von vorzüglichster Qualität
 mandelartig schmeckend; Sut ist gewöhnliche Milch. Alle diese Milcharten werden
 in Schläuchen von Ziegenfell aufbewahrt.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Kirgisenfrauen.](Durch_Asiens_Wuesten_I_273.jpg "Kirgisenfrauen."){#b273}
 ::::
 
@@ -111,7 +111,7 @@ und alle rufen miteinander „Allahu ekbär“ (Gott ist groß). Die fünf tägl
 Gebete des Islam werden von dem jeweiligen Aeltesten des Auls pünktlich
 verrichtet.
 
-:::: { .wrap-70  }
+:::: { .wrap-70 .caption .align-center }
 ![Kirgisisches Mädchen aus Sarik-kol.](Durch_Asiens_Wuesten_I_274.jpg "Kirgisisches Mädchen aus Sarik-kol."){#b274}
 ::::
 
@@ -140,7 +140,7 @@ Deshalb wurde auch mein langer Aufenthalt unter ihnen als eine interessante
 Abwechselung betrachtet. Einen Ferengi (Europäer) in der Nähe sehen und
 begleiten und alle seine unbegreiflichen Beschäftigungen beobachten zu dürfen,
 war ihnen bisher noch nie beschert gewesen. Sie konnten jedoch nicht begreifen,
-weshalb ich durch— aus jeden einzelnen Gletscher besuchen wollte und warum ich
+weshalb ich durchaus jeden einzelnen Gletscher besuchen wollte und warum ich
 alles abzeichnete, ja sogar Steine aus den Bergen losbrach und in meine Kisten
 legte, denn alles in der Gegend erschien ihnen so natürlich und uninteressant
 wie nur möglich.
@@ -222,7 +222,7 @@ den wir im Sommer gesehen hatten. Bei dem großen Kok-sel-Gletscher schwenkten
 wir nach links ab und erstiegen in steilen Zickzackwegen den Abhang der rechten
 Thalseite. Abends rasteten wir im Aul *Tur-bulung*, dessen Einwohner sich bald
 nach dem Kleinen Kara-kul zu begeben gedachten, um dort den Winter zuzubringen.
-In Tur-bulung ist der Winter außerordentlich streng, und Schnee— stürme stehen
+In Tur-bulung ist der Winter außerordentlich streng, und Schneestürme stehen
 auf der Tagesordnung. Wölfe, Füchse und Bären sind dort häufig. 
 
 Als wir am 11. Oktober im Aul rasteten, herrschte ein sehr heftiger Wind, und
@@ -337,7 +337,7 @@ Weihnachtslichter auf schwankenden Tannenzweigen, sondern mit
 Kandschutöl gespeiste Lampen, die ebenso einfach waren wie die zu Christi
 Zeiten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center }
 ![Generalkonsul Petrowskij und der Verfasser.](Durch_Asiens_Wuesten_I_281.jpg "Generalkonsul Petrowskij und der Verfasser."){#b281}
 ::::
 
@@ -398,7 +398,7 @@ Heirath hatten, aber es war vielen in Kaschgar ein trauriges Beispiel dafür, wi
 die Interessen der Missionsgesellschaft oft wahrgenommen werden und wie leicht
 ihre Leiter es oft mit der übernommenen Verantwortung nehmen.
 
-:::: { .wrap-40 .float-right }
+:::: { .wrap-40 .float-right  .caption .align-center}
 ![Kaufmann aus Ostturkestan.](Durch_Asiens_Wuesten_I_283.jpg "Kaufmann aus Ostturkestan."){#b283}
 ::::
 

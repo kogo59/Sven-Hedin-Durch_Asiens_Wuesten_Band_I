@@ -78,7 +78,7 @@ Anfang 1897 zurückgelegt habe. An keinem einzigen Tage habe ich diese wichtige
 Arbeit versäumt. Nicht eine Lücke ist in der langen gekrümmten Linie durch
 Asien, die erst ihr Ende fand, als ich am 2. März 1897 in Peking einritt und das 552. 
 Kartenblatt gezeichnet hatte. Hierbei benutzte ich nur den Kompaß. Die
-Wegelänge bestimmte ich, indem ich so oft als möglich eine Basis von 200 — 400
+Wegelänge bestimmte ich, indem ich so oft als möglich eine Basis von 200—400
 Metern mit dem Meßband ausmaß und dann untersuchte, wieviele Minuten die
 Karawane mit ihren Lasten im gewöhnlichen Marschtempo brauchte, um das
 abgemessene Stück Weges zurückzulegen. Stets wurde die nöthige Rücksicht

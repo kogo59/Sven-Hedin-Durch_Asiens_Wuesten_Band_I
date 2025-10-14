@@ -152,7 +152,7 @@ sechste und siebente die Waffen und die übrigen Gegenstände. Den Zug schlossen
 die drei Fouragepferde mit Futter- und Kornsäcken; das eine von ihnen verschwand
 fast unter zwei kolossalen Strohsäcken.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Vor dem Bazar in Utsch-kurgan.](Durch_Asiens_Wuesten_I_032.jpg "Vor dem Bazar in Utsch-kurgan."){#b032}
 ::::
 
@@ -163,7 +163,7 @@ blieb die Nacht über in Margelan und durfte also der europäischen Civilisation
 noch ein letztes Lebewohl sagen, denn die ganze vornehme Welt von Margelan war
 an diesem Abend beim Gouverneur versammelt.
 
-:::: { .wrap-70  }
+:::: { .wrap-60 .caption .align-center }
 ![Der Verfasser in Winterkleidung.](Durch_Asiens_Wuesten_I_032a.jpg "Der Verfasser in Winterkleidung."){#b032a}
 ::::
 
@@ -174,7 +174,7 @@ gastfreien Gouverneur und seiner liebenswürdigen Familie verließ ich am 23.
 Februar am frühen Morgen Margelan und vereinigte mich in *Utsch-kurgan* mit den
 Meinigen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80  .caption .align-center }
 ![Auf dem Wege nach Austan.](Durch_Asiens_Wuesten_I_033.jpg "Auf dem Wege nach Austan."){#b033}
 ::::
 
@@ -219,7 +219,7 @@ Thalgrunde ab, wo an den Ufern des Isfairan spärliche Bäume und Büsche wachse
 An den Abhängen hängt manch alter, knorriger Artscha (asiatischer Wachholder)
 seine zottelköpfige Krone über einen gähnenden Abgrund.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Austan im Isfairan-Thal.](Durch_Asiens_Wuesten_I_033a.jpg "Austan im Isfairan-Thal."){#b033a}
 ::::
 
@@ -282,7 +282,7 @@ zwölf Stunden waren wir durch den Schnee gewandert, als wir müde, durchfroren
 und hungerig endlich in *Langar* anlangten, wo uns zwei schöne Jurten mit
 flammendem Feuer erwarteten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center }
 ![Im Isfairan-Thal.](Durch_Asiens_Wuesten_I_038.jpg "Im Isfairan-Thal."){#b038}
 ::::
 
@@ -312,7 +312,7 @@ nach beiden Seiten hin versperrt. Er kroch, kletterte und watete durch die
 Schneewehen und traf nach zehn Tagen Kirgisen, von denen er Nahrung und Pflege
 erhielt. Dann setzte er seinen Weg nach Utsch-kurgan fort, starb aber dort schon
 in der ersten Nacht vor Erschöpfung. Man erzählte mir auch, daß im selben Winter
-eine Karawane von vierzig Mann im Passe Terek--davan von einer Lawine mit Mann
+eine Karawane von vierzig Mann im Passe Terek-davan von einer Lawine mit Mann
 und Maus begraben worden sei.—
 
 In der Nacht auf den 26. Februar schickten wir acht Kirgisen mit Spaten, Picken
@@ -346,7 +346,7 @@ Kopfweh und Herzklopfen zu äußern. Diese Symptome, die jedoch nach ein paar
 Tagen spurlos verschwinden, werden durch den plötzlichen Höhenwechsel
 verursacht.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Auf dem Tengis-bai-Passe.](Durch_Asiens_Wuesten_I_042.jpg "Auf dem Tengis-bai-Passe."){#b042}
 ::::
 
@@ -418,7 +418,7 @@ darauf langten wir an dem kirgisischen Winteraul gleichen Namens an, der sich
 aus zwanzig Jurten zusammensetzt und unter der Herrschaft des gastfreien
 Häuptlings Tasch Muhammed Emin steht.
 
-:::: { .wrap-100  }
+:::: { .wrap-100  .caption .align-center}
 ![Aussicht vom Tengis-bai-Passe nach Süden.](Durch_Asiens_Wuesten_I_044.jpg "Aussicht vom Tengis-bai-Passe nach Süden."){#b044}
 ::::
 
@@ -429,7 +429,7 @@ Kometenschweife von feinem Treibschnee, von denen sich einer quer über mein
 Kopfkissen gelegt hatte. Ich schlief jedoch wie ein Bär in seiner Höhle und ließ
 es stürmen und schneien, wie es wollte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Aufbruch von Daraut-kurgan.](Durch_Asiens_Wuesten_I_045.jpg "Aufbruch von Daraut-kurgan."){#b045}
 ::::
 
@@ -465,7 +465,7 @@ hatte den Weg zugefegt, und so gewaltige Schneewehen lagen hier, daß während d
 ganzen Tagemarsches vier Kamele erst einen Weg durch den Schnee stampfen mußten,
 auf dem die Pferde schwer und langsam nachfolgten.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Das Alai- und Transalai-Gebirge vom Tengis-bai-Passe aus.](Durch_Asiens_Wuesten_I_046.jpg "Das Alai- und Transalai-Gebirge vom Tengis-bai-Passe aus."){#b046}
 ::::
 
@@ -478,7 +478,7 @@ und ritten deshalb in allen möglichen Bogen über die Erhöhungen des Bodens. D
 Schnee war jedoch so tief, daß die Kamele oft ganz unvermuthet fast vollständig
 darin versanken und eine andere Richtung eingeschlagen werden mußte.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Durch das Alai-Thal im Schneesturm.](Durch_Asiens_Wuesten_I_047.jpg "Durch das Alai-Thal im Schneesturm."){#b047}
 ::::
 
@@ -533,7 +533,7 @@ Reitern, Pferden und Kamelen, die uns Heu für die Pferde und Brennmaterial
 brachten. Die Kirgisen riethen uns, bis zum nächsten Morgen zu bleiben, wo wir
 waren.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Emin auf der Suche nach einem Wege.](Durch_Asiens_Wuesten_I_049.jpg "Emin auf der Suche nach einem Wege."){#b049}
 ::::
 
@@ -547,7 +547,7 @@ Aufrechterhaltung der Verbindung zwischen den Aulen gebraucht man dann die Yaks
 da sie mit dem Kopfe und den Hufen förmliche Tunnels durch die Schneemassen
 stoßen, in denen die Kirgisen ihnen folgen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Am Ufer des Kisil-su.](Durch_Asiens_Wuesten_I_050.jpg "Am Ufer des Kisil-su."){#b050}
 ::::
 
@@ -576,7 +576,7 @@ Schnee verborgene Boden beschaffen ist; ein dumpfer Ton verräth hartgefrorenen
 Boden, während hohle, gellende Töne anzeigen, daß wir über Eisfelder reiten, die
 Gewölbe bilden.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Uebergang über den Kisil-su.](Durch_Asiens_Wuesten_I_051.jpg "Uebergang über den Kisil-su."){#b051}
 ::::
 
@@ -589,7 +589,7 @@ ein Feuer an, um das wir einen engen Kreis bildeten, froren und versuchten, uns
 durch Thee zu erwärmen; es waren —26°.
 
 Lange dauerte es, bis wir an jenem Abend zur Ruhe kamen, und erst nachts um 1
-Uhr war es still im Lager; das Thermometer zeigte — 32°. Ich pflegte in meiner
+Uhr war es still im Lager; das Thermometer zeigte —32°. Ich pflegte in meiner
 Jurte allein zu schlafen, denn es ist nicht angenehm, die Kirgisen gar zu dicht
 auf dem Leibe zu haben, da sie in ihren Pelzen selten allein wohnen. Doch die
 Kälte ist ein gutes Schutzmittel gegen das Uebel, auf das ich anspiele, und in
@@ -614,7 +614,7 @@ blendendem Weiß und Blau, und darüber wölbt sich jetzt ein reiner, türkisbla
 Himmel. Um den Pik Kauffmann und seine Nachbargipfel hängen wie Brautschleier
 dichte, weiße Wolken — hu, welch eiskalte, starre Bräute!
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Meine Karawane in Marschordnung.](Durch_Asiens_Wuesten_I_052.jpg "Meine Karawane in Marschordnung."){#b052}
 ::::
 
@@ -682,7 +682,7 @@ gebunden, um ihn am Ausreißen zu hindern; dann wird er gemartert, solange noch
 ein Funken von Leben in ihm ist. Ich hatte ein paarmal Gelegenheit, den Qualen
 eines solchen Sünders ein Ende zu machen.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Herberge Bor-doba.](Durch_Asiens_Wuesten_I_055.jpg "Herberge Bor-doba."){#b055}
 ::::
 
@@ -727,7 +727,7 @@ Tughs, d. h. mit Lumpen, Zeugflicken und Antilopenhörnern besetzten Stangen, de
 Opfergaben frommer Kirgisen. Beim Denkmal fielen meine Leute wieder auf die Knie
 und dankten Allah dafür, daß wir den gefürchteten Paß ohne Gefahren erreicht.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Die Pferde suchen Futter unter dem Schnee.](Durch_Asiens_Wuesten_I_057.jpg "Die Pferde suchen Futter unter dem Schnee."){#b057}
 ::::
 
@@ -748,7 +748,7 @@ Auf der Südseite des Passes lag anfangs viel Schnee, er wurde aber allmählich
 dünner. Nach achtstündigem Marsch erreichten wir die kleine Herberge *Kok-sai*.
 Ich erinnere mich dieser besonders gut, weil ich dort den niedrigsten
 Temperaturgrad auf meiner ganzen Reise durch Asien beobachtete; das Quecksilber
-fiel auf — 38,<small>2</small>°, war also nicht weit von seinem Gefrierpunkte
+fiel auf —38,<small>2</small>°, war also nicht weit von seinem Gefrierpunkte
 entfernt.
 
 Südlich vom Kisil-art bekommt die Landschaft einen ganz andern Charakter. Die
@@ -778,7 +778,7 @@ in mehrern Schichten übereinandergegossener, nach und nach gefrorener Sahne. Di
 Steppe ist dünn mit Teresken bewachsen, einem holzigen, verkrüppelten, trockenen
 Strauche, der vorzügliches Brennmaterial liefert.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center }
 ![Der Große Kara-kul vom Ui-bulak-Passe aus.](Durch_Asiens_Wuesten_I_058.jpg "Der Große Kara-kul vom Ui-bulak-Passe aus."){#b058}
 ::::
 
@@ -791,7 +791,7 @@ zeichneten sich wie blauweiße, kalte Gespenster gegen den sich verdunkelnden
 Himmel ab, während die westlichen eine schwarze Silhouette auf dem noch in
 Hellblau und Purpur strahlenden Firmamente bildeten.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Die Insel im Großen Kara-kul.](Durch_Asiens_Wuesten_I_059.jpg "Die Insel im Großen Kara-kul."){#b059}
 ::::
 
@@ -844,7 +844,7 @@ Teresken ein Feuer angezündet. Nachdem wir das Abendbrot eingenommen, brachten
 wir mitten auf dem Kara-kul, 4000 Meter über dem Meere, bei —29° eine kalte,
 ungemüthliche Nacht zu.
 
-:::: { .wrap-80 }
+:::: { .wrap-80.caption .align-center }
 ![Rehim Bai und Islam Bai lothen im Kara-kul.](Durch_Asiens_Wuesten_I_061.jpg "Rehim Bai und Islam Bai lothen im Kara-kul."){#b061}
 ::::
 
@@ -956,14 +956,14 @@ europäischern Stellung, wurde jedoch so von der Nachtkälte durchschauert, daß
 ich von Zeit zu Zeit aufspringen und mir Bewegung machen mußte. Die Pferde
 machten sich dann und wann bemerkbar, als wollten sie uns daran erinnern, daß
 wir ganz vergessen hätten, ihnen ihre Kornbeutel umzuhängen. Es war ein Glück,
-daß der Nachtwind nicht gar zu frisch war und die Kälte nur bis auf —
-15,<small>5</small>° herabging. Bei Tagesanbruch stiegen wir hungerig und
+daß der Nachtwind nicht gar zu frisch war und die Kälte nur bis auf
+—15,<small>5</small>° herabging. Bei Tagesanbruch stiegen wir hungerig und
 steifgefroren zu Pferd, ritten eine Stunde weit nach Süden und entdeckten einen
 Platz, auf dem es gelbes, mageres Gras gab, soweit es die letzten Schafheerden
 im Herbst hatten stehen lassen. Während die Pferde hier ein paar Stunden
 grasten, schliefen wir gut, da die Sonne ein wenig zu wärmen begonnen hatte.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Aktam am Kara-Kul.](Durch_Asiens_Wuesten_I_065.jpg "Aktam am Kara-Kul."){#b065}
 ::::
 
@@ -1013,7 +1013,7 @@ Schichten nach und nach ausgelaufenen und erstarrten Wassers unterscheiden
 konnten. Die Krateröffnung war mit weißem, luftfreiem Eise verkittet und kein
 herauströpfelndes Wasser ließ sich wahrnehmen: also ein „erloschener Vulkan“.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Auf dem Ak-baital-Passe.](Durch_Asiens_Wuesten_I_067.jpg "Auf dem Ak-baital-Passe."){#b067}
 ::::
 
@@ -1023,7 +1023,7 @@ kuppelförmig, hatte 30 Böschung und 20 Meter Durchmesser; er war aus klarem,
 durchsichtigem Eis. Er hatte jedoch ein Netz von kleinen concentrischen und
 radialen Spalten. Auch hier war die Kratermündung zugefroren, und das Wasser
 hatte sich einen neuen Ablauf durch eine Seitenspalte gesucht, wo seine
-Temperatur — 0,<small>3</small> war. Meine Kirgisen erzählten, daß an diesen
+Temperatur —0,<small>3</small> war. Meine Kirgisen erzählten, daß an diesen
 beiden Punkten jeden Winter zwei solche Vulkane entstehen, die im Frühling
 jedoch ziemlich früh wieder verschwinden. In diesem Jahre waren sie größer als
 gewöhnlich gewesen.
@@ -1052,7 +1052,7 @@ Boden mit Verwitterungsprodukten, theils Kies, theils größern Steinen und
 Blöcken, erfüllt sind; dazwischen schlängelt sich ein kleiner Bach, der jetzt
 eine feste Eisdecke trug. Von Vegetation ist keine Spur zu entdecken.
 
-:::: { .wrap-100 }
+:::: { .wrap-100 .caption .align-center}
 ![Nordfront der Festung Pamirskij Post.](Durch_Asiens_Wuesten_I_068.jpg "Nordfront der Festung Pamirskij Post."){#b068}
 ::::
 
@@ -1068,7 +1068,7 @@ breite Murghab-Thal übergeht, und damit die letzte Wegstrecke bis zu unserm
 nächsten Ziele zurückzulegen. In der Ferne sieht man bereits die kleine Festung
 Pamirskij Post; auf ihrer nordwestlichen Bastion flattert Rußlands Fahne.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Kirgisen in Togolak-matik.](Durch_Asiens_Wuesten_I_069.jpg "Kirgisen in Togolak-matik."){#b069}
 ::::
 

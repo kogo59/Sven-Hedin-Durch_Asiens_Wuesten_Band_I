@@ -26,7 +26,7 @@ war. Der Tümpel an der rechten Ufermoräne des Jam-bulak-Gletschers liegt in
 einer Erdbebenspalte, die sich von der Zunge des großen
 Kamper-kischlak-Gletschers bis in die unmittelbare Nachbarschaft unsers
 Messungsplatzes erstreckte. Sie ist meistens einfach, bisweilen aber doppelt.
-Sie gleicht einem Walloder Chausseegraben, ist ungefähr 5 Meter tief und 15—20
+Sie gleicht einem Wall- oder Chausseegraben, ist ungefähr 5 Meter tief und 15—20
 Meter breit, und ihr Boden ist mit Geröll, Sand und Erde überschüttet, die
 nachträglich hineingestürzt sind.
 
@@ -116,7 +116,7 @@ hier durch die für das östliche Pamir charakteristische Plateaulandschaft mit
 breiten, ebenen, wasserlosen Thälern und niedrigen, abgerundeten, stark
 verwitterten Bergketten an den Seiten.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Kirgisenlager im Sarik-Rol-Thal.](Durch_Asiens_Wuesten_I_244.jpg "Kirgisenlager im Sarik-Rol-Thal."){#b244}
 ::::
 
@@ -253,7 +253,7 @@ ist sehr jäh, und die Halden sind mit feinem Schiefergrus bedeckt, auf dem die
 Pferde schwer festen Fuß fassen können. Ein kaum sichtbarer Steig zeigte, daß
 dieser Paß nur von Kijiks, Tekkes und Archaris benutzt wird
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Westliches Ende des Jeschil-kul.](Durch_Asiens_Wuesten_I_249.jpg "Westliches Ende des Jeschil-kul."){#b249}
 ::::
 
@@ -364,7 +364,7 @@ Verdunstung her. Die vom Gravitationsgesetze vorgeschriebene Bewegung wird in
 gewisser Hinsicht dadurch neutralisirt, daß die Schwere der Eismassen durch die
 Einwirkung der angeführten Kräfte vermindert wird.
 
-:::: { .wrap-80  }
+:::: { .wrap-80 .caption .align-center }
 ![Kara-korum, das Südende des Mus-tag-ata.](Durch_Asiens_Wuesten_I_253.jpg "Kara-korum, das Südende des Mus-tag-ata."){#b253}
 ::::
 

@@ -112,7 +112,7 @@ sondern bahnen auch ihren Heerden damit einen Weg durch das dichte Unterholz. Im
 Winter hauen sie mit der Balta junge Zweige und Triebe ab zum Futter für die
 Schafe und Ziegen.
 
-Ein unentbehrliches Instrument ist auch der Feuerstahl (Tschak—mak). Wenn sie
+Ein unentbehrliches Instrument ist auch der Feuerstahl (Tschak-mak). Wenn sie
 aber einmal Feuer angemacht haben, wobei sie auch getrockneten Viehdung
 benutzen, lassen sie es nicht wieder ausgehen, solange sie sich an demselben
 Orte befinden. Sie bedecken die glühenden Kohlen mit Asche, und wenn sie abends
@@ -275,7 +275,7 @@ Ufer lag. Wir gingen zu Fuß, während Ak-tuja unser Hab und Gut trug. Auf einem
 kleinen, von Gebüsch und Kamisch umgebenen, mit altersgrauen Pappeln gekrönten
 Hügel am Ufer schlugen wir unsern Wohnsitz für die nächste Zeit auf.
 
-:::: { .wrap-100  }
+:::: { .wrap-100 .caption .align-center }
 ![Im Schutze des Uferwaldes des Chotan-darja.](Durch_Asiens_Wuesten_I_446.jpg "Im Schutze des Uferwaldes des Chotan-darja."){#b446}
 ::::
 

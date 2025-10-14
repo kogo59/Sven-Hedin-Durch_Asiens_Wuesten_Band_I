@@ -33,7 +33,7 @@ konnten. Ich war also in eine Sackgasse gerathen. Nur nach Westen lagen mir
 unbekannte Theile von Pamir; ich beschloß also, nach den Quellgebieten des
 *Amu-darja* zu ziehen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Hindu-kusch beim Uprang-Paß.](Durch_Asiens_Wuesten_I_487.jpg "Hindu-kusch beim Uprang-Paß."){#b487}
 ::::
 
@@ -53,7 +53,7 @@ ziehen, gerade jetzt in *Mehman-jolli* (Gastweg), einem kleinen Querthale eine
 Tagereise weit in Nordosten, mit ihren Arbeiten beschäftigt war, konnte ich mir
 das Vergnügen nicht versagen, ihr eine Visite zu machen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Tschackmakden-kul, von Westen gesehn.](Durch_Asiens_Wuesten_I_488.jpg "Tschackmakden-kul, von Westen gesehn."){#b488}
 ::::
 
@@ -76,7 +76,7 @@ Da saß ich nun in der Klemme. Die einzige Art, meine Neutralität zu bewahren,
 war, auf meine alte Bekanntschaft mit dem russischen General und auf meine —
 mangelhafte Toilette hinzuweisen.
 
-:::: { .wrap-40 .float-right }
+:::: { .wrap-40 .float-right .caption .align-center}
 ![Affridi-Soldat der englischen Eskorte.](Durch_Asiens_Wuesten_I_489.jpg "Affridi-Soldat der englischen Eskorte."){#b489}
 ::::
 
@@ -110,7 +110,7 @@ bestand aus einigen vierzig Kosaken und einem Musikkorps von 18 Mann, sowie
 einer Menge von eingeborenen Dschigiten und Karawanenführern. Die Engländer
 hatten gegen 200 indische Soldaten, Hindus, Affridi und Kandschuter.
 
-:::: { .wrap-40 .float-left }
+:::: { .wrap-40 .float-left .caption .align-center }
 ![Kosak mit Jagdbeute.](Durch_Asiens_Wuesten_I_490.jpg "Kosak mit Jagdbeute."){#b490}
 ::::
 
@@ -190,7 +190,7 @@ zwei und zwei zusammengebunden waren. Die Kandjuter führten prächtige
 Schwerttänze auf, mit Scheintreffen und Gefechten mit blankem Säbel, was an die
 gleichartigen Spiele der Chinesen erinnerte.
 
-:::: { .wrap-60 }
+:::: { .wrap-60 .caption .align-center }
 ![Gulam Moheddin Chan und sein Sekretär.](Durch_Asiens_Wuesten_I_493.jpg "Gulam Moheddin Chan und sein Sekretär."){#b493}
 ::::
 
@@ -239,7 +239,7 @@ an Motiven gefunden. Auch ich, obgleich nur Dilettant, zeichnete die ganzen Tage
 hindurch, da ich meine photographischen Apparate leider in der Wüste verloren
 hatte.
 
-:::: { .wrap-40 .float-right }
+:::: { .wrap-40 .float-right .caption .align-center}
 ![Hinduknabe aus dem englischen Lager.](Durch_Asiens_Wuesten_I_495.jpg "Hinduknabe aus dem englischen Lager."){#b495}
 ::::
 

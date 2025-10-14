@@ -35,23 +35,23 @@ book: epub html pdf docx
 clean:
 	rm -r $(BUILD)
 
-epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
+docx: $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
-pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+$(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
+																			 $(COVER_IMAGE) $(PREFACE_HTML_PDF)
+	mkdir -p $(BUILD)/docx
+	$(PANDOC) $(ARGS_HTML) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to docx --resource-path=$(IMAGES_FOLDER) -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+
+epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(METADATA) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/epub
 	$(PANDOC) $(ARGS) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to epub+raw_html --resource-path=$(IMAGES_FOLDER) --epub-cover-image=$(COVER_IMAGE) -o $@  $(PREFACE_EPUB) $(CHAPTERS)
 
-	$(CALIBRE)ebook-polish --add-soft-hyphens -i -p -U  $@ $@
+	$(CALIBRE)ebook-polish --add-soft-hyphens -i -p -U -u $@ $@
 	$(CALIBRE)ebook-convert $@ $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 --share-not-sync --disable-font-rescaling
 	$(CALIBRE)ebook-convert $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).mobi --share-not-sync --disable-font-rescaling --mobi-file-type both
-
-$(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
-																			 $(COVER_IMAGE) $(PREFACE_HTML_PDF)
-	mkdir -p $(BUILD)/docx
-	$(PANDOC) $(ARGS_HTML) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to docx --resource-path=$(IMAGES_FOLDER) -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
 
 html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 
@@ -66,12 +66,7 @@ pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/pdf
 	cp  *.css  $(IMAGES_FOLDER)
-	cp  $(IMAGES_FOLDER)/Durch_Asiens_Wuesten_I_*.jpg .
-	cp  $(IMAGES_FOLDER)/cover.jpg .
-	cp  $(IMAGES_FOLDER)/logo.jpg .
-	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
+	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --extract-media=. --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=json $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS) | sed  's/ch....xhtml//g'  | pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --from=json --to=pdf -o $@
 	rm  $(IMAGES_FOLDER)/*.css
-	rm Durch_Asiens_Wuesten_I_*.jpg
-	rm cover.jpg 
-	rm logo.jpg
-
+	rm *.jpg
+	

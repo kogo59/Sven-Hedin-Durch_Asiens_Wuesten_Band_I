@@ -61,7 +61,7 @@ Hindukarawanserai wohnte er in einem fensterlosen Stübchen und lebte dort in de
 größten Armuth, von seinen Freunden in Europa, wie es schien, längst vergessen,
 denn selten oder nie erhielt er Briefe.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Stadtthor in Kaschgar.](Durch_Asiens_Wuesten_I_121.jpg "Stadtthor in Kaschgar."){#b121}
 ::::
 
@@ -78,7 +78,7 @@ bei seiner Armuth gewähren konnte, allein ging er abends auf der Landstraße
 spazieren, immer allein. Es freute mich, ihn zu treffen, und wir saßen oft
 beieinander und philosophirten, denn ich war ebenso allein wie er.
 
-:::: { .wrap-80 }
+:::: { .wrap-80  .caption .align-center }
 ![Bazarstraße.](Durch_Asiens_Wuesten_I_122.jpg "Bazarstraße."){#b122}
 ::::
 
@@ -94,7 +94,7 @@ Dies waren die Repräsentanten der Völker, deren Glaubenssymbol das Kreuz ist.
 Sie thaten mir leid; ihre Arbeit war fruchtlos, ihr Leben leer, mühevoll und —
 vergebens.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Im muhammedanischen Bazar.](Durch_Asiens_Wuesten_I_123.jpg "Im muhammedanischen Bazar."){#b123}
 ::::
 
@@ -141,7 +141,7 @@ Militärpersonen verwaltet werden. Doch kann der Dao Tai auch in Sarik-kol einen
 gewissen Einfluß ausüben. Er darf Rath und Aufschlüsse ertheilen, hat aber kein
 Recht, dort zu befehlen.
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center }
 ![Chang, Dao Tai in Kaschgar.](Durch_Asiens_Wuesten_I_125.jpg "Chang, Dao Tai in Kaschgar."){#b125}
 ::::
 
@@ -181,7 +181,7 @@ fragte, wie mir sein Thee schmecke, und ich mit dem einzigen chinesischen Worte,
 das ich bis dahin kannte, „tschao“ (gut) antwortete, schlug er die Hände
 zusammen und rief aus: „Himmel, was ist unser Gast für ein gelehrter Mann!“ Und
 als er nachher erklärte, daß die Gewässer des Tarim, die sich in den Lopnor
-ergießen, einige tausend Li (1 Li - 442 Meter) weiter wieder zum Vorschein
+ergießen, einige tausend Li (1 Li = 442 Meter) weiter wieder zum Vorschein
 kommen, um den Hvang-ho zu bilden, revanchirte ich mich mit: „Wie Excellenz
 belesen sind, Sie wissen aber auch alles!“
 
@@ -382,7 +382,7 @@ Platanen; was er sagte, verstand ich nicht, aber ich bildete mir manchmal ein,
 es seien Grüße aus der Heimat. Ich ahnte nicht, daß mir noch drei Jahre schwerer
 Wanderungen im innersten Asien bevorstanden!
 
-:::: { .wrap-80 }
+:::: { .wrap-80 .caption .align-center}
 ![Im Konsulatsgarten zu Kaschgar.](Durch_Asiens_Wuesten_I_133.jpg "Im Konsulatsgarten zu Kaschgar."){#b133}
 ::::
 

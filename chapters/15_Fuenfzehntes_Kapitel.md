@@ -190,7 +190,7 @@ Jarkent seinen Anfang nimmt und eine Menge Dörfer mit Wasser versieht. Vor neun
 Jahren ist er auf Befehl der Chinesen ausgebessert worden; 11&nbsp;000 Mann
 sollen daran gearbeitet haben.
 
-:::: { .wrap-50 .float-left }
+:::: { .wrap-50 .float-left .caption .align-center}
 ![Derwisch aus Osturkestan.](Durch_Asiens_Wuesten_I_312.jpg "Derwisch aus Osturkestan."){#b312}
 ::::
 
@@ -273,9 +273,9 @@ Tage 36,<small>6</small>° betrug.
 
 Gleichzeitig geht die Temperatur während der Nacht herunter, wenn der Buran
 aufgehört und der Himmel sich wieder aufgeklärt hat. Vor dem Buran zeigte das
-Minimumthermometer z. B. —6°, am letzten Tage des Burans stieg es auf —
-0,<small>4</small>° fiel darauf aber wieder auf —2° und gestern auf —
-3,<small>5</small>°. Die Ausstrahlung nimmt, mit andern Worten, nach und nach
+Minimumthermometer z. B. —6°, am letzten Tage des Burans stieg es auf —0,<small>4</small>° 
+fiel darauf aber wieder auf —2° und gestern auf —3,<small>5</small>°. 
+Die Ausstrahlung nimmt, mit andern Worten, nach und nach
 zu, wenn der Staub zu Boden fällt oder fortgetrieben wird. Ebenso steigt auch
 die Lufttemperatur mittags im Schatten, wenn die Luft sich aufklärt; so am 16.,
 17. und 18. März von 5,<small>4</small>° auf 7,<small>4</small>°und 11°. Der
