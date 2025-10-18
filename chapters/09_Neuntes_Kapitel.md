@@ -273,7 +273,7 @@ zu führen.
 ::::
 
 :::: { .wrap-50 .caption .align-center }
-![DER TSCHAL-TUMAK-GLETSCIHER DES MUS-TAG-ATA. <small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_209.jpg "DER TSCHAL-TUMAK-GLETSCIHER DES MUS-TAG-ATA."){#b209}
+![DER TSCHAL-TUMAK-GLETSCHER DES MUS-TAG-ATA. <small>Nach der Originalaufnahme des Verfassers.</small>](Durch_Asiens_Wuesten_I_209.jpg "DER TSCHAL-TUMAK-GLETSCHER DES MUS-TAG-ATA."){#b209}
 ::::
 
 :::: { .wrap-60 .caption .align-center  }
