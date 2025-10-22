@@ -2,7 +2,7 @@
 
 ::: justified
 
-**I**ch hatte den Kleinen Kara-kul^[^0005]^ zum Ausgangspunkt für alle Kartenaufnahmen und
+**I**ch hatte den Kleinen Kara-kul<sup>[^0005]</sup> zum Ausgangspunkt für alle Kartenaufnahmen und
 Exkursionen dieses Sommers bestimmt. Am 12. Juli zogen wir dorthin, um eine
 Jurte zu beziehen, die verabredetermaßen an seinem Südufer aufgeschlagen worden
 war.

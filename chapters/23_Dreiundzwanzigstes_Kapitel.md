@@ -203,7 +203,7 @@ Gegend.
 zusammenhängenden Dorfstraße, auf beiden Seiten von Kanälen begleitet, die von
 Alleen, meistens Maulbeerbäumen und Weiden, beschattet sind. Am Tage darauf
 gelangten wir wieder auf die große Heerstraße nach Kaschgar und über den
-Ak-su-darja nach *Jangischahr*^[^2300]^ (die neue Stadt), um die herum die chinesische
+Ak-su-darja nach *Jangischahr*<sup>[^2300]</sup> (die neue Stadt), um die herum die chinesische
 Festung ihre zierlichen Mauern erhebt.
 
 Ich schickte sofort einen Mann mit meinem Paß und meiner chinesischen

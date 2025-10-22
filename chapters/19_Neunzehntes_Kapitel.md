@@ -179,7 +179,7 @@ Die Atmosphäre war mit Staub und Sand übersättigt, und nicht einmal die näch
 Dünen waren sichtbar. Heute wäre es unmöglich gewesen, die Sonne zur Wegweiserin
 zu nehmen; nicht eine helle Stelle am Firmament verrieth ihren Platz. Es war der
 schwerste Sturm, den wir auf der ganzen Wüstenreise gehabt, einer jener
-Kara-burane^[^1900]^, jener schwarzen Stürme, die den Tag in Nacht verwandeln.
+Kara-burane<sup>[^1900]</sup>, jener schwarzen Stürme, die den Tag in Nacht verwandeln.
 
 Wir hatten unter freiem Himmel geschlafen. Ich lag in meine Pelze gehüllt und
 hatte den Baschlik über den Kopf gezogen. Dessenungeachtet war ich am Morgen im

@@ -35,7 +35,7 @@ einem Kruzifix und sah wie ein abgedankter Kardinal aus. Wir schwatzten bei
 Tische gern mit ihm, aber er beantwortete die heikelsten Anspielungen nur mit
 einem freundlichen Lächeln und war zufrieden, wenn er einen ordentlichen Schnaps
 bekam. Kein Mensch, außer ihm selbst, glaubte, daß er Missionar war, denn er
-hatte in den zehn Jahren keinen einzigen Proselyten^[^5000]^ gemacht, ja nicht einmal
+hatte in den zehn Jahren keinen einzigen Proselyten<sup>[^5000]</sup> gemacht, ja nicht einmal
 versucht, einen zu gewinnen. Er selbst prahlte damit, ein altes sartisches Weib
 auf dem Todtenbette bekehrt zu haben, aber böse Zungen behaupteten, die Alte sei
 schon todt gewesen, als er sie bekehrt habe. Während des folgenden Winters
@@ -100,7 +100,7 @@ vergebens.
 
 Während meines ersten Besuchs in Kaschgar, Weihnachten 1890, hatte ich die
 Freude gehabt, mit zwei ausgezeichneten, liebenswürdigen Engländern, Hauptmann
-Younghusband^[^5001]^ und Mr. Macartney^[^5002]^, zusammenzutreffen. Ersterer war jetzt wieder
+Younghusband<sup>[^5001]</sup> und Mr. Macartney<sup>[^5002]</sup>, zusammenzutreffen. Ersterer war jetzt wieder
 nach Indien zurückgekehrt, letzterer aber war noch hier und wohnte in einem
 komfortablen, herrlich gelegenen Hause im Tschinne-bag-Garten, wo er mich und
 Pater Hendricks mehr als einmal zu einem vorzüglichen Mittagessen einlud.
@@ -307,7 +307,7 @@ Die bei dem Diner vorkommenden Gerichte waren größtentheils aus dem eigentlich
 China und daher hier in den Wüsten des fernen Westens kostbare Dinge. Der Dao
 Tai, der sonst einfach speist, wollte uns augenscheinlich auf würdige Weise
 bewirthen. Aber wir verstanden die chinesische Küche, über deren seltsame
-Erzeugnisse ein Brillat-Savarin^[^5003]^ vor Mitleid geweint hätte, nicht zu würdigen.
+Erzeugnisse ein Brillat-Savarin<sup>[^5003]</sup> vor Mitleid geweint hätte, nicht zu würdigen.
 
 Der einzige, der Europas Ehre aufrecht hielt, war Adam Ignatieff, der bei uns
 ebenso wie bei den Chinesen Bewunderung erregte. Er aß gewissenhaft von allen 46

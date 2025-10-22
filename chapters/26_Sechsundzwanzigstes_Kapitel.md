@@ -167,7 +167,7 @@ dschaggataisch-türkisch.
 
 Der *Arpa-tallak-Paß*, den wir in einigen Tagen überschreiten sollten, bildet
 eine Religionsgrenze. Oestlich davon wohnen nur Sunniten, westlich auch
-Schiiten.^[^2600]^ Die beiden muhammedanischen Sekten leben jedoch in bester Eintracht,
+Schiiten.<sup>[^2600]</sup> Die beiden muhammedanischen Sekten leben jedoch in bester Eintracht,
 und die Feindschaft, die sonst zwischen den sunnitischen Türken und den
 schiitischen Persern herrscht, fehlt hier vollständig. Sie heirathen
 untereinander und kommen beständig miteinander in Berührung. An die Chinesen

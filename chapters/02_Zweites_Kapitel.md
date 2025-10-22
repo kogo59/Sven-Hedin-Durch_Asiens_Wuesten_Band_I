@@ -19,9 +19,9 @@ Norden Macht und Reich geraubt wurden, machte Rußland auf die Herrschaft über
 Pamir Anspruch. Man schenkte jedoch dem unzugänglichen, fast unbewohnten Lande
 wenig Aufmerksamkeit. Dies ermuthigte seine andern Nachbarn, angrenzende Stücke
 des ehemaligen Chanats zu annektiren. Die Afghanen besetzten ganz Badalschan und
-Schugnan und zeigten sich auch in Schugnan und Wachan,^[^2000]^ wo sie am Pändsch-Flusse^[^2001]^
+Schugnan und zeigten sich auch in Schugnan und Wachan,<sup>[^2000]</sup> wo sie am Pändsch-Flusse<sup>[^2001]</sup>
 befestigte Posten anlegten. Die Chinesen besetzten die östlichen Grenzgebiete
-von Pamir, und die Engländer nahmen sich später Tschitral^[^2002]^ und Kandschut.
+von Pamir, und die Engländer nahmen sich später Tschitral<sup>[^2002]</sup> und Kandschut.
 
 Diesen Operationen sahen die Russen auf die Dauer nicht gleichgültig zu. Im
 Jahre 1891 zog der Oberst Jonnoff mit einer Truppe von beinahe 1000 Kosaken, in
@@ -29,7 +29,7 @@ Begleitung von Munitions- und Proviantkarawanen, ja sogar mit Mitrailleusen, von
 Margelan über ganz Pamir bis an den Hindu-kusch, wo er in der Nähe des
 Barogil-Passes mit einem kleinen afghanischen Vorposten ein Scharmützel hatte.
 Bald darauf wurde am Flusse Murghab der Posten Schah-dschan angelegt, der später
-in Pamirskij Post^[^2011]^ umgetauft wurde. Hier lagen stets ein paar hundert Kosaken, um
+in Pamirskij Post<sup>[^2011]</sup> umgetauft wurde. Hier lagen stets ein paar hundert Kosaken, um
 die russischen Interessen zu wahren.
 
 So entstand die Pamirfrage, über die in den letzten Jahren so viel gesprochen
@@ -89,8 +89,8 @@ Kommandanten am Bulunkul in der Nähe der Grenze. Dschigiten sollten mich auf de
 ganzen Wege begleiten, und in Margelan halfen mir Sachverständige in
 liebenswürdigster Weise bei der Ausrüstung der Karawane.
 
-Die im voraus bestimmte Route führte über das Alai-Gebirge^[^2004]^ über den Paß
-*Tengis-bai* und durch das *Alai-Thal*,^[^2003]^ über den Paß *Kisil-art* an den See
+Die im voraus bestimmte Route führte über das Alai-Gebirge<sup>[^2004]</sup> über den Paß
+*Tengis-bai* und durch das *Alai-Thal*,<sup>[^2003]</sup> über den Paß *Kisil-art* an den See
 *Kara-kul* und über den *Ak-baital-Paß* nach *Pamirskij* Post am Murghab, wohin
 ich 490 Kilometer hatte, die sich auf 18 kurze Tagemärsche und 5 Rasttage
 vertheilten.
@@ -145,7 +145,7 @@ abgetheilt war, sowie Lothe mitgenommen. Der Meßtisch war so eingerichtet, daß
 er im Falle eines Buran in ein provisorisches Miniaturzelt verwandelt werden
 konnte.—
 
-Am 22. Februar zog die Karawane mit den Dschigiten nach *Utsch-kurgan.*^[^2005]^ Ein Pferd
+Am 22. Februar zog die Karawane mit den Dschigiten nach *Utsch-kurgan.*<sup>[^2005]</sup> Ein Pferd
 trug die ganze photographische Ausrüstung in zwei Jachtanen, ein zweites die
 Instrument-, Bücher- und Arzneikisten, das vierte und fünfte den Proviant, das
 sechste und siebente die Waffen und die übrigen Gegenstände. Den Zug schlossen
@@ -203,7 +203,7 @@ In der Eile des Aufbruchs von Margelan hatte ich ganz vergessen, mir einen Hund
 anzuschaffen, der vor der Jurte Wache halten sollte; diesem Mangel wurde auf
 unerwartete Weise abgeholfen.
 
-Als wir am 25. Februar den Weg nach *Langar*^[^2006]^ zurücklegten, gesellte sich ein
+Als wir am 25. Februar den Weg nach *Langar*<sup>[^2006]</sup> zurücklegten, gesellte sich ein
 großer, gelber, langhaariger kirgisischer Hund unaufgefordert zu unserm Zuge. Er
 folgte uns getreulich auf dem ganzen Wege bis nach Kaschgar und hielt die
 schärfste Karaul (Wache) vor dem Zelte. Er bekam den Namen Jolltschi, der
@@ -375,7 +375,7 @@ Im Norden sehen wir das Isfairan-Thal, das wir nach so großen Anstrengungen
 jetzt endlich hinter und unter uns haben. Im Südosten öffnet sich ein
 großartiges Panorama. Hinter den scharf markirten Kämmen des Alai-Gebirges
 erscheint in der Ferne, jenseits des Alai-Thales, das Bergsystem des
-*Trans-alai*^[^2007]^ in den schönsten blauen und weißen Tönen mit Gipfeln, die in den
+*Trans-alai*<sup>[^2007]</sup> in den schönsten blauen und weißen Tönen mit Gipfeln, die in den
 Wolken verschwinden, und Schneefeldern, die in blendender Klarheit leuchten.
 
 Nachdem wir in der hohen dünnen Luft der gewaltigen Wasserscheide aufgeathmet
@@ -512,7 +512,7 @@ Schnee.
 Das Wetter war still. Gegen elf Uhr kam die Sonne zum Vorschein, und aus dem
 Nebel traten die majestätischen Gipfel des Transalai hervor, um die hier und da
 noch leichte, durchsichtige Schleier schwebten. Von Zeit zu Zeit sah man auch
-den *Pik Kauffmann*^[^2008]^ (7000 Meter), eine silberglänzende Pyramide, die indessen
+den *Pik Kauffmann*<sup>[^2008]</sup> (7000 Meter), eine silberglänzende Pyramide, die indessen
 ihre Nachbarn nur wenig an Höhe zu übertreffen schien.
 
 Wir erwarteten eine Partie kirgisischer Reiter, die von *Artschabulak* kommen
@@ -714,7 +714,7 @@ Wölfe nieder, die sofort von ihren Kameraden aufgefressen wurden, worauf diese
 die Flucht ergriffen.
 
 Am Morgen des 9. März fielen alle Kirgisen im Schnee auf die Knie und baten
-Allah um eine glückliche Reise über den gefürchteten *Kisil-art-Paß*^[^2009]^, wo
+Allah um eine glückliche Reise über den gefürchteten *Kisil-art-Paß*<sup>[^2009]</sup>, wo
 verderbenbringende Burane oft aus eben noch wolkenlosem Himmel kommen. Ich hatte
 mich auf eine greuliche Wanderung gefaßt gemacht, fand jedoch, daß der Kisil-art
 viel leichter zu überschreiten war als der Tengis-bai. Wir wurden auch von dem
@@ -755,7 +755,7 @@ Südlich vom Kisil-art bekommt die Landschaft einen ganz andern Charakter. Die
 Schneemenge ist unbedeutend, der Boden streckenweit nackt und mit Geröll und
 Sand bedeckt. Die Bergformen sind mehr abgerundet; die relativen Höhen nehmen
 ab, und die Bergkämme werden durch langsam abfallende, breite, muldenförmige
-Thäler von einander getrennt. Zwischen dem Kisil-art und dem *Ak-baital-Passe*^[^2010]^
+Thäler von einander getrennt. Zwischen dem Kisil-art und dem *Ak-baital-Passe*<sup>[^2010]</sup>
 umschließt den See *Kara-kul* ein Gebiet, das keinen Abfluß nach dem Amu-darja
 hat, und wo die Verwitterungsprodukte des Gebirges liegen bleiben, um zum
 Nivelliren des Terrains beizutragen. Man kann hier im Kleinen zwischen

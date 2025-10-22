@@ -37,17 +37,17 @@ nicht in meinen Bewegungen gehemmt zu sein.
 Ich will die wissenschaftlichen Arbeiten, die meine Thätigkeit hauptsächlich in
 Anspruch genommen haben, hier nur erwähnen: die Aufnahme geologischer Profile
 durch das östliche meridionale Randgebirge von Pamir und durch die Bergketten
-des Kven-lun-Systems,^[^0002]^ anthropologische Messungen einer Anzahl Kirgisen, Studium
+des Kven-lun-Systems,<sup>[^0002]</sup> anthropologische Messungen einer Anzahl Kirgisen, Studium
 der Wanderungen der Nomaden in den verschiedenen Jahreszeiten, Untersuchungen
 über die Etymologie der geographischen Namen, Messung der Wassermenge eines
 jeden Flusses, den wir passirten, Tiefenlothungen in den Seen, Sammlung von
 Pflanzen, insbesondere von Algen, in den hochalpinen Regionen von Pamir und
 Tibet, Führung eines meteorologischen Journals dreimal im Tage, dessen
-Bearbeitung Dr. Nils Ekholm^[^0001]^ zu übernehmen so freundlich war, Sammlung eines
+Bearbeitung Dr. Nils Ekholm<sup>[^0001]</sup> zu übernehmen so freundlich war, Sammlung eines
 reichhaltigen Materials in Betreff der geographischen Ausdehnung und des
-Charakters der Wüste Gobi und des Flußsystems des Tarim.^[^0003]^ Ich hatte Gelegenheit,
+Charakters der Wüste Gobi und des Flußsystems des Tarim.<sup>[^0003]</sup> Ich hatte Gelegenheit,
 die Eigenheiten des letztern an mehrern ganz verschiedenen Punkten von den
-Hochländern von Pamir und Tibet bis zu seinem fernen Ende, dem Lop-nor^[^0004]^, zu
+Hochländern von Pamir und Tibet bis zu seinem fernen Ende, dem Lop-nor<sup>[^0004]</sup>, zu
 untersuchen, zu beobachten, wie im Sommer in den Flußbetten riesige Wassermassen
 niederströmen, während sie im Winter zu unbedeutenden Rinnsalen
 zusammenschrumpfen, und wie diese Erscheinung jährlich wiederholt wird mit
@@ -70,8 +70,8 @@ Polhöhe wurde für 7, die Länge für 6 neue Orte erhalten.
 
 Die topographischen Arbeiten begann ich, nachdem ich die bekannten Gebiete im
 russischen Pamir hinter mir gelassen hatte, im Sommer 1894. Mit Diopter,
-Meßtisch und Schrittzähler nahm ich das Gebiet um den Kleinen Kara-kul^[^0005]^ auf, von
-wo ich ausging, um die Gletscher des Mus-tag-ata^[^0006]^ zu kartiren.
+Meßtisch und Schrittzähler nahm ich das Gebiet um den Kleinen Kara-kul<sup>[^0005]</sup> auf, von
+wo ich ausging, um die Gletscher des Mus-tag-ata<sup>[^0006]</sup> zu kartiren.
 
 Dann nahm ich jeden Weg auf, den ich während der Jahre 1894, 1895, 1896 und
 Anfang 1897 zurückgelegt habe. An keinem einzigen Tage habe ich diese wichtige
@@ -114,7 +114,7 @@ gefehlt hatten.
 Als Kuriosität möchte ich erwähnen, daß die auf den 552 Kartenblättern
 enthaltene, während der Reise gezeichnete Route 111 Meter lang ist, wobei die
 Weglinien auf den Karten der Mus-tag-ata-Gletscher noch nicht eingerechnet sind!
-Das gesammte Kartenmaterial befindet sich vorläufig in Justus Perthes'^[^0007]^
+Das gesammte Kartenmaterial befindet sich vorläufig in Justus Perthes'<sup>[^0007]</sup>
 Geographischer Anstalt in Gotha, um dort bearbeitet und in „Petermanns
 Mitteilungen“ veröffentlicht zu werden. —
 
@@ -134,7 +134,7 @@ inbegriffen, auf 37&nbsp;400 Mark belaufen haben.
 
 An übrigen Beiträgen führe ich mit Dankbarkeit an: eine Doppelflinte von Herrn
 W. Tamm, dem Direktor des Eisenwerks Husqvarna, einen Expreßstutzen von
-Generalkonsul J. W. Smitt, ein Aluminium-Kraniometer^[^0008]^ von Professor G. Retzius^[^0009]^
+Generalkonsul J. W. Smitt, ein Aluminium-Kraniometer<sup>[^0008]</sup> von Professor G. Retzius<sup>[^0009]</sup>
 und einen künstlichen Horizont von Professor Freiherrn von Nordenskiöld.
 
 Mein Gepäck war, als ich Stockholm verließ, nicht groß, denn die massigere
@@ -192,14 +192,14 @@ jeden einzelnen Bildes überwacht. Ich kann mich nicht lobend genug aussprechen
 Aufgabe.
 
 Für die Berechnung der absoluten Höhen, die in dem Buche enthalten sind, bin ich
-Herrn Dr. Nils Ekholm^[^0010]^ zu Dank verpflichtet.
+Herrn Dr. Nils Ekholm<sup>[^0010]</sup> zu Dank verpflichtet.
 
 Ganz besonders freut es mich, jetzt eine Gelegenheit erhalten zu haben,
 öffentlich meine tiefe Dankbarkeit der Gesellschaft für Erdkunde zu Berlin
 auszusprechen für den ehrenvollen Empfang, der mir am 6. November 1897 bereitet
 wurde, eine Auszeichnung, die ich um so höher schätze, als ich unter der
 thatkräftigen und anregenden Leitung des Vorsitzenden dieser Gesellschaft, des
-Herrn Geheimen Regierungsraths Professor Dr. Freiherrn von Richthofen,^[^0011]^ an der
+Herrn Geheimen Regierungsraths Professor Dr. Freiherrn von Richthofen,<sup>[^0011]</sup> an der
 Universität zu Berlin meine geographischen Studien betrieben hatte.
 
 Mit ebenso großen Auszeichnungen wurde ich später in Wien von der K. K.
@@ -210,7 +210,7 @@ Schöne Erinnerungen bewahre ich auch den Geographischen Gesellschaften zu
 Leipzig, Frankfurt a. M., Hamburg, Halle a. S., Straßburg i. E., Gießen und der
 Naturforschenden Gesellschaft zu Danzig, wo ich überall in der ehrendsten Weise
 empfangen wurde. Die leider sehr kurze Zeit, die ich bei Herrn Professor Dr.
-Alfred Kirchhoff^[^0012]^ in Halle a. S. studierte, gehört zu meinen schönsten
+Alfred Kirchhoff<sup>[^0012]</sup> in Halle a. S. studierte, gehört zu meinen schönsten
 Erinnerungen aus Deutschland.
 
 Ich benutze diese Gelegenheit, auch dem schwedisch-norwegischen Gesandten in

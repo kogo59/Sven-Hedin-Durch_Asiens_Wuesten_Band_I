@@ -3,7 +3,7 @@
 ::: justified
 
 
-**W**ir lagerten am Kleinen Kara-kul^[^1200]^ vom 30. September bis zum 9. Oktober.
+**W**ir lagerten am Kleinen Kara-kul<sup>[^1200]</sup> vom 30. September bis zum 9. Oktober.
 Theils that uns Ruhe noth und durften wir von den bedeutenden Höhen nicht sofort
 in die Thäler der östlichen Seite hinuntereilen, theils wollte ich die bei
 unserm ersten Besuche in dieser Gegend gemachten Beobachtungen in Hinsicht auf

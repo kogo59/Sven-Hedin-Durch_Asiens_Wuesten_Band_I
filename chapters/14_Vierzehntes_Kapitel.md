@@ -3,7 +3,7 @@
 ::: justified
 
 **A**m 17. Februar 11 Uhr vormittags zog ich mit Islam Bai, dem Missionar Johannes
-und Haschim Achun nach Osten, *Maral-baschi*^[^1400]^ als nächstes Ziel betrachtend.
+und Haschim Achun nach Osten, *Maral-baschi*<sup>[^1400]</sup> als nächstes Ziel betrachtend.
 Unsere Karawane bestand aus zwei großen Arben auf hohen, eisenbeschlagenen
 Rädern, die von je vier Pferden gezogen wurden. Auf der ersten, in der ich mit
 Johannes fuhr, war das Strohdach inwendig mit einem Kigis (Filzteppich)
@@ -48,7 +48,7 @@ Stunden im Stockdunkeln gefahren waren, das Dorf *Jaman-jer* (die schlechte
 Stelle), wo wir in einer Herberge einkehrten, die Kutscher aber in je einer Arba
 schlafen ließen, damit das Gepäck gegen Diebe geschützt war.
 
-Am 18. Februar fuhren wir durch verschiedene kleine Dörfer nach *Faisabad*^[^1401]^
+Am 18. Februar fuhren wir durch verschiedene kleine Dörfer nach *Faisabad*<sup>[^1401]</sup>
 (Wohnsitz des Segens), dem bedeutendsten Orte auf dem Wege zwischen Maral-baschi
 und Kaschgar. Es war gerade Bazartag, und in den engen Gassen wogte ein
 außergewöhnlich reges, buntes Leben. Die Bewohner aller Nachbardörfer begeben
@@ -193,7 +193,7 @@ Tengeh (1½ Mark).
 
 Am Morgen erhielten wir Besuch von einem chinesischen Beamten und vier Beks, die
 mich seitens des Ambans willkommen hießen. Die Beks waren sehr freundlich und
-mittheilsam. Sie hielten meinen Plan, die Wüste Takla-makan^[^1402]^ zu durchqueren, für
+mittheilsam. Sie hielten meinen Plan, die Wüste Takla-makan<sup>[^1402]</sup> zu durchqueren, für
 unausführbar und erzählten, daß es mitten in der Wüste zwischen dem
 Jarkent-darja und dem Chotan-darja einst eine große Stadt, Takla-makan, gegeben
 habe, die aber schon seit langem im Sande begraben liege. Das ganze Wüstengebiet

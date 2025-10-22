@@ -40,12 +40,12 @@ unbekannte Theile von Pamir; ich beschloß also, nach den Quellgebieten des
 Wir ritten das obere Tagdumbasch-Pamir hinauf und überschritten am 15. August
 den *Wakdschir-Paß* (4936 Meter), in dessen unmittelbarer Nähe die Gewässer nach
 drei Richtungen strömen. Hier hat einer der Quellflüsse des Amu-darja seinen
-Ursprung, der in westlicher Richtung fließende *Pändsch*^[^2501]^ oder *Wachan-darja*^[^2500]^,
+Ursprung, der in westlicher Richtung fließende *Pändsch*<sup>[^2501]</sup> oder *Wachan-darja*<sup>[^2500]</sup>,
 sowie der *Tagdumbasch-darja*, der nach Osten geht, und auf der Südseite des
 Hindu-kusch sammelt sich das Wasser zum Indus.
 
 Am 17. August erreichten wir den *Tschackmakden-kul* (Feuerstahlsee), aus dem
-der *Ak-su* oder *Murghab*^[^2502]^ entspringt.
+der *Ak-su* oder *Murghab*<sup>[^2502]</sup> entspringt.
 
 Da ich wußte, daß die große russisch-englische Kommission, deren Aufgabe es war,
 eine definitive Grenze von dem Victoria-See nach der chinesischen Grenze zu
@@ -65,7 +65,7 @@ brach ich am 19. auf, erreichte am Abend Mehman-jolli und schlug mein Zelt auf
 neutralem Boden auf, zwischen den Jurten des russischen Lagers und den weißen
 indischen Zelten der Engländer.
 
-Der russische Kommissar, General Pawalo-Schweikowskij, Gouverneur von Fergana^[^2504]^,
+Der russische Kommissar, General Pawalo-Schweikowskij, Gouverneur von Fergana<sup>[^2504]</sup>,
 war von früher mein Freund und Wohlthäter, und ich glaubte daher, ihn zuerst
 besuchen zu müssen. Ich konnte indessen nicht zu ihm kommen, ohne durch das
 englische Lager zu reiten. Dort sah mich Mr. Macartney und brachte mir
@@ -86,13 +86,13 @@ Proteste und Anspielungen auf meine neutrale Eigenschaft ließ er sofort eine
 schöne Jurte mit einem Bett bereit halten, ein Luxus, den ich schon lange nicht
 mehr genossen.
 
-Am folgenden Vormittag machte ich General Gerard^[^2507]^ einen Besuch und wurde auch von
+Am folgenden Vormittag machte ich General Gerard<sup>[^2507]</sup> einen Besuch und wurde auch von
 ihm mit überaus großer Freundlichkeit empfangen. Im Handumdrehen wurde ich mit
 allen Mitgliedern der Kommission bekannt. General Gerard's nächster Beisitzer
-war Oberst Holdich^[^2505]^, der für seine trigonometrischen und astronomischen Aufnahmen
+war Oberst Holdich<sup>[^2505]</sup>, der für seine trigonometrischen und astronomischen Aufnahmen
 in den Grenzdistrikten Indiens die große goldene Medaille der Royal Geographical
 Society erhalten hat. Seine übrigen Offiziere waren der Topograph Major Wahab,
-Hauptmann McSwiney, der fließend russisch sprach, Doctor Alcock^[^2506]^, der
+Hauptmann McSwiney, der fließend russisch sprach, Doctor Alcock<sup>[^2506]</sup>, der
 Museumsdirektor und Professor der Universität zu Kalkutta, und mein Freund Mr.
 Macartney, der Agent für chinesische Angelegenheiten in Kaschgar. Im übrigen
 hatten die Engländer für die topographischen Arbeiten im Felde noch drei

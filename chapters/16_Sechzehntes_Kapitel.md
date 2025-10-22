@@ -127,8 +127,8 @@ festen Holzgitter umgeben, welches das dünne Eisenblech gegen Stöße schützt.
 das Gitter stopften die Leute Gras und Schilf, um die Kisten an den heißen Tagen
 kühl zu erhalten.
 
-Zum Schlusse einige Worte über den Reiseplan selbst. Prschewalskij^[^1600]^, Carey und
-Dalgleish^[^1601]^ waren die ersten Europäer, die den Berg Masar-tag am linken Ufer des
+Zum Schlusse einige Worte über den Reiseplan selbst. Prschewalskij<sup>[^1600]</sup>, Carey und
+Dalgleish<sup>[^1601]</sup> waren die ersten Europäer, die den Berg Masar-tag am linken Ufer des
 Chotan-darja gesehen hatten (1885). Der Erstgenannte schreibt hierüber: „Nach
 drei kurzen Tagemärschen (von Tavek-kel) kamen wir an den Punkt des
 Chotan-darja, an dem die kleine Bergkette Masar-tag sich mit ihren Abhängen bis

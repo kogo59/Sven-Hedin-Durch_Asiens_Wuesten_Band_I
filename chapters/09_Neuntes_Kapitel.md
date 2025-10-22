@@ -560,7 +560,7 @@ Bänder, die im Vergleich mit der ungeheuern Masse des Panzereises verschwindend
 klein sind.
 
 Am Sonntag, 12. August, gönnten wir uns Ruhe, und ich las, wie gewöhnlich, in
-einsamer Morgenstunde die betreffenden Predigttexte und studirte dann Heim's^[^9000]^
+einsamer Morgenstunde die betreffenden Predigttexte und studirte dann Heim's<sup>[^9000]</sup>
 „Gletscherkunde“. Das Wetter war für eine Exkursion wenig einladend; die Luft
 war dick, es wehte stark, und der Berg war in dichte Wolken gehüllt. Alle meine
 Leute hatten Urlaub bekommen; sie waren zu einem Schmause bei Togda Bai Bek

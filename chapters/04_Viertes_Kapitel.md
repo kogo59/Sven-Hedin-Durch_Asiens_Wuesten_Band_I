@@ -49,7 +49,7 @@ kehren im Sommer wieder an den See zurück. Ihre Heerden zählten 400 Schafe, 40
 Yaks, 7 Kamele und 3 Pferde.
 
 Am nächsten Tage hatten wir die provisorische Grenze zwischen dem russischen und
-dem chinesischen Pamir zu passiren. Es galt, die gewaltige Bergkette *Sarik-kol*^[^4000]^
+dem chinesischen Pamir zu passiren. Es galt, die gewaltige Bergkette *Sarik-kol*<sup>[^4000]</sup>
 zu überschreiten, deren Schneekamm schon vom Rang-kul an uns entgegengeglänzt
 hatte. Mehrere Pässe führen hinüber, ich wählte den 4730 Meter hohen
 *Tschuggatai*. Wir brachen also nach Nordosten auf. Die Steigung nimmt zu, und
@@ -125,7 +125,7 @@ Kaschgar gezeigt hatte, erlaubten sie es unter der Bedingung, daß er nach
 erledigtem Auftrage geraden Weges nach dem russischen Pamir zurückkehre. Dagegen
 mußte ein kirgisischer Aellik-baschi (Anführer von 50 Mann), der mit uns
 gekommen war, augenblicklich wieder umkehren, weil er keinen Paß hatte. Rehim
-Bai beabsichtigte ich zu Kamel nach Kaschgar^[^4001]^ zu schicken, weil sein Zustand sehr
+Bai beabsichtigte ich zu Kamel nach Kaschgar<sup>[^4001]</sup> zu schicken, weil sein Zustand sehr
 bedenklich war und er der Ruhe und Pflege bedurfte, aber hierauf wollte Tura
 Kelldi Savgan nicht eingehen, denn wenn der Mann unterwegs stürbe, würden die
 chinesischen Behörden nur Verdrießlichkeiten davon haben.

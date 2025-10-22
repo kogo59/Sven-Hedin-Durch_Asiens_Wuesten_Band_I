@@ -278,7 +278,7 @@ Wintern kann man auf dem Eise diesen Weg nach Jarkent einschlagen.
 Das Terrain ist bisher abgefallen, vom Vereinigungspunkte der beiden Flüsse an
 aber steigt es wieder. Wir reiten südwärts am linken Ufer des Tagdumbasch-darja
 hin. Der Weg ist eben und hart und geht oft durch üppiges Wiesenland. In der
-Ferne erscheint die Festung *Tasch-kurgan*^[^2400]^, das Ziel unsers Tagemarsches.
+Ferne erscheint die Festung *Tasch-kurgan*<sup>[^2400]</sup>, das Ziel unsers Tagemarsches.
 
 Wir reiten durch die Dörfer *Tschuschman* (45 Häuser) und *Tisnab* (200 Häuser)
 und haben nun das breite *Tagdumbasch-Thal* vor uns, mit seinen Aeckern und

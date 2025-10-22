@@ -262,8 +262,8 @@ Schneemassen, und auch im Sarik-kol-Thal ist die Schneemenge nicht unerheblich.
 Infolge dieser ungleichen Vertheilung der Niederschläge fanden wir die Flüsse
 der schneereichen Gegenden wasserreicher als die des Plateaulandes. So war bei
 meinem Besuche z. B. der Kisilsu viermal so groß als der Murghab (Ak-su), der
-Quellfluß des Amudarja^[^3002]^, obgleich ich die Wassermenge dort einen Monat später
-maß. Der Kisil-su^[^3001]^ führte 27 Kubikmeter, der Murghab^[^3000]^ nur 7,<small>15</small> in
+Quellfluß des Amudarja<sup>[^3002]</sup>, obgleich ich die Wassermenge dort einen Monat später
+maß. Der Kisil-su<sup>[^3001]</sup> führte 27 Kubikmeter, der Murghab<sup>[^3000]</sup> nur 7,<small>15</small> in
 der Sekunde.
 
 Die Grenzen des Uebergangsgebietes können auch als ethnologische und sprachliche

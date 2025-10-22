@@ -342,7 +342,7 @@ Zeiten.
 ::::
 
 Gab es wohl eine Person, bei der ein Besuch an diesem Festtage passender gewesen
-wäre, als den schwedischen Missionar Högberg^[^1301]^, der im Sommer mit seiner Familie
+wäre, als den schwedischen Missionar Högberg<sup>[^1301]</sup>, der im Sommer mit seiner Familie
 nach Kaschgar gekommen war. In Gesellschaft des englischen Agenten Mr. Macartney
 und des Paters Hendricks begab ich mich nachmittags zu ihm. Wir brachten
 Högberg's Tochter einige Kleinigkeiten mit, und dort wurden die von alters her
@@ -354,7 +354,7 @@ war nicht dazu zu bringen, noch ein wenig zu verweilen; er mußte nach Hause in
 seine einsame Kammer im Hindukarawanserai; dort wollte er mit dem Schlage Zwölf
 die Christmesse lesen, — allein, immer ganz allein!
 
-Am 5. Januar 1895 war der Engländer St. George Littledale^[^1300]^ mit seiner muthigen
+Am 5. Januar 1895 war der Engländer St. George Littledale<sup>[^1300]</sup> mit seiner muthigen
 Frau und einem Verwandten, Mr. Fletcher, in Kaschgar angelangt. In ihrer
 Gesellschaft verlebten wir viele vergnügte Stunden. Littledale war eine
 außerordentlich angenehme, männliche und anspruchslose Persönlichkeit, und

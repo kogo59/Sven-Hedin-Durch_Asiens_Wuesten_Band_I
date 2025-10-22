@@ -510,7 +510,7 @@ daher die Gräber der übrigen verpesten würde.
 
 In Hinsicht auf die Mitgift gilt ungefähr derselbe Brauch wie bei den Kirgisen.
 Sie wird je nach Vermögen an die Eltern der Braut bezahlt. Ein reicher Mann gibt
-zwei Jambaus^[^1500]^ (ca. 400 Mark). Gewöhnlich wird alles in Naturalien
+zwei Jambaus<sup>[^1500]</sup> (ca. 400 Mark). Gewöhnlich wird alles in Naturalien
 erlegt, aber Kleider und Aussteuer der Braut sind obligatorisch. Ein armer Mann
 gibt nur eine Mahlzeit und die Kleider. Die Größe des Betrages hängt einzig und
 allein von den Eltern ab; Schönheit und andere körperliche Vorzüge haben weniger

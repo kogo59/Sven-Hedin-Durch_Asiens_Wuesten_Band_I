@@ -62,7 +62,7 @@ und hüteten hier 170 Schafe und Ziegen nebst 60 Kühen, die alle einem Bai in
 Chotan gehörten.
 
 Winter und Sommer liegen sie mit den Thieren draußen im Walde und erhalten für
-ihre einförmige Arbeit zusammen blos 20 Tengeh^[^2200]^ (9 Mark) monatlich und Maismehl
+ihre einförmige Arbeit zusammen blos 20 Tengeh<sup>[^2200]</sup> (9 Mark) monatlich und Maismehl
 zu Brot. Wenn ein Platz abgeweidet ist, wandern sie nach einem andern. An jeder
 neuen Stelle erbauen sie eine kleine Hütte, wenn nicht aus frühern Jahren schon
 eine da ist. Seit 5 Tagen hatten sie hier gelegen, als ich sie fand, wollten

@@ -141,13 +141,13 @@ Schmutz beinahe ertrinkt. Am Rande der Stadt kann man sich jedoch rein
 asiatischer Bilder erfreuen, denn dort haben die Tataren und Kirgisen ihre
 Marktplätze unter freiem Himmel oder in niedrigen Holzschuppen.
 
-Die Entfernung zwischen Orenburg^[^1002]^ und Taschkent,^[^1003]^ meinem
+Die Entfernung zwischen Orenburg<sup>[^1002]</sup> und Taschkent,<sup>[^1003]</sup> meinem
 nächsten Ziele, beträgt 2080 Kilometer. Ich sollte zu Wagen also beinahe ebenso
 weit fahren, wie ich mit der Bahn in vier Tagen gereist — *zweitausend Kilometer
-im Tarantas,^[^1001]^* im Monat November, auf steinharten oder durchweichten
+im Tarantas,<sup>[^1001]</sup>* im Monat November, auf steinharten oder durchweichten
 oder schneebedeckten Wegen, durch Steppen und Wüsten! Mir graute ein wenig vor
 diesem Wege, der ebenso lang ist wie die Luftlinie von Berlin bis Algier. Aber
-ich hatte die Transkaspische Eisenbahn^[^1004]^ nach Samarkand^[^1005]^ schon
+ich hatte die Transkaspische Eisenbahn<sup>[^1004]</sup> nach Samarkand<sup>[^1005]</sup> schon
 auf einer frühern Reise kennen gelernt und wollte daher die Gelegenheit
 wahrnehmen, auch die unermeßliche Kirgisensteppe und die Wüste Karakum, den
 „schwarzen Sand“, zu sehen, um sie mit ihrer turkmenischen Namensschwester
@@ -155,8 +155,8 @@ vergleichen zu können.
 
 In der „guten, alten Zeit“ war dieser Weg der einzige, der nach
 Russisch-Turkestan führte, und jede Station mußte 9—10 Troikas (Dreigespanne,
-also 27—30 Pferde) haben. Skobeleff's^[^1007]^ Feldzug gegen die Turkmenen und
-Annenkoff's^[^1006]^ Bahnbau nach Samarkand führten eine neue Ordnung der Dinge herbei.
+also 27—30 Pferde) haben. Skobeleff's<sup>[^1007]</sup> Feldzug gegen die Turkmenen und
+Annenkoff's<sup>[^1006]</sup> Bahnbau nach Samarkand führten eine neue Ordnung der Dinge herbei.
 Die Post nach Taschkent und die vielen Reisenden wählten lieber diesen
 schnellern, billigern und bequemern Weg, und die alte Poststraße durch die
 Kirgisensteppe gerieth in Verfall. Nur noch die Localpost ist, in Verbindung mit
@@ -216,11 +216,11 @@ zwischen den Stationen ist groß, und von Zeit zu Zeit schlummert man ein, da da
 ewige Rütteln auf dem hartgefrorenen Boden und der monotone Schellenklang eine
 einschläfernde Wirkung ausüben.
 
-Nach zwei Tagereisen erreichten wir Orsk^[^1008]^ mit seinen 20000 Einwohnern, das am
+Nach zwei Tagereisen erreichten wir Orsk<sup>[^1008]</sup> mit seinen 20000 Einwohnern, das am
 linken Ufer des Ural und am rechten des Or gelegen ist.
 
 Zwischen dem Ural-Flusse, dem Kaspischen Meer, dem Aral-See, dem
-Sirdarja^[^1009]^ und dem Irtysch breitet die gewaltige Kirgisensteppe ihre
+Sirdarja<sup>[^1009]</sup> und dem Irtysch breitet die gewaltige Kirgisensteppe ihre
 ebene Fläche aus. Von kirgisischen Nomaden spärlich bevölkert, ist diese Steppe
 nur die Heimat einer kleinen Zahl von Thier- und Pflanzenarten. Wölfe, Füchse,
 Antilopen, Hasen u. s. w. streifen in der endlosen Einöde umher, und stachelige
@@ -316,12 +316,12 @@ Haupteingange führt. An jeder Seite steht ein Laternenpfahl und ein Pfahl mit
 einem Zettel, der die Entfernungen nach den beiden Nachbarstationen angibt.
 
 Der erste russische Ort, den man auf asiatischem Boden passirt, ist
-*Kara-butak*,^[^1010]^ ein kleines Dorf, wie Rom auf sieben Hügeln und um diese herum
+*Kara-butak*,<sup>[^1010]</sup> ein kleines Dorf, wie Rom auf sieben Hügeln und um diese herum
 gelegen, an Umfang aber etwas kleiner als jene Stadt. Es besteht aus 33 Häusern,
 in denen einige dreißig Russen und gegen hundert Tataren sammt einigen Kirgisen
 wohnen. Die einzige Bedeutung von Kara-butak liegt darin, daß es ein kleines
 Fort ist, das vor 25 Jahren von dem jetzigen Generalstabschef General
-Obrutscheff^[^1011]^ angelegt worden war, um die Kirgisen in Schach zu halten, die damals
+Obrutscheff<sup>[^1011]</sup> angelegt worden war, um die Kirgisen in Schach zu halten, die damals
 die russische Grenze beunruhigten. Hier gebietet ein „Wajennij Natschalnik“ über
 84 Soldaten. Er sagte, hier in der Einsamkeit zu wohnen sei nicht viel besser
 als Deportation, und er könne es nicht länger als ein Jahr aushalten. Die
@@ -343,7 +343,7 @@ ihr Gold über die Steppe, thaut den Reif auf, der mit seinen feinen Dunen das
 Gras über Nacht weiß gefärbt, und scheucht die Wölfe der Wildniß von der
 Poststraße fort.
 
-Noch ein paar Stationen, und man ist in der Festung *Irgis*^[^1012]^ angelangt, die auf
+Noch ein paar Stationen, und man ist in der Festung *Irgis*<sup>[^1012]</sup> angelangt, die auf
 einer kleinen Anhöhe am Flusse gleichen Namens liegt. Wieder sausen wir im
 Galopp dahin. Gegen fünf Uhr geht die Sonne unter. Ein matter Purpurschimmer
 ergießt sich über die Steppe, wenn das Tagesgestirn, feurig gleich einer
@@ -360,7 +360,7 @@ Nacht übergeht. Diese werden jedoch nicht sehr dunkel, denn die Luft ist rein
 und klar, die Sterne leuchten wie elektrische Lampen, und der Mond streut sein
 Silber über das Heimatland der Kirgisen.
 
-Wir betreten die *Wüste Karakum*.^[^1013]^ Die Vegetation wird immer spärlicher, und in
+Wir betreten die *Wüste Karakum*.<sup>[^1013]</sup> Die Vegetation wird immer spärlicher, und in
 kurzem sind wir von nichts als Sand umgeben. Es ist eine Gegend, die früher von
 den Wassermassen des Aralo-kaspischen Meeres bespült worden ist. Davon zeugt das
 reichliche Vorkommen versteinerter Muscheln (Cardium und Mytilus), deren Schalen
@@ -426,7 +426,7 @@ Pätschorka oder Fünfgespann verwandelten. Mit vereinten Kräften gelang es den
 Pferden, den Wagen aus dem Schlamme zu ziehen.
 
 Am rechten Ufer des Sir-darja liegt, in einer Entfernung von 181 Kilometer
-Flußweg und 85 Kilometer Landweg vom Aral-See, die Stadt *Kasalinsk*^[^1014]^ mit 600
+Flußweg und 85 Kilometer Landweg vom Aral-See, die Stadt *Kasalinsk*<sup>[^1014]</sup> mit 600
 Häusern, darunter 200 russische, und 3500 Einwohnern, von denen 1000 Uralkosaken
 sind.
 
@@ -453,7 +453,7 @@ der es nur hier und da der Saksaul aushielt; nun aber durchschnitt er Gegenden,
 die Spuren frischer Ueberschwemmungen trugen und wo das Schilfrohr hoch und
 dicht stand.
 
-Von Fort *Perowsk*^[^1016]^ an, das ebenfalls am Sir-darja liegt und im ganzen Kasalinsk
+Von Fort *Perowsk*<sup>[^1016]</sup> an, das ebenfalls am Sir-darja liegt und im ganzen Kasalinsk
 gleicht, aber sauberer ist, bis zur Station *Tschumenarik* ist die Vegetation sehr
 reich und besteht aus Schilfrohr, Saksaul und stacheligem Gestrüpp, das dichte
 Hecken bildet, echte Tigerverstecke, zwischen denen der Weg sich oft wie in
@@ -464,11 +464,11 @@ Wagen vom Wegrande aus betrachten; sobald man aber hält, um zu schießen, erheb
 sie sich mit sausenden, pfeifenden Flügelschlägen. Endlich zeichnen sich die
 Gärten von Turkestan mit ihren hohen Pappeln, ihren langen grauen, theilweise
 neuen, meist aber alten, in Ruinen liegenden Lehmmauern und ihrem imposanten
-Heiligengrabe aus der Zeit Timurs^[^1015]^ gegen den Himmel ab, und jetzt fahren
+Heiligengrabe aus der Zeit Timurs<sup>[^1015]</sup> gegen den Himmel ab, und jetzt fahren
 wir durch die heute (1. December), einem Freitag, dem muhammedanischen Sonntage,
 leeren, verlassenen Bazare nach dem Posthause.
 
-Turkestan^[^1017]^, das 1864 von General Tschernajeff erobert wurde, ist schon an und für
+Turkestan<sup>[^1017]</sup>, das 1864 von General Tschernajeff erobert wurde, ist schon an und für
 sich eine verfallene, uninteressante Stadt, bei dem heutigen Platzregen und
 Nebel wurde sie aber geradezu urlangweilig. Das Einzige, was einen mehrstündigen
 Aufenthalt entschuldigt, ist die kolossale Grabmoschee, die 1397 von Timur zur
@@ -567,7 +567,7 @@ Kamelkarawanen auf.
 ::::
 
 Das Dorf *Biskent* ist für die neuere Geschichte Centralasiens von gewissem
-Interesse, denn hier wurde um das Jahr 1825 Jakub Bek^[^1018]^ geboren, der 1865 ganz
+Interesse, denn hier wurde um das Jahr 1825 Jakub Bek<sup>[^1018]</sup> geboren, der 1865 ganz
 Kaschgar eroberte, einer der merkwürdigsten Herrscher, die es gegeben und dessen
 Andenken in ganz Innerasien, wo er gewöhnlich „Bedaulet“, der Glückliche,
 genannt wird, schwerlich erlöschen wird. Nachdem er 1877 in Korla ermordet
@@ -585,8 +585,8 @@ großen politischen Veränderungen seit Jakub Bek's Tagen in Ostturkestan
 vorgegangen sind! 
 
 Nach mehrern, durch den Mangel an Pferden verursachten Unterbrechungen kam ich
-am 27. Januar in *Chodschent*^[^1019]^ an, wo ich einige Messungen auf dem Sir-darja
-ausführte, und traf am 29. in *Kokan*^[^1020]^ ein.
+am 27. Januar in *Chodschent*<sup>[^1019]</sup> an, wo ich einige Messungen auf dem Sir-darja
+ausführte, und traf am 29. in *Kokan*<sup>[^1020]</sup> ein.
 
 Die Stadt Kokan hat 11&nbsp;600 Häuser und 9 Fabriken zur Reinigung von
 Baumwolle. Die Einwohnerzahl betrug circa 60&nbsp;000, darunter eine russische
@@ -607,10 +607,10 @@ und aus den Wasserdämpfen schimmern nackte Gestalten mit langen schwarzen oder
 grauen Bärten hervor. Die Muhammedaner bringen oft den halben Tag im Bade zu, wo
 sie rauchen, Thee trinken und manchmal auch zu Mittag essen. Statt direkt auf
 der Hauptpoststraße nach Margelan zu fahren, wählte ich den 220 Kilometer langen
-Umweg über *Tschust*^[^1021]^ und *Namangan*,^[^1022]^ um noch einigemal den Sir-darja
+Umweg über *Tschust*<sup>[^1021]</sup> und *Namangan*,<sup>[^1022]</sup> um noch einigemal den Sir-darja
 überschreiten und meine Messungen vollenden zu können.
 
-Am 4. Februar erreichte ich die Hauptstadt von Fergana, *Margelan*,^[^1023]^ wo mich der
+Am 4. Februar erreichte ich die Hauptstadt von Fergana, *Margelan*,<sup>[^1023]</sup> wo mich der
 Gouverneur, General Pawalo-Schweikowskij, mit außerordentlicher
 Liebenswürdigkeit empfing, mich während der zwanzig Tage, die ich in seinem
 Hause zubrachte, aufs beste bewirthete und mir viele sehr nützliche Rathschläge

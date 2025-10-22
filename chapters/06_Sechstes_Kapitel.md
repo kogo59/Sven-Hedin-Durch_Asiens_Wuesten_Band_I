@@ -50,7 +50,7 @@ ruinirt würde.
 
 Wir hatten indessen schon von anderer Seite gehört, daß sogar Eselkarawanen die
 Bäche passiren könnten, und überdies war die Jahreszeit nichts weniger als
-einladend, um den viel längern Weg über Jarkent^[^6000]^ zu nehmen, wo die Pest im Sommer
+einladend, um den viel längern Weg über Jarkent<sup>[^6000]</sup> zu nehmen, wo die Pest im Sommer
 ständig ihre Opfer fordert. Als er meinen Entschluß erfahren, ließ er antworten,
 er würde mich mit Führern versehen.
 
@@ -185,7 +185,7 @@ zu besorgen, denn pünktlich beobachtete er die Stunden des Gebets, während die
 Während der folgenden Tagemärsche kam mehr Abwechslung in die Landschaft, und
 das Gebirge wurde immer wilder. Wir sollten jetzt das Thalgebiet des Keng-kol
 verlassen und uns nach dem *Tschar-lung*, einem der Nebenflüsse des
-Jarkent-darja^[^6001]^, begeben. Der Paß, der beide trennt, heißt wie die beiden auf ihm
+Jarkent-darja<sup>[^6001]</sup>, begeben. Der Paß, der beide trennt, heißt wie die beiden auf ihm
 entspringenden Bäche *Kaschka-su* (der bunte Bach).
 
 Das kleine Thal, das zum Passe hinaufführt, ist ziemlich eng, und die Steigung
@@ -218,7 +218,7 @@ Herberge) unter Dach und Fach zu kommen. Hier waren wir wieder auf 2884 Meter
 heruntergestiegen.
 
 Pas-rabat ist insofern wichtig, als über diesen Ort ein Weg führt, der Kaschgar,
-Jangi-hissar und Jarkent mit *Tasch-kurgan*^[^6002]^, der bedeutendsten chinesischen
+Jangi-hissar und Jarkent mit *Tasch-kurgan*<sup>[^6002]</sup>, der bedeutendsten chinesischen
 Festung im östlichen Pamir, verbindet. Deshalb ist hier ein kleines Fort
 angelegt.
 
