@@ -476,7 +476,7 @@ Lager nicht einmal das Murmeln der Bäche, nur die Mücken hielten uns lange wac
 Die das Tagarma-Thal bewohnenden Kirgisen bleiben dort Winter und Sommer; sie
 zählen 80 Jurten, von denen 50 Kessek- und 30 Teit-Kirgisen sind. Auf jede Jurte
 kommen durchschnittlich 4 Bewohner. In Besch-kurgan und Sarala haben außerdem 20
-TadschikFamilien ihre Wohnungen.
+Tadschik-Familien ihre Wohnungen.
 
 Die hier wohnenden Kirgisen sind in der Mehrzahl arm. Sie besitzen
 zusammengenommen bloß 2000 Schafe und 200 Yaks; manche von ihnen haben gar keine
